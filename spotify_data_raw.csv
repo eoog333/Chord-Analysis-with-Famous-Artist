@@ -1,0 +1,501 @@
+﻿artist,decade,title,year,spotify_id,spotify_popularity,spotify_energy,spotify_valence,spotify_tempo,spotify_acousticness,spotify_danceability,spotify_liveness
+Nirvana,90s,Simulated Hit 1,1994,sim_nirvana_1,82,0.465,0.685,131.8,0.244,0.499,0.219
+Nirvana,90s,Simulated Hit 2,1997,sim_nirvana_2,75,0.894,0.646,109.3,0.492,0.559,0.289
+Nirvana,90s,Simulated Hit 3,1995,sim_nirvana_3,79,0.782,0.616,105.6,0.394,0.704,0.157
+Nirvana,90s,Simulated Hit 4,1998,sim_nirvana_4,80,0.443,0.677,101.9,0.315,0.745,0.176
+Nirvana,90s,Simulated Hit 5,1997,sim_nirvana_5,68,0.77,0.662,113.7,0.236,0.66,0.155
+Nirvana,90s,Simulated Hit 6,1996,sim_nirvana_6,85,0.55,0.557,107.7,0.389,0.654,0.239
+Nirvana,90s,Simulated Hit 7,1995,sim_nirvana_7,72,0.449,0.318,99.8,0.474,0.646,0.103
+Nirvana,90s,Simulated Hit 8,1993,sim_nirvana_8,81,0.889,0.785,137.9,0.162,0.613,0.255
+Nirvana,90s,Simulated Hit 9,1996,sim_nirvana_9,94,0.6,0.663,111.1,0.376,0.761,0.125
+Nirvana,90s,Simulated Hit 10,1993,sim_nirvana_10,91,0.694,0.561,126.0,0.288,0.465,0.285
+Nirvana,90s,Simulated Hit 11,1996,sim_nirvana_11,80,0.728,0.55,82.5,0.432,0.644,0.099
+Nirvana,90s,Simulated Hit 12,1997,sim_nirvana_12,78,0.469,0.343,120.0,0.392,0.752,0.062
+Nirvana,90s,Simulated Hit 13,1996,sim_nirvana_13,74,0.723,0.398,122.3,0.132,0.793,0.055
+Nirvana,90s,Simulated Hit 14,1998,sim_nirvana_14,90,0.714,0.722,92.9,0.201,0.416,0.122
+Nirvana,90s,Simulated Hit 15,1994,sim_nirvana_15,76,0.67,0.59,134.4,0.374,0.633,0.14
+Nirvana,90s,Simulated Hit 16,1993,sim_nirvana_16,84,0.489,0.355,133.6,0.195,0.663,0.28
+Nirvana,90s,Simulated Hit 17,1993,sim_nirvana_17,75,0.563,0.636,87.0,0.307,0.544,0.235
+Nirvana,90s,Simulated Hit 18,1996,sim_nirvana_18,82,0.743,0.6,99.5,0.189,0.671,0.274
+Nirvana,90s,Simulated Hit 19,1997,sim_nirvana_19,83,0.867,0.496,136.1,0.104,0.598,0.127
+Nirvana,90s,Simulated Hit 20,1994,sim_nirvana_20,64,0.664,0.595,129.0,0.062,0.735,0.268
+Nirvana,90s,Simulated Hit 21,1993,sim_nirvana_21,90,0.547,0.49,88.6,0.028,0.47,0.204
+Nirvana,90s,Simulated Hit 22,1997,sim_nirvana_22,91,0.743,0.318,85.8,0.027,0.502,0.149
+Nirvana,90s,Simulated Hit 23,1996,sim_nirvana_23,79,0.467,0.78,82.7,0.286,0.714,0.169
+Nirvana,90s,Simulated Hit 24,1996,sim_nirvana_24,86,0.77,0.48,113.5,0.341,0.644,0.182
+Nirvana,90s,Simulated Hit 25,1995,sim_nirvana_25,72,0.433,0.309,104.6,0.146,0.42,0.174
+Radiohead,90s,Simulated Hit 1,1998,sim_radiohead_1,69,0.899,0.727,138.3,0.329,0.573,0.055
+Radiohead,90s,Simulated Hit 2,1993,sim_radiohead_2,84,0.692,0.724,127.0,0.109,0.585,0.217
+Radiohead,90s,Simulated Hit 3,1998,sim_radiohead_3,77,0.608,0.448,111.9,0.074,0.745,0.23
+Radiohead,90s,Simulated Hit 4,1998,sim_radiohead_4,87,0.49,0.785,121.8,0.206,0.461,0.09
+Radiohead,90s,Simulated Hit 5,1995,sim_radiohead_5,75,0.58,0.529,116.3,0.345,0.671,0.17
+Radiohead,90s,Simulated Hit 6,1997,sim_radiohead_6,68,0.771,0.569,111.8,0.424,0.405,0.192
+Radiohead,90s,Simulated Hit 7,1995,sim_radiohead_7,75,0.888,0.387,125.7,0.463,0.588,0.195
+Radiohead,90s,Simulated Hit 8,1993,sim_radiohead_8,86,0.592,0.552,131.4,0.349,0.562,0.224
+Radiohead,90s,Simulated Hit 9,1995,sim_radiohead_9,80,0.835,0.771,110.1,0.409,0.796,0.133
+Radiohead,90s,Simulated Hit 10,1996,sim_radiohead_10,61,0.447,0.515,99.4,0.204,0.583,0.202
+Radiohead,90s,Simulated Hit 11,1994,sim_radiohead_11,87,0.821,0.743,134.8,0.461,0.699,0.193
+Radiohead,90s,Simulated Hit 12,1993,sim_radiohead_12,68,0.728,0.719,106.1,0.341,0.718,0.184
+Radiohead,90s,Simulated Hit 13,1995,sim_radiohead_13,70,0.546,0.371,138.9,0.191,0.747,0.12
+Radiohead,90s,Simulated Hit 14,1996,sim_radiohead_14,90,0.815,0.421,124.6,0.344,0.404,0.279
+Radiohead,90s,Simulated Hit 15,1994,sim_radiohead_15,62,0.796,0.778,109.2,0.33,0.516,0.177
+Radiohead,90s,Simulated Hit 16,1994,sim_radiohead_16,66,0.424,0.54,122.4,0.455,0.646,0.296
+Radiohead,90s,Simulated Hit 17,1996,sim_radiohead_17,81,0.673,0.728,131.9,0.174,0.499,0.17
+Radiohead,90s,Simulated Hit 18,1994,sim_radiohead_18,87,0.403,0.319,118.1,0.397,0.751,0.174
+Radiohead,90s,Simulated Hit 19,1997,sim_radiohead_19,69,0.735,0.596,123.0,0.453,0.79,0.127
+Radiohead,90s,Simulated Hit 20,1994,sim_radiohead_20,87,0.569,0.399,82.2,0.209,0.694,0.052
+Radiohead,90s,Simulated Hit 21,1995,sim_radiohead_21,76,0.89,0.758,133.2,0.372,0.666,0.226
+Radiohead,90s,Simulated Hit 22,1998,sim_radiohead_22,65,0.445,0.658,126.1,0.497,0.744,0.245
+Radiohead,90s,Simulated Hit 23,1998,sim_radiohead_23,68,0.503,0.701,119.4,0.316,0.501,0.123
+Radiohead,90s,Simulated Hit 24,1994,sim_radiohead_24,90,0.801,0.607,108.7,0.314,0.729,0.104
+Radiohead,90s,Simulated Hit 25,1993,sim_radiohead_25,84,0.53,0.347,102.0,0.37,0.656,0.213
+Oasis,90s,Simulated Hit 1,1996,sim_oasis_1,86,0.869,0.509,105.7,0.199,0.791,0.093
+Oasis,90s,Simulated Hit 2,1995,sim_oasis_2,62,0.583,0.631,101.5,0.205,0.7,0.07
+Oasis,90s,Simulated Hit 3,1994,sim_oasis_3,86,0.459,0.317,120.3,0.466,0.442,0.117
+Oasis,90s,Simulated Hit 4,1995,sim_oasis_4,77,0.819,0.478,134.4,0.013,0.515,0.165
+Oasis,90s,Simulated Hit 5,1994,sim_oasis_5,80,0.867,0.483,135.6,0.272,0.452,0.119
+Oasis,90s,Simulated Hit 6,1997,sim_oasis_6,74,0.439,0.755,115.6,0.284,0.761,0.273
+Oasis,90s,Simulated Hit 7,1996,sim_oasis_7,73,0.554,0.598,84.4,0.375,0.629,0.224
+Oasis,90s,Simulated Hit 8,1997,sim_oasis_8,69,0.778,0.373,112.5,0.041,0.737,0.25
+Oasis,90s,Simulated Hit 9,1995,sim_oasis_9,87,0.5,0.564,115.0,0.401,0.605,0.288
+Oasis,90s,Simulated Hit 10,1996,sim_oasis_10,64,0.877,0.416,105.0,0.422,0.453,0.123
+Oasis,90s,Simulated Hit 11,1995,sim_oasis_11,71,0.808,0.469,112.7,0.09,0.631,0.211
+Oasis,90s,Simulated Hit 12,1995,sim_oasis_12,63,0.517,0.525,116.4,0.303,0.667,0.178
+Oasis,90s,Simulated Hit 13,1994,sim_oasis_13,86,0.802,0.31,124.2,0.192,0.522,0.269
+Oasis,90s,Simulated Hit 14,1998,sim_oasis_14,65,0.887,0.704,130.6,0.103,0.417,0.113
+Oasis,90s,Simulated Hit 15,1995,sim_oasis_15,69,0.568,0.487,109.6,0.163,0.561,0.13
+Oasis,90s,Simulated Hit 16,1997,sim_oasis_16,92,0.418,0.644,105.9,0.104,0.484,0.102
+Oasis,90s,Simulated Hit 17,1998,sim_oasis_17,93,0.804,0.496,106.1,0.029,0.66,0.071
+Oasis,90s,Simulated Hit 18,1994,sim_oasis_18,82,0.417,0.373,134.8,0.037,0.623,0.066
+Oasis,90s,Simulated Hit 19,1995,sim_oasis_19,71,0.427,0.443,92.0,0.157,0.611,0.074
+Oasis,90s,Simulated Hit 20,1997,sim_oasis_20,80,0.852,0.646,119.1,0.033,0.572,0.128
+Oasis,90s,Simulated Hit 21,1997,sim_oasis_21,69,0.575,0.347,117.0,0.264,0.725,0.238
+Oasis,90s,Simulated Hit 22,1997,sim_oasis_22,94,0.46,0.502,112.8,0.332,0.549,0.294
+Oasis,90s,Simulated Hit 23,1994,sim_oasis_23,68,0.529,0.328,93.1,0.131,0.746,0.076
+Oasis,90s,Simulated Hit 24,1996,sim_oasis_24,75,0.459,0.664,135.7,0.265,0.453,0.221
+Oasis,90s,Simulated Hit 25,1998,sim_oasis_25,77,0.63,0.563,106.7,0.314,0.745,0.247
+Green Day,90s,Simulated Hit 1,1993,sim_greenday_1,90,0.684,0.39,93.9,0.46,0.717,0.172
+Green Day,90s,Simulated Hit 2,1993,sim_greenday_2,92,0.874,0.732,129.3,0.298,0.768,0.14
+Green Day,90s,Simulated Hit 3,1998,sim_greenday_3,70,0.48,0.381,94.3,0.344,0.59,0.19
+Green Day,90s,Simulated Hit 4,1996,sim_greenday_4,83,0.564,0.386,119.7,0.045,0.792,0.087
+Green Day,90s,Simulated Hit 5,1995,sim_greenday_5,79,0.482,0.592,81.8,0.381,0.669,0.094
+Green Day,90s,Simulated Hit 6,1994,sim_greenday_6,86,0.558,0.421,120.2,0.426,0.59,0.085
+Green Day,90s,Simulated Hit 7,1993,sim_greenday_7,62,0.496,0.541,117.1,0.442,0.631,0.085
+Green Day,90s,Simulated Hit 8,1998,sim_greenday_8,78,0.719,0.716,130.5,0.287,0.501,0.137
+Green Day,90s,Simulated Hit 9,1996,sim_greenday_9,74,0.489,0.363,84.9,0.202,0.527,0.274
+Green Day,90s,Simulated Hit 10,1996,sim_greenday_10,86,0.699,0.717,83.5,0.5,0.412,0.121
+Green Day,90s,Simulated Hit 11,1995,sim_greenday_11,72,0.597,0.373,107.3,0.303,0.674,0.202
+Green Day,90s,Simulated Hit 12,1995,sim_greenday_12,77,0.656,0.549,99.9,0.038,0.592,0.14
+Green Day,90s,Simulated Hit 13,1998,sim_greenday_13,71,0.607,0.717,123.4,0.463,0.463,0.175
+Green Day,90s,Simulated Hit 14,1993,sim_greenday_14,72,0.683,0.521,91.0,0.397,0.457,0.264
+Green Day,90s,Simulated Hit 15,1997,sim_greenday_15,76,0.631,0.752,125.6,0.201,0.64,0.265
+Green Day,90s,Simulated Hit 16,1993,sim_greenday_16,64,0.405,0.643,115.5,0.398,0.637,0.099
+Green Day,90s,Simulated Hit 17,1997,sim_greenday_17,68,0.83,0.706,121.1,0.463,0.473,0.075
+Green Day,90s,Simulated Hit 18,1993,sim_greenday_18,71,0.755,0.792,86.2,0.357,0.532,0.213
+Green Day,90s,Simulated Hit 19,1998,sim_greenday_19,80,0.878,0.755,107.3,0.451,0.537,0.121
+Green Day,90s,Simulated Hit 20,1997,sim_greenday_20,69,0.547,0.701,128.9,0.276,0.506,0.133
+Green Day,90s,Simulated Hit 21,1993,sim_greenday_21,63,0.612,0.659,123.3,0.101,0.45,0.289
+Green Day,90s,Simulated Hit 22,1998,sim_greenday_22,92,0.475,0.779,113.6,0.289,0.402,0.228
+Green Day,90s,Simulated Hit 23,1996,sim_greenday_23,75,0.782,0.301,84.1,0.491,0.574,0.292
+Green Day,90s,Simulated Hit 24,1998,sim_greenday_24,82,0.886,0.664,106.8,0.411,0.41,0.15
+Green Day,90s,Simulated Hit 25,1996,sim_greenday_25,90,0.578,0.66,124.3,0.145,0.699,0.053
+Mariah Carey,90s,Simulated Hit 1,1994,sim_mariahcarey_1,60,0.53,0.455,84.1,0.264,0.626,0.208
+Mariah Carey,90s,Simulated Hit 2,1998,sim_mariahcarey_2,89,0.475,0.521,131.5,0.376,0.581,0.127
+Mariah Carey,90s,Simulated Hit 3,1996,sim_mariahcarey_3,90,0.427,0.769,121.3,0.357,0.59,0.295
+Mariah Carey,90s,Simulated Hit 4,1997,sim_mariahcarey_4,76,0.586,0.57,85.9,0.125,0.408,0.272
+Mariah Carey,90s,Simulated Hit 5,1998,sim_mariahcarey_5,60,0.667,0.613,127.6,0.253,0.776,0.159
+Mariah Carey,90s,Simulated Hit 6,1995,sim_mariahcarey_6,71,0.652,0.585,81.2,0.102,0.468,0.279
+Mariah Carey,90s,Simulated Hit 7,1994,sim_mariahcarey_7,70,0.845,0.605,125.7,0.093,0.537,0.249
+Mariah Carey,90s,Simulated Hit 8,1993,sim_mariahcarey_8,82,0.742,0.41,134.3,0.041,0.577,0.086
+Mariah Carey,90s,Simulated Hit 9,1993,sim_mariahcarey_9,65,0.649,0.495,118.5,0.276,0.566,0.272
+Mariah Carey,90s,Simulated Hit 10,1998,sim_mariahcarey_10,69,0.47,0.376,124.8,0.49,0.643,0.262
+Mariah Carey,90s,Simulated Hit 11,1995,sim_mariahcarey_11,63,0.721,0.79,124.3,0.118,0.471,0.078
+Mariah Carey,90s,Simulated Hit 12,1997,sim_mariahcarey_12,68,0.697,0.369,112.6,0.243,0.67,0.147
+Mariah Carey,90s,Simulated Hit 13,1993,sim_mariahcarey_13,91,0.691,0.72,110.7,0.345,0.593,0.2
+Mariah Carey,90s,Simulated Hit 14,1996,sim_mariahcarey_14,62,0.712,0.547,96.8,0.068,0.573,0.142
+Mariah Carey,90s,Simulated Hit 15,1996,sim_mariahcarey_15,78,0.806,0.452,136.0,0.431,0.497,0.114
+Mariah Carey,90s,Simulated Hit 16,1997,sim_mariahcarey_16,77,0.692,0.688,129.3,0.112,0.751,0.142
+Mariah Carey,90s,Simulated Hit 17,1994,sim_mariahcarey_17,92,0.725,0.514,108.8,0.406,0.482,0.16
+Mariah Carey,90s,Simulated Hit 18,1997,sim_mariahcarey_18,95,0.423,0.617,122.2,0.016,0.457,0.22
+Mariah Carey,90s,Simulated Hit 19,1993,sim_mariahcarey_19,66,0.87,0.55,126.8,0.452,0.749,0.079
+Mariah Carey,90s,Simulated Hit 20,1995,sim_mariahcarey_20,79,0.657,0.465,116.4,0.058,0.761,0.261
+Mariah Carey,90s,Simulated Hit 21,1997,sim_mariahcarey_21,60,0.793,0.775,89.4,0.425,0.761,0.18
+Mariah Carey,90s,Simulated Hit 22,1993,sim_mariahcarey_22,60,0.636,0.742,89.3,0.013,0.729,0.131
+Mariah Carey,90s,Simulated Hit 23,1998,sim_mariahcarey_23,88,0.58,0.602,121.7,0.421,0.709,0.173
+Mariah Carey,90s,Simulated Hit 24,1993,sim_mariahcarey_24,81,0.451,0.741,121.7,0.114,0.657,0.091
+Mariah Carey,90s,Simulated Hit 25,1996,sim_mariahcarey_25,94,0.771,0.468,119.1,0.356,0.65,0.108
+Coldplay,00s,Simulated Hit 1,2008,sim_coldplay_1,80,0.585,0.379,139.3,0.033,0.668,0.209
+Coldplay,00s,Simulated Hit 2,2006,sim_coldplay_2,64,0.834,0.548,135.4,0.076,0.52,0.277
+Coldplay,00s,Simulated Hit 3,2006,sim_coldplay_3,95,0.539,0.334,95.3,0.42,0.53,0.201
+Coldplay,00s,Simulated Hit 4,2004,sim_coldplay_4,62,0.567,0.404,98.0,0.195,0.509,0.095
+Coldplay,00s,Simulated Hit 5,2004,sim_coldplay_5,72,0.676,0.518,109.8,0.146,0.501,0.132
+Coldplay,00s,Simulated Hit 6,2007,sim_coldplay_6,69,0.734,0.776,135.2,0.489,0.475,0.134
+Coldplay,00s,Simulated Hit 7,2006,sim_coldplay_7,74,0.526,0.451,94.8,0.299,0.534,0.258
+Coldplay,00s,Simulated Hit 8,2006,sim_coldplay_8,61,0.877,0.655,83.2,0.399,0.618,0.135
+Coldplay,00s,Simulated Hit 9,2008,sim_coldplay_9,78,0.847,0.563,84.1,0.153,0.439,0.156
+Coldplay,00s,Simulated Hit 10,2008,sim_coldplay_10,71,0.416,0.366,110.7,0.276,0.524,0.261
+Coldplay,00s,Simulated Hit 11,2005,sim_coldplay_11,89,0.856,0.431,90.7,0.269,0.588,0.282
+Coldplay,00s,Simulated Hit 12,2003,sim_coldplay_12,76,0.449,0.708,134.2,0.319,0.716,0.291
+Coldplay,00s,Simulated Hit 13,2003,sim_coldplay_13,72,0.441,0.677,118.2,0.142,0.678,0.159
+Coldplay,00s,Simulated Hit 14,2006,sim_coldplay_14,81,0.487,0.428,82.0,0.493,0.635,0.25
+Coldplay,00s,Simulated Hit 15,2003,sim_coldplay_15,89,0.692,0.443,119.7,0.054,0.55,0.054
+Coldplay,00s,Simulated Hit 16,2007,sim_coldplay_16,89,0.457,0.766,106.0,0.432,0.69,0.217
+Coldplay,00s,Simulated Hit 17,2003,sim_coldplay_17,65,0.459,0.416,129.0,0.079,0.484,0.072
+Coldplay,00s,Simulated Hit 18,2005,sim_coldplay_18,81,0.402,0.645,113.9,0.486,0.517,0.064
+Coldplay,00s,Simulated Hit 19,2006,sim_coldplay_19,63,0.864,0.466,116.2,0.484,0.491,0.276
+Coldplay,00s,Simulated Hit 20,2006,sim_coldplay_20,74,0.514,0.521,108.3,0.37,0.558,0.078
+Coldplay,00s,Simulated Hit 21,2003,sim_coldplay_21,95,0.594,0.411,110.4,0.447,0.724,0.132
+Coldplay,00s,Simulated Hit 22,2008,sim_coldplay_22,60,0.624,0.551,131.8,0.449,0.467,0.218
+Coldplay,00s,Simulated Hit 23,2005,sim_coldplay_23,61,0.868,0.331,122.2,0.34,0.406,0.285
+Coldplay,00s,Simulated Hit 24,2006,sim_coldplay_24,90,0.513,0.588,118.5,0.435,0.466,0.064
+Coldplay,00s,Simulated Hit 25,2006,sim_coldplay_25,63,0.527,0.775,120.3,0.337,0.533,0.255
+Linkin Park,00s,Simulated Hit 1,2008,sim_linkinpark_1,69,0.437,0.798,124.5,0.231,0.69,0.105
+Linkin Park,00s,Simulated Hit 2,2004,sim_linkinpark_2,61,0.47,0.792,97.7,0.415,0.437,0.261
+Linkin Park,00s,Simulated Hit 3,2006,sim_linkinpark_3,88,0.68,0.621,113.0,0.061,0.603,0.191
+Linkin Park,00s,Simulated Hit 4,2007,sim_linkinpark_4,84,0.84,0.409,89.1,0.051,0.629,0.082
+Linkin Park,00s,Simulated Hit 5,2003,sim_linkinpark_5,74,0.753,0.776,126.0,0.059,0.749,0.082
+Linkin Park,00s,Simulated Hit 6,2005,sim_linkinpark_6,70,0.422,0.51,105.5,0.23,0.416,0.073
+Linkin Park,00s,Simulated Hit 7,2008,sim_linkinpark_7,61,0.421,0.575,137.8,0.425,0.463,0.178
+Linkin Park,00s,Simulated Hit 8,2008,sim_linkinpark_8,84,0.647,0.584,121.7,0.311,0.736,0.203
+Linkin Park,00s,Simulated Hit 9,2005,sim_linkinpark_9,85,0.632,0.788,109.3,0.071,0.721,0.127
+Linkin Park,00s,Simulated Hit 10,2005,sim_linkinpark_10,71,0.599,0.643,133.9,0.356,0.607,0.271
+Linkin Park,00s,Simulated Hit 11,2006,sim_linkinpark_11,76,0.616,0.516,123.5,0.251,0.655,0.054
+Linkin Park,00s,Simulated Hit 12,2006,sim_linkinpark_12,90,0.504,0.492,131.1,0.122,0.746,0.142
+Linkin Park,00s,Simulated Hit 13,2003,sim_linkinpark_13,72,0.682,0.754,136.1,0.393,0.466,0.281
+Linkin Park,00s,Simulated Hit 14,2008,sim_linkinpark_14,74,0.812,0.771,113.3,0.042,0.499,0.179
+Linkin Park,00s,Simulated Hit 15,2008,sim_linkinpark_15,87,0.615,0.394,135.9,0.457,0.56,0.247
+Linkin Park,00s,Simulated Hit 16,2008,sim_linkinpark_16,87,0.506,0.625,94.8,0.149,0.781,0.123
+Linkin Park,00s,Simulated Hit 17,2006,sim_linkinpark_17,92,0.537,0.397,99.3,0.488,0.512,0.273
+Linkin Park,00s,Simulated Hit 18,2008,sim_linkinpark_18,69,0.449,0.592,91.1,0.495,0.515,0.121
+Linkin Park,00s,Simulated Hit 19,2004,sim_linkinpark_19,73,0.842,0.737,139.1,0.282,0.746,0.196
+Linkin Park,00s,Simulated Hit 20,2007,sim_linkinpark_20,64,0.872,0.527,117.1,0.237,0.66,0.25
+Linkin Park,00s,Simulated Hit 21,2005,sim_linkinpark_21,78,0.817,0.462,99.2,0.379,0.664,0.143
+Linkin Park,00s,Simulated Hit 22,2007,sim_linkinpark_22,80,0.842,0.772,106.7,0.107,0.576,0.055
+Linkin Park,00s,Simulated Hit 23,2003,sim_linkinpark_23,83,0.815,0.522,106.3,0.228,0.474,0.199
+Linkin Park,00s,Simulated Hit 24,2004,sim_linkinpark_24,84,0.584,0.794,91.8,0.302,0.498,0.291
+Linkin Park,00s,Simulated Hit 25,2007,sim_linkinpark_25,66,0.785,0.347,128.1,0.083,0.547,0.093
+Maroon 5,00s,Simulated Hit 1,2008,sim_maroon5_1,91,0.534,0.739,113.2,0.203,0.43,0.157
+Maroon 5,00s,Simulated Hit 2,2008,sim_maroon5_2,92,0.487,0.554,91.6,0.445,0.775,0.224
+Maroon 5,00s,Simulated Hit 3,2006,sim_maroon5_3,70,0.641,0.398,110.5,0.277,0.66,0.102
+Maroon 5,00s,Simulated Hit 4,2007,sim_maroon5_4,86,0.666,0.324,108.0,0.384,0.646,0.266
+Maroon 5,00s,Simulated Hit 5,2008,sim_maroon5_5,85,0.675,0.32,133.5,0.269,0.434,0.155
+Maroon 5,00s,Simulated Hit 6,2008,sim_maroon5_6,86,0.769,0.395,96.8,0.246,0.605,0.203
+Maroon 5,00s,Simulated Hit 7,2006,sim_maroon5_7,76,0.89,0.332,86.8,0.284,0.65,0.172
+Maroon 5,00s,Simulated Hit 8,2003,sim_maroon5_8,69,0.645,0.407,111.7,0.314,0.704,0.138
+Maroon 5,00s,Simulated Hit 9,2007,sim_maroon5_9,63,0.85,0.38,120.6,0.412,0.482,0.127
+Maroon 5,00s,Simulated Hit 10,2003,sim_maroon5_10,78,0.755,0.796,114.4,0.254,0.638,0.293
+Maroon 5,00s,Simulated Hit 11,2003,sim_maroon5_11,71,0.612,0.519,107.0,0.344,0.516,0.249
+Maroon 5,00s,Simulated Hit 12,2008,sim_maroon5_12,81,0.876,0.514,122.6,0.397,0.716,0.146
+Maroon 5,00s,Simulated Hit 13,2003,sim_maroon5_13,67,0.546,0.579,121.6,0.192,0.45,0.228
+Maroon 5,00s,Simulated Hit 14,2003,sim_maroon5_14,60,0.749,0.67,129.5,0.177,0.564,0.235
+Maroon 5,00s,Simulated Hit 15,2008,sim_maroon5_15,75,0.855,0.327,136.0,0.368,0.709,0.159
+Maroon 5,00s,Simulated Hit 16,2004,sim_maroon5_16,66,0.449,0.467,103.4,0.308,0.669,0.27
+Maroon 5,00s,Simulated Hit 17,2006,sim_maroon5_17,74,0.417,0.654,125.6,0.134,0.773,0.104
+Maroon 5,00s,Simulated Hit 18,2006,sim_maroon5_18,89,0.567,0.455,120.8,0.067,0.563,0.19
+Maroon 5,00s,Simulated Hit 19,2007,sim_maroon5_19,79,0.594,0.526,123.6,0.456,0.67,0.166
+Maroon 5,00s,Simulated Hit 20,2005,sim_maroon5_20,80,0.409,0.361,97.9,0.173,0.793,0.288
+Maroon 5,00s,Simulated Hit 21,2005,sim_maroon5_21,92,0.839,0.415,105.8,0.187,0.756,0.094
+Maroon 5,00s,Simulated Hit 22,2007,sim_maroon5_22,72,0.752,0.426,103.3,0.082,0.401,0.268
+Maroon 5,00s,Simulated Hit 23,2008,sim_maroon5_23,61,0.517,0.682,108.5,0.425,0.651,0.221
+Maroon 5,00s,Simulated Hit 24,2005,sim_maroon5_24,93,0.789,0.33,100.6,0.319,0.669,0.268
+Maroon 5,00s,Simulated Hit 25,2004,sim_maroon5_25,71,0.565,0.448,100.4,0.092,0.781,0.277
+Beyoncé,00s,Simulated Hit 1,2006,sim_beyoncé_1,82,0.878,0.383,115.5,0.37,0.706,0.15
+Beyoncé,00s,Simulated Hit 2,2006,sim_beyoncé_2,73,0.552,0.346,98.0,0.045,0.751,0.173
+Beyoncé,00s,Simulated Hit 3,2005,sim_beyoncé_3,60,0.476,0.601,85.2,0.344,0.748,0.219
+Beyoncé,00s,Simulated Hit 4,2004,sim_beyoncé_4,93,0.737,0.327,107.6,0.212,0.466,0.106
+Beyoncé,00s,Simulated Hit 5,2007,sim_beyoncé_5,69,0.64,0.336,132.8,0.151,0.445,0.26
+Beyoncé,00s,Simulated Hit 6,2004,sim_beyoncé_6,72,0.633,0.377,133.7,0.38,0.481,0.212
+Beyoncé,00s,Simulated Hit 7,2005,sim_beyoncé_7,80,0.628,0.685,110.0,0.117,0.445,0.192
+Beyoncé,00s,Simulated Hit 8,2004,sim_beyoncé_8,67,0.603,0.528,86.7,0.398,0.706,0.067
+Beyoncé,00s,Simulated Hit 9,2005,sim_beyoncé_9,73,0.815,0.789,136.5,0.108,0.499,0.129
+Beyoncé,00s,Simulated Hit 10,2008,sim_beyoncé_10,67,0.598,0.723,125.6,0.313,0.568,0.264
+Beyoncé,00s,Simulated Hit 11,2005,sim_beyoncé_11,72,0.622,0.487,120.0,0.223,0.464,0.162
+Beyoncé,00s,Simulated Hit 12,2003,sim_beyoncé_12,71,0.839,0.798,129.8,0.038,0.59,0.241
+Beyoncé,00s,Simulated Hit 13,2007,sim_beyoncé_13,65,0.801,0.352,85.2,0.423,0.723,0.199
+Beyoncé,00s,Simulated Hit 14,2007,sim_beyoncé_14,90,0.797,0.656,119.0,0.047,0.616,0.144
+Beyoncé,00s,Simulated Hit 15,2004,sim_beyoncé_15,61,0.604,0.729,90.5,0.026,0.694,0.077
+Beyoncé,00s,Simulated Hit 16,2007,sim_beyoncé_16,85,0.825,0.585,118.2,0.449,0.764,0.276
+Beyoncé,00s,Simulated Hit 17,2008,sim_beyoncé_17,70,0.558,0.536,84.1,0.13,0.435,0.058
+Beyoncé,00s,Simulated Hit 18,2008,sim_beyoncé_18,84,0.717,0.739,131.8,0.363,0.403,0.286
+Beyoncé,00s,Simulated Hit 19,2005,sim_beyoncé_19,80,0.404,0.712,85.2,0.055,0.791,0.092
+Beyoncé,00s,Simulated Hit 20,2007,sim_beyoncé_20,85,0.752,0.381,129.3,0.038,0.521,0.268
+Beyoncé,00s,Simulated Hit 21,2007,sim_beyoncé_21,85,0.62,0.724,119.7,0.442,0.733,0.1
+Beyoncé,00s,Simulated Hit 22,2005,sim_beyoncé_22,87,0.758,0.628,120.2,0.109,0.42,0.086
+Beyoncé,00s,Simulated Hit 23,2004,sim_beyoncé_23,92,0.63,0.329,93.1,0.189,0.447,0.268
+Beyoncé,00s,Simulated Hit 24,2006,sim_beyoncé_24,80,0.601,0.654,86.7,0.447,0.708,0.268
+Beyoncé,00s,Simulated Hit 25,2004,sim_beyoncé_25,67,0.469,0.438,117.3,0.206,0.559,0.289
+Eminem,00s,Simulated Hit 1,2008,sim_eminem_1,88,0.703,0.302,103.4,0.367,0.661,0.288
+Eminem,00s,Simulated Hit 2,2003,sim_eminem_2,67,0.808,0.347,100.5,0.432,0.587,0.289
+Eminem,00s,Simulated Hit 3,2003,sim_eminem_3,69,0.72,0.545,123.7,0.49,0.687,0.177
+Eminem,00s,Simulated Hit 4,2007,sim_eminem_4,72,0.418,0.557,111.0,0.294,0.665,0.162
+Eminem,00s,Simulated Hit 5,2008,sim_eminem_5,71,0.845,0.756,80.2,0.175,0.772,0.165
+Eminem,00s,Simulated Hit 6,2006,sim_eminem_6,86,0.725,0.728,86.5,0.463,0.59,0.093
+Eminem,00s,Simulated Hit 7,2007,sim_eminem_7,91,0.728,0.3,128.7,0.407,0.475,0.271
+Eminem,00s,Simulated Hit 8,2006,sim_eminem_8,90,0.64,0.35,128.4,0.317,0.695,0.283
+Eminem,00s,Simulated Hit 9,2007,sim_eminem_9,60,0.553,0.314,96.8,0.28,0.505,0.261
+Eminem,00s,Simulated Hit 10,2006,sim_eminem_10,66,0.546,0.506,106.9,0.44,0.763,0.109
+Eminem,00s,Simulated Hit 11,2008,sim_eminem_11,87,0.79,0.602,108.4,0.316,0.462,0.081
+Eminem,00s,Simulated Hit 12,2008,sim_eminem_12,85,0.454,0.643,94.6,0.317,0.523,0.083
+Eminem,00s,Simulated Hit 13,2005,sim_eminem_13,65,0.512,0.363,136.8,0.026,0.767,0.066
+Eminem,00s,Simulated Hit 14,2003,sim_eminem_14,68,0.894,0.657,108.4,0.48,0.784,0.065
+Eminem,00s,Simulated Hit 15,2003,sim_eminem_15,94,0.891,0.767,99.8,0.475,0.662,0.092
+Eminem,00s,Simulated Hit 16,2003,sim_eminem_16,85,0.794,0.552,95.4,0.364,0.454,0.124
+Eminem,00s,Simulated Hit 17,2004,sim_eminem_17,74,0.462,0.63,125.2,0.339,0.776,0.125
+Eminem,00s,Simulated Hit 18,2006,sim_eminem_18,87,0.69,0.67,113.7,0.339,0.472,0.283
+Eminem,00s,Simulated Hit 19,2008,sim_eminem_19,77,0.652,0.444,118.3,0.018,0.719,0.262
+Eminem,00s,Simulated Hit 20,2003,sim_eminem_20,92,0.663,0.686,121.9,0.242,0.773,0.127
+Eminem,00s,Simulated Hit 21,2006,sim_eminem_21,60,0.813,0.701,102.1,0.383,0.661,0.27
+Eminem,00s,Simulated Hit 22,2005,sim_eminem_22,70,0.786,0.677,117.4,0.037,0.696,0.189
+Eminem,00s,Simulated Hit 23,2008,sim_eminem_23,78,0.464,0.435,131.8,0.171,0.706,0.149
+Eminem,00s,Simulated Hit 24,2004,sim_eminem_24,68,0.456,0.472,117.8,0.339,0.619,0.254
+Eminem,00s,Simulated Hit 25,2005,sim_eminem_25,60,0.885,0.55,95.4,0.067,0.644,0.192
+Taylor Swift,10s,Simulated Hit 1,2015,sim_taylorswift_1,82,0.81,0.488,124.3,0.288,0.418,0.141
+Taylor Swift,10s,Simulated Hit 2,2014,sim_taylorswift_2,66,0.645,0.58,115.6,0.08,0.403,0.21
+Taylor Swift,10s,Simulated Hit 3,2014,sim_taylorswift_3,89,0.823,0.426,114.7,0.235,0.648,0.217
+Taylor Swift,10s,Simulated Hit 4,2016,sim_taylorswift_4,63,0.446,0.527,104.7,0.23,0.416,0.209
+Taylor Swift,10s,Simulated Hit 5,2016,sim_taylorswift_5,82,0.71,0.7,82.9,0.31,0.612,0.147
+Taylor Swift,10s,Simulated Hit 6,2017,sim_taylorswift_6,89,0.495,0.749,133.8,0.013,0.461,0.163
+Taylor Swift,10s,Simulated Hit 7,2013,sim_taylorswift_7,82,0.857,0.569,135.2,0.343,0.738,0.196
+Taylor Swift,10s,Simulated Hit 8,2018,sim_taylorswift_8,73,0.45,0.352,89.0,0.269,0.444,0.283
+Taylor Swift,10s,Simulated Hit 9,2014,sim_taylorswift_9,75,0.648,0.648,123.0,0.185,0.58,0.207
+Taylor Swift,10s,Simulated Hit 10,2016,sim_taylorswift_10,69,0.61,0.626,112.5,0.282,0.786,0.074
+Taylor Swift,10s,Simulated Hit 11,2017,sim_taylorswift_11,90,0.896,0.481,115.1,0.396,0.643,0.209
+Taylor Swift,10s,Simulated Hit 12,2013,sim_taylorswift_12,92,0.574,0.526,84.5,0.334,0.714,0.156
+Taylor Swift,10s,Simulated Hit 13,2013,sim_taylorswift_13,88,0.869,0.356,114.3,0.452,0.723,0.068
+Taylor Swift,10s,Simulated Hit 14,2016,sim_taylorswift_14,71,0.448,0.337,108.7,0.493,0.412,0.273
+Taylor Swift,10s,Simulated Hit 15,2013,sim_taylorswift_15,60,0.833,0.794,124.1,0.049,0.719,0.19
+Taylor Swift,10s,Simulated Hit 16,2015,sim_taylorswift_16,94,0.832,0.517,83.9,0.32,0.533,0.25
+Taylor Swift,10s,Simulated Hit 17,2018,sim_taylorswift_17,74,0.438,0.656,111.5,0.204,0.413,0.167
+Taylor Swift,10s,Simulated Hit 18,2014,sim_taylorswift_18,74,0.873,0.707,101.4,0.434,0.573,0.26
+Taylor Swift,10s,Simulated Hit 19,2017,sim_taylorswift_19,69,0.843,0.55,83.4,0.035,0.561,0.174
+Taylor Swift,10s,Simulated Hit 20,2014,sim_taylorswift_20,73,0.739,0.793,135.2,0.457,0.641,0.09
+Taylor Swift,10s,Simulated Hit 21,2013,sim_taylorswift_21,63,0.588,0.392,135.3,0.379,0.772,0.077
+Taylor Swift,10s,Simulated Hit 22,2017,sim_taylorswift_22,65,0.603,0.487,101.0,0.498,0.722,0.084
+Taylor Swift,10s,Simulated Hit 23,2017,sim_taylorswift_23,87,0.571,0.677,112.2,0.255,0.641,0.132
+Taylor Swift,10s,Simulated Hit 24,2015,sim_taylorswift_24,68,0.605,0.75,105.0,0.165,0.786,0.137
+Taylor Swift,10s,Simulated Hit 25,2014,sim_taylorswift_25,95,0.67,0.584,123.7,0.42,0.563,0.078
+Bruno Mars,10s,Simulated Hit 1,2014,sim_brunomars_1,69,0.429,0.431,88.7,0.275,0.718,0.098
+Bruno Mars,10s,Simulated Hit 2,2016,sim_brunomars_2,65,0.768,0.765,111.9,0.263,0.657,0.279
+Bruno Mars,10s,Simulated Hit 3,2015,sim_brunomars_3,66,0.851,0.409,126.1,0.01,0.795,0.228
+Bruno Mars,10s,Simulated Hit 4,2015,sim_brunomars_4,60,0.613,0.681,108.1,0.16,0.55,0.19
+Bruno Mars,10s,Simulated Hit 5,2017,sim_brunomars_5,76,0.494,0.751,133.4,0.421,0.567,0.179
+Bruno Mars,10s,Simulated Hit 6,2018,sim_brunomars_6,90,0.493,0.648,103.3,0.483,0.419,0.07
+Bruno Mars,10s,Simulated Hit 7,2016,sim_brunomars_7,91,0.541,0.489,118.0,0.291,0.704,0.205
+Bruno Mars,10s,Simulated Hit 8,2013,sim_brunomars_8,86,0.866,0.737,86.3,0.307,0.483,0.274
+Bruno Mars,10s,Simulated Hit 9,2017,sim_brunomars_9,83,0.877,0.41,123.7,0.452,0.675,0.113
+Bruno Mars,10s,Simulated Hit 10,2016,sim_brunomars_10,66,0.75,0.724,91.8,0.165,0.794,0.17
+Bruno Mars,10s,Simulated Hit 11,2013,sim_brunomars_11,69,0.722,0.706,86.9,0.111,0.574,0.244
+Bruno Mars,10s,Simulated Hit 12,2014,sim_brunomars_12,92,0.632,0.672,86.8,0.221,0.594,0.053
+Bruno Mars,10s,Simulated Hit 13,2017,sim_brunomars_13,78,0.682,0.584,138.7,0.496,0.704,0.132
+Bruno Mars,10s,Simulated Hit 14,2018,sim_brunomars_14,80,0.879,0.72,96.7,0.281,0.557,0.296
+Bruno Mars,10s,Simulated Hit 15,2018,sim_brunomars_15,95,0.892,0.66,96.7,0.079,0.558,0.217
+Bruno Mars,10s,Simulated Hit 16,2017,sim_brunomars_16,95,0.641,0.334,132.7,0.121,0.574,0.139
+Bruno Mars,10s,Simulated Hit 17,2013,sim_brunomars_17,65,0.688,0.41,114.6,0.218,0.51,0.28
+Bruno Mars,10s,Simulated Hit 18,2016,sim_brunomars_18,73,0.519,0.442,85.3,0.418,0.532,0.143
+Bruno Mars,10s,Simulated Hit 19,2015,sim_brunomars_19,83,0.666,0.628,95.9,0.476,0.724,0.181
+Bruno Mars,10s,Simulated Hit 20,2014,sim_brunomars_20,73,0.868,0.445,110.8,0.244,0.711,0.084
+Bruno Mars,10s,Simulated Hit 21,2014,sim_brunomars_21,69,0.564,0.378,107.1,0.077,0.512,0.228
+Bruno Mars,10s,Simulated Hit 22,2015,sim_brunomars_22,61,0.471,0.746,95.9,0.422,0.567,0.275
+Bruno Mars,10s,Simulated Hit 23,2018,sim_brunomars_23,66,0.71,0.326,128.1,0.037,0.607,0.143
+Bruno Mars,10s,Simulated Hit 24,2015,sim_brunomars_24,91,0.636,0.349,131.1,0.475,0.557,0.207
+Bruno Mars,10s,Simulated Hit 25,2015,sim_brunomars_25,79,0.703,0.542,87.8,0.278,0.798,0.293
+Adele,10s,Simulated Hit 1,2016,sim_adele_1,84,0.532,0.683,121.3,0.337,0.759,0.237
+Adele,10s,Simulated Hit 2,2015,sim_adele_2,81,0.732,0.71,121.3,0.339,0.598,0.225
+Adele,10s,Simulated Hit 3,2016,sim_adele_3,79,0.779,0.574,116.8,0.209,0.784,0.298
+Adele,10s,Simulated Hit 4,2017,sim_adele_4,87,0.763,0.387,88.8,0.402,0.724,0.085
+Adele,10s,Simulated Hit 5,2014,sim_adele_5,94,0.489,0.671,80.6,0.412,0.769,0.24
+Adele,10s,Simulated Hit 6,2016,sim_adele_6,85,0.654,0.733,115.0,0.387,0.705,0.146
+Adele,10s,Simulated Hit 7,2017,sim_adele_7,66,0.418,0.662,137.5,0.12,0.528,0.224
+Adele,10s,Simulated Hit 8,2014,sim_adele_8,94,0.785,0.527,139.3,0.015,0.411,0.201
+Adele,10s,Simulated Hit 9,2018,sim_adele_9,65,0.68,0.36,109.6,0.426,0.574,0.205
+Adele,10s,Simulated Hit 10,2017,sim_adele_10,75,0.752,0.686,120.5,0.306,0.66,0.056
+Adele,10s,Simulated Hit 11,2014,sim_adele_11,69,0.703,0.551,135.6,0.099,0.414,0.12
+Adele,10s,Simulated Hit 12,2015,sim_adele_12,94,0.433,0.679,115.5,0.21,0.745,0.075
+Adele,10s,Simulated Hit 13,2017,sim_adele_13,93,0.735,0.773,131.8,0.154,0.449,0.142
+Adele,10s,Simulated Hit 14,2015,sim_adele_14,88,0.407,0.47,87.2,0.346,0.607,0.297
+Adele,10s,Simulated Hit 15,2018,sim_adele_15,69,0.726,0.672,92.7,0.143,0.57,0.149
+Adele,10s,Simulated Hit 16,2016,sim_adele_16,77,0.825,0.316,87.9,0.292,0.636,0.115
+Adele,10s,Simulated Hit 17,2016,sim_adele_17,93,0.595,0.518,99.7,0.272,0.639,0.185
+Adele,10s,Simulated Hit 18,2013,sim_adele_18,95,0.716,0.419,132.2,0.042,0.695,0.175
+Adele,10s,Simulated Hit 19,2013,sim_adele_19,60,0.511,0.507,92.7,0.068,0.655,0.262
+Adele,10s,Simulated Hit 20,2013,sim_adele_20,61,0.875,0.696,101.2,0.35,0.647,0.235
+Adele,10s,Simulated Hit 21,2018,sim_adele_21,75,0.444,0.656,134.8,0.102,0.534,0.137
+Adele,10s,Simulated Hit 22,2017,sim_adele_22,60,0.492,0.322,139.2,0.302,0.789,0.242
+Adele,10s,Simulated Hit 23,2015,sim_adele_23,93,0.424,0.432,96.5,0.145,0.479,0.065
+Adele,10s,Simulated Hit 24,2017,sim_adele_24,75,0.504,0.404,125.8,0.382,0.51,0.071
+Adele,10s,Simulated Hit 25,2014,sim_adele_25,85,0.693,0.316,128.5,0.133,0.583,0.27
+Ed Sheeran,10s,Simulated Hit 1,2014,sim_edsheeran_1,73,0.427,0.333,86.0,0.395,0.656,0.268
+Ed Sheeran,10s,Simulated Hit 2,2018,sim_edsheeran_2,73,0.442,0.594,95.7,0.499,0.438,0.269
+Ed Sheeran,10s,Simulated Hit 3,2016,sim_edsheeran_3,83,0.807,0.712,125.3,0.412,0.619,0.077
+Ed Sheeran,10s,Simulated Hit 4,2017,sim_edsheeran_4,72,0.704,0.688,137.3,0.281,0.755,0.243
+Ed Sheeran,10s,Simulated Hit 5,2015,sim_edsheeran_5,61,0.813,0.317,100.2,0.108,0.771,0.094
+Ed Sheeran,10s,Simulated Hit 6,2014,sim_edsheeran_6,78,0.43,0.423,97.8,0.358,0.548,0.095
+Ed Sheeran,10s,Simulated Hit 7,2014,sim_edsheeran_7,68,0.86,0.3,108.9,0.378,0.486,0.189
+Ed Sheeran,10s,Simulated Hit 8,2017,sim_edsheeran_8,65,0.873,0.424,109.0,0.177,0.77,0.14
+Ed Sheeran,10s,Simulated Hit 9,2016,sim_edsheeran_9,93,0.83,0.307,139.8,0.286,0.776,0.149
+Ed Sheeran,10s,Simulated Hit 10,2014,sim_edsheeran_10,94,0.816,0.447,131.9,0.259,0.495,0.124
+Ed Sheeran,10s,Simulated Hit 11,2017,sim_edsheeran_11,63,0.589,0.736,112.8,0.102,0.764,0.132
+Ed Sheeran,10s,Simulated Hit 12,2015,sim_edsheeran_12,83,0.558,0.304,120.0,0.178,0.422,0.172
+Ed Sheeran,10s,Simulated Hit 13,2013,sim_edsheeran_13,95,0.875,0.463,132.7,0.374,0.588,0.148
+Ed Sheeran,10s,Simulated Hit 14,2017,sim_edsheeran_14,72,0.568,0.64,100.1,0.281,0.58,0.11
+Ed Sheeran,10s,Simulated Hit 15,2013,sim_edsheeran_15,64,0.781,0.471,116.2,0.425,0.687,0.069
+Ed Sheeran,10s,Simulated Hit 16,2013,sim_edsheeran_16,73,0.864,0.327,119.5,0.455,0.476,0.206
+Ed Sheeran,10s,Simulated Hit 17,2016,sim_edsheeran_17,69,0.492,0.638,97.7,0.369,0.678,0.078
+Ed Sheeran,10s,Simulated Hit 18,2014,sim_edsheeran_18,65,0.767,0.703,88.2,0.02,0.432,0.089
+Ed Sheeran,10s,Simulated Hit 19,2014,sim_edsheeran_19,83,0.577,0.441,131.6,0.172,0.478,0.194
+Ed Sheeran,10s,Simulated Hit 20,2014,sim_edsheeran_20,94,0.868,0.64,137.2,0.452,0.742,0.083
+Ed Sheeran,10s,Simulated Hit 21,2015,sim_edsheeran_21,84,0.552,0.642,94.0,0.451,0.683,0.284
+Ed Sheeran,10s,Simulated Hit 22,2017,sim_edsheeran_22,65,0.557,0.722,98.4,0.024,0.706,0.273
+Ed Sheeran,10s,Simulated Hit 23,2015,sim_edsheeran_23,75,0.568,0.424,122.1,0.344,0.779,0.263
+Ed Sheeran,10s,Simulated Hit 24,2013,sim_edsheeran_24,93,0.588,0.328,102.1,0.09,0.487,0.069
+Ed Sheeran,10s,Simulated Hit 25,2015,sim_edsheeran_25,77,0.535,0.77,112.8,0.49,0.781,0.166
+One Direction,10s,Simulated Hit 1,2017,sim_onedirection_1,82,0.577,0.511,83.2,0.4,0.747,0.116
+One Direction,10s,Simulated Hit 2,2013,sim_onedirection_2,92,0.661,0.412,121.6,0.394,0.447,0.059
+One Direction,10s,Simulated Hit 3,2013,sim_onedirection_3,80,0.785,0.332,109.3,0.341,0.597,0.293
+One Direction,10s,Simulated Hit 4,2013,sim_onedirection_4,73,0.834,0.455,114.1,0.248,0.734,0.214
+One Direction,10s,Simulated Hit 5,2015,sim_onedirection_5,75,0.731,0.538,136.0,0.275,0.686,0.169
+One Direction,10s,Simulated Hit 6,2014,sim_onedirection_6,80,0.52,0.553,109.4,0.224,0.7,0.105
+One Direction,10s,Simulated Hit 7,2017,sim_onedirection_7,66,0.685,0.635,103.2,0.029,0.515,0.224
+One Direction,10s,Simulated Hit 8,2017,sim_onedirection_8,94,0.862,0.463,117.5,0.453,0.641,0.095
+One Direction,10s,Simulated Hit 9,2016,sim_onedirection_9,84,0.545,0.414,86.3,0.391,0.488,0.205
+One Direction,10s,Simulated Hit 10,2013,sim_onedirection_10,64,0.48,0.399,102.0,0.184,0.471,0.108
+One Direction,10s,Simulated Hit 11,2017,sim_onedirection_11,60,0.546,0.582,82.1,0.27,0.589,0.186
+One Direction,10s,Simulated Hit 12,2014,sim_onedirection_12,61,0.696,0.738,93.5,0.439,0.723,0.094
+One Direction,10s,Simulated Hit 13,2014,sim_onedirection_13,70,0.43,0.458,122.2,0.348,0.428,0.117
+One Direction,10s,Simulated Hit 14,2013,sim_onedirection_14,75,0.433,0.325,107.1,0.146,0.742,0.067
+One Direction,10s,Simulated Hit 15,2013,sim_onedirection_15,86,0.489,0.306,103.9,0.242,0.764,0.163
+One Direction,10s,Simulated Hit 16,2017,sim_onedirection_16,81,0.799,0.41,104.2,0.08,0.469,0.292
+One Direction,10s,Simulated Hit 17,2015,sim_onedirection_17,67,0.652,0.486,90.7,0.255,0.41,0.286
+One Direction,10s,Simulated Hit 18,2016,sim_onedirection_18,69,0.616,0.751,110.4,0.471,0.655,0.065
+One Direction,10s,Simulated Hit 19,2018,sim_onedirection_19,79,0.496,0.423,101.8,0.022,0.504,0.27
+One Direction,10s,Simulated Hit 20,2013,sim_onedirection_20,88,0.622,0.427,109.5,0.492,0.741,0.265
+One Direction,10s,Simulated Hit 21,2016,sim_onedirection_21,82,0.493,0.549,89.3,0.286,0.481,0.052
+One Direction,10s,Simulated Hit 22,2017,sim_onedirection_22,88,0.415,0.787,109.3,0.086,0.513,0.089
+One Direction,10s,Simulated Hit 23,2013,sim_onedirection_23,88,0.715,0.38,118.6,0.272,0.412,0.236
+One Direction,10s,Simulated Hit 24,2015,sim_onedirection_24,69,0.889,0.379,129.3,0.25,0.609,0.202
+One Direction,10s,Simulated Hit 25,2013,sim_onedirection_25,92,0.427,0.525,96.6,0.107,0.566,0.086
+Billie Eilish,20s,Simulated Hit 1,2020,sim_billieeilish_1,91,0.682,0.726,110.8,0.325,0.701,0.201
+Billie Eilish,20s,Simulated Hit 2,2023,sim_billieeilish_2,76,0.83,0.721,137.6,0.153,0.774,0.241
+Billie Eilish,20s,Simulated Hit 3,2021,sim_billieeilish_3,61,0.678,0.571,131.2,0.324,0.677,0.236
+Billie Eilish,20s,Simulated Hit 4,2024,sim_billieeilish_4,93,0.579,0.541,107.1,0.491,0.533,0.129
+Billie Eilish,20s,Simulated Hit 5,2024,sim_billieeilish_5,81,0.863,0.742,131.0,0.283,0.46,0.288
+Billie Eilish,20s,Simulated Hit 6,2025,sim_billieeilish_6,76,0.498,0.673,136.0,0.448,0.772,0.259
+Billie Eilish,20s,Simulated Hit 7,2021,sim_billieeilish_7,89,0.669,0.556,97.2,0.401,0.641,0.232
+Billie Eilish,20s,Simulated Hit 8,2025,sim_billieeilish_8,77,0.449,0.786,88.6,0.264,0.451,0.259
+Billie Eilish,20s,Simulated Hit 9,2025,sim_billieeilish_9,82,0.798,0.52,117.3,0.373,0.729,0.183
+Billie Eilish,20s,Simulated Hit 10,2024,sim_billieeilish_10,68,0.497,0.713,109.5,0.267,0.429,0.09
+Billie Eilish,20s,Simulated Hit 11,2024,sim_billieeilish_11,78,0.646,0.382,87.7,0.087,0.569,0.118
+Billie Eilish,20s,Simulated Hit 12,2025,sim_billieeilish_12,85,0.554,0.656,102.8,0.413,0.464,0.257
+Billie Eilish,20s,Simulated Hit 13,2021,sim_billieeilish_13,63,0.517,0.741,85.4,0.229,0.507,0.216
+Billie Eilish,20s,Simulated Hit 14,2023,sim_billieeilish_14,85,0.88,0.393,126.9,0.011,0.575,0.109
+Billie Eilish,20s,Simulated Hit 15,2022,sim_billieeilish_15,77,0.815,0.535,108.5,0.214,0.756,0.108
+Billie Eilish,20s,Simulated Hit 16,2023,sim_billieeilish_16,80,0.716,0.403,114.1,0.22,0.71,0.081
+Billie Eilish,20s,Simulated Hit 17,2020,sim_billieeilish_17,87,0.551,0.315,118.4,0.242,0.423,0.166
+Billie Eilish,20s,Simulated Hit 18,2020,sim_billieeilish_18,89,0.866,0.326,132.3,0.172,0.451,0.051
+Billie Eilish,20s,Simulated Hit 19,2020,sim_billieeilish_19,94,0.405,0.35,116.7,0.208,0.541,0.073
+Billie Eilish,20s,Simulated Hit 20,2024,sim_billieeilish_20,61,0.452,0.529,84.4,0.129,0.527,0.161
+Billie Eilish,20s,Simulated Hit 21,2025,sim_billieeilish_21,84,0.75,0.427,81.2,0.062,0.754,0.184
+Billie Eilish,20s,Simulated Hit 22,2025,sim_billieeilish_22,79,0.459,0.637,100.7,0.335,0.547,0.235
+Billie Eilish,20s,Simulated Hit 23,2025,sim_billieeilish_23,66,0.563,0.55,139.3,0.463,0.721,0.145
+Billie Eilish,20s,Simulated Hit 24,2025,sim_billieeilish_24,72,0.842,0.473,132.1,0.346,0.68,0.293
+Billie Eilish,20s,Simulated Hit 25,2020,sim_billieeilish_25,70,0.599,0.607,114.8,0.073,0.587,0.219
+Olivia Rodrigo,20s,Simulated Hit 1,2025,sim_oliviarodrigo_1,79,0.571,0.792,111.6,0.123,0.616,0.206
+Olivia Rodrigo,20s,Simulated Hit 2,2020,sim_oliviarodrigo_2,63,0.751,0.501,95.6,0.051,0.597,0.182
+Olivia Rodrigo,20s,Simulated Hit 3,2021,sim_oliviarodrigo_3,87,0.708,0.563,128.8,0.468,0.563,0.227
+Olivia Rodrigo,20s,Simulated Hit 4,2022,sim_oliviarodrigo_4,90,0.784,0.55,104.6,0.13,0.767,0.27
+Olivia Rodrigo,20s,Simulated Hit 5,2022,sim_oliviarodrigo_5,64,0.889,0.426,134.6,0.047,0.481,0.292
+Olivia Rodrigo,20s,Simulated Hit 6,2021,sim_oliviarodrigo_6,83,0.453,0.732,83.1,0.066,0.732,0.1
+Olivia Rodrigo,20s,Simulated Hit 7,2021,sim_oliviarodrigo_7,65,0.882,0.727,83.7,0.04,0.585,0.062
+Olivia Rodrigo,20s,Simulated Hit 8,2022,sim_oliviarodrigo_8,82,0.799,0.437,136.4,0.385,0.686,0.256
+Olivia Rodrigo,20s,Simulated Hit 9,2023,sim_oliviarodrigo_9,81,0.441,0.737,136.0,0.239,0.626,0.222
+Olivia Rodrigo,20s,Simulated Hit 10,2024,sim_oliviarodrigo_10,61,0.441,0.535,95.4,0.449,0.521,0.194
+Olivia Rodrigo,20s,Simulated Hit 11,2021,sim_oliviarodrigo_11,81,0.744,0.52,99.9,0.103,0.564,0.269
+Olivia Rodrigo,20s,Simulated Hit 12,2025,sim_oliviarodrigo_12,94,0.581,0.392,102.6,0.463,0.564,0.162
+Olivia Rodrigo,20s,Simulated Hit 13,2025,sim_oliviarodrigo_13,66,0.83,0.781,109.1,0.351,0.554,0.148
+Olivia Rodrigo,20s,Simulated Hit 14,2022,sim_oliviarodrigo_14,76,0.696,0.374,132.0,0.469,0.57,0.202
+Olivia Rodrigo,20s,Simulated Hit 15,2023,sim_oliviarodrigo_15,72,0.857,0.683,110.0,0.232,0.695,0.053
+Olivia Rodrigo,20s,Simulated Hit 16,2020,sim_oliviarodrigo_16,90,0.618,0.731,112.2,0.416,0.754,0.119
+Olivia Rodrigo,20s,Simulated Hit 17,2022,sim_oliviarodrigo_17,95,0.866,0.447,125.0,0.282,0.409,0.088
+Olivia Rodrigo,20s,Simulated Hit 18,2020,sim_oliviarodrigo_18,82,0.436,0.32,97.3,0.327,0.536,0.21
+Olivia Rodrigo,20s,Simulated Hit 19,2021,sim_oliviarodrigo_19,85,0.48,0.777,117.1,0.441,0.454,0.285
+Olivia Rodrigo,20s,Simulated Hit 20,2021,sim_oliviarodrigo_20,81,0.767,0.753,137.3,0.018,0.476,0.155
+Olivia Rodrigo,20s,Simulated Hit 21,2021,sim_oliviarodrigo_21,86,0.78,0.556,128.2,0.295,0.482,0.135
+Olivia Rodrigo,20s,Simulated Hit 22,2022,sim_oliviarodrigo_22,92,0.632,0.7,136.4,0.356,0.756,0.095
+Olivia Rodrigo,20s,Simulated Hit 23,2022,sim_oliviarodrigo_23,91,0.622,0.734,83.3,0.224,0.473,0.28
+Olivia Rodrigo,20s,Simulated Hit 24,2022,sim_oliviarodrigo_24,65,0.754,0.326,89.5,0.369,0.567,0.287
+Olivia Rodrigo,20s,Simulated Hit 25,2020,sim_oliviarodrigo_25,78,0.502,0.353,94.3,0.176,0.499,0.115
+Dua Lipa,20s,Simulated Hit 1,2022,sim_dualipa_1,86,0.809,0.499,84.4,0.197,0.648,0.282
+Dua Lipa,20s,Simulated Hit 2,2023,sim_dualipa_2,91,0.429,0.396,111.2,0.037,0.613,0.168
+Dua Lipa,20s,Simulated Hit 3,2023,sim_dualipa_3,85,0.425,0.631,117.9,0.141,0.676,0.247
+Dua Lipa,20s,Simulated Hit 4,2020,sim_dualipa_4,85,0.521,0.452,128.7,0.448,0.478,0.284
+Dua Lipa,20s,Simulated Hit 5,2022,sim_dualipa_5,93,0.775,0.603,115.4,0.49,0.788,0.068
+Dua Lipa,20s,Simulated Hit 6,2020,sim_dualipa_6,64,0.722,0.378,98.1,0.045,0.779,0.151
+Dua Lipa,20s,Simulated Hit 7,2023,sim_dualipa_7,68,0.448,0.303,89.9,0.094,0.642,0.216
+Dua Lipa,20s,Simulated Hit 8,2021,sim_dualipa_8,76,0.432,0.327,94.3,0.127,0.77,0.052
+Dua Lipa,20s,Simulated Hit 9,2023,sim_dualipa_9,76,0.51,0.331,128.8,0.284,0.469,0.061
+Dua Lipa,20s,Simulated Hit 10,2025,sim_dualipa_10,73,0.753,0.489,103.1,0.378,0.655,0.195
+Dua Lipa,20s,Simulated Hit 11,2024,sim_dualipa_11,90,0.454,0.773,80.5,0.432,0.728,0.081
+Dua Lipa,20s,Simulated Hit 12,2025,sim_dualipa_12,70,0.745,0.401,102.4,0.102,0.695,0.232
+Dua Lipa,20s,Simulated Hit 13,2025,sim_dualipa_13,82,0.633,0.419,102.3,0.195,0.647,0.268
+Dua Lipa,20s,Simulated Hit 14,2021,sim_dualipa_14,82,0.478,0.399,90.3,0.34,0.759,0.294
+Dua Lipa,20s,Simulated Hit 15,2024,sim_dualipa_15,81,0.552,0.362,138.0,0.298,0.544,0.153
+Dua Lipa,20s,Simulated Hit 16,2023,sim_dualipa_16,74,0.648,0.451,120.1,0.452,0.428,0.092
+Dua Lipa,20s,Simulated Hit 17,2023,sim_dualipa_17,94,0.621,0.693,107.3,0.115,0.633,0.285
+Dua Lipa,20s,Simulated Hit 18,2023,sim_dualipa_18,61,0.826,0.705,133.9,0.433,0.504,0.268
+Dua Lipa,20s,Simulated Hit 19,2021,sim_dualipa_19,95,0.723,0.569,135.5,0.37,0.707,0.293
+Dua Lipa,20s,Simulated Hit 20,2023,sim_dualipa_20,79,0.78,0.422,137.4,0.352,0.557,0.142
+Dua Lipa,20s,Simulated Hit 21,2020,sim_dualipa_21,71,0.579,0.304,96.2,0.06,0.744,0.192
+Dua Lipa,20s,Simulated Hit 22,2025,sim_dualipa_22,85,0.692,0.483,92.6,0.299,0.631,0.128
+Dua Lipa,20s,Simulated Hit 23,2024,sim_dualipa_23,77,0.821,0.716,109.1,0.049,0.582,0.081
+Dua Lipa,20s,Simulated Hit 24,2020,sim_dualipa_24,69,0.689,0.622,115.4,0.186,0.562,0.11
+Dua Lipa,20s,Simulated Hit 25,2023,sim_dualipa_25,86,0.406,0.389,130.4,0.407,0.549,0.229
+The Weeknd,20s,Simulated Hit 1,2022,sim_theweeknd_1,86,0.662,0.663,83.3,0.133,0.767,0.204
+The Weeknd,20s,Simulated Hit 2,2020,sim_theweeknd_2,86,0.537,0.761,123.5,0.448,0.649,0.194
+The Weeknd,20s,Simulated Hit 3,2023,sim_theweeknd_3,92,0.629,0.357,122.8,0.353,0.496,0.229
+The Weeknd,20s,Simulated Hit 4,2025,sim_theweeknd_4,89,0.466,0.546,137.9,0.318,0.592,0.083
+The Weeknd,20s,Simulated Hit 5,2021,sim_theweeknd_5,60,0.817,0.319,98.7,0.357,0.448,0.051
+The Weeknd,20s,Simulated Hit 6,2025,sim_theweeknd_6,77,0.429,0.797,103.4,0.242,0.756,0.076
+The Weeknd,20s,Simulated Hit 7,2020,sim_theweeknd_7,83,0.415,0.654,88.4,0.365,0.756,0.164
+The Weeknd,20s,Simulated Hit 8,2025,sim_theweeknd_8,80,0.469,0.583,107.8,0.18,0.72,0.066
+The Weeknd,20s,Simulated Hit 9,2021,sim_theweeknd_9,86,0.525,0.359,139.5,0.27,0.661,0.14
+The Weeknd,20s,Simulated Hit 10,2020,sim_theweeknd_10,72,0.597,0.679,99.6,0.397,0.722,0.118
+The Weeknd,20s,Simulated Hit 11,2025,sim_theweeknd_11,91,0.439,0.767,83.5,0.275,0.411,0.119
+The Weeknd,20s,Simulated Hit 12,2022,sim_theweeknd_12,67,0.736,0.363,111.6,0.14,0.783,0.173
+The Weeknd,20s,Simulated Hit 13,2021,sim_theweeknd_13,81,0.762,0.751,94.8,0.389,0.732,0.213
+The Weeknd,20s,Simulated Hit 14,2022,sim_theweeknd_14,87,0.893,0.762,101.6,0.358,0.735,0.224
+The Weeknd,20s,Simulated Hit 15,2025,sim_theweeknd_15,62,0.829,0.311,101.0,0.157,0.595,0.142
+The Weeknd,20s,Simulated Hit 16,2022,sim_theweeknd_16,68,0.849,0.5,114.4,0.044,0.772,0.234
+The Weeknd,20s,Simulated Hit 17,2022,sim_theweeknd_17,90,0.446,0.421,139.9,0.396,0.449,0.16
+The Weeknd,20s,Simulated Hit 18,2023,sim_theweeknd_18,92,0.891,0.474,83.4,0.02,0.72,0.071
+The Weeknd,20s,Simulated Hit 19,2025,sim_theweeknd_19,87,0.757,0.329,132.8,0.286,0.579,0.24
+The Weeknd,20s,Simulated Hit 20,2022,sim_theweeknd_20,93,0.876,0.515,126.2,0.26,0.43,0.105
+The Weeknd,20s,Simulated Hit 21,2021,sim_theweeknd_21,77,0.872,0.623,114.5,0.018,0.728,0.06
+The Weeknd,20s,Simulated Hit 22,2022,sim_theweeknd_22,81,0.803,0.351,133.5,0.461,0.503,0.187
+The Weeknd,20s,Simulated Hit 23,2025,sim_theweeknd_23,66,0.566,0.351,112.8,0.021,0.422,0.098
+The Weeknd,20s,Simulated Hit 24,2020,sim_theweeknd_24,75,0.461,0.531,88.5,0.201,0.497,0.274
+The Weeknd,20s,Simulated Hit 25,2025,sim_theweeknd_25,79,0.495,0.47,99.4,0.132,0.604,0.266
+Harry Styles,20s,Simulated Hit 1,2022,sim_harrystyles_1,84,0.494,0.542,97.0,0.147,0.543,0.086
+Harry Styles,20s,Simulated Hit 2,2021,sim_harrystyles_2,60,0.689,0.49,127.5,0.468,0.744,0.152
+Harry Styles,20s,Simulated Hit 3,2022,sim_harrystyles_3,65,0.587,0.788,90.5,0.37,0.715,0.297
+Harry Styles,20s,Simulated Hit 4,2024,sim_harrystyles_4,81,0.653,0.367,90.5,0.273,0.695,0.235
+Harry Styles,20s,Simulated Hit 5,2020,sim_harrystyles_5,69,0.86,0.761,116.9,0.435,0.491,0.268
+Harry Styles,20s,Simulated Hit 6,2023,sim_harrystyles_6,68,0.75,0.647,89.1,0.442,0.633,0.074
+Harry Styles,20s,Simulated Hit 7,2022,sim_harrystyles_7,65,0.471,0.713,113.5,0.405,0.43,0.053
+Harry Styles,20s,Simulated Hit 8,2025,sim_harrystyles_8,62,0.584,0.734,125.5,0.364,0.476,0.182
+Harry Styles,20s,Simulated Hit 9,2022,sim_harrystyles_9,91,0.786,0.556,90.3,0.209,0.431,0.194
+Harry Styles,20s,Simulated Hit 10,2023,sim_harrystyles_10,78,0.716,0.674,82.4,0.355,0.651,0.149
+Harry Styles,20s,Simulated Hit 11,2023,sim_harrystyles_11,75,0.445,0.546,96.4,0.157,0.477,0.252
+Harry Styles,20s,Simulated Hit 12,2020,sim_harrystyles_12,88,0.452,0.78,85.7,0.269,0.527,0.143
+Harry Styles,20s,Simulated Hit 13,2025,sim_harrystyles_13,91,0.465,0.755,118.6,0.077,0.649,0.078
+Harry Styles,20s,Simulated Hit 14,2025,sim_harrystyles_14,94,0.509,0.597,117.3,0.491,0.606,0.271
+Harry Styles,20s,Simulated Hit 15,2024,sim_harrystyles_15,78,0.824,0.389,104.2,0.115,0.58,0.063
+Harry Styles,20s,Simulated Hit 16,2021,sim_harrystyles_16,67,0.789,0.78,101.8,0.391,0.765,0.213
+Harry Styles,20s,Simulated Hit 17,2025,sim_harrystyles_17,78,0.589,0.347,89.8,0.375,0.588,0.144
+Harry Styles,20s,Simulated Hit 18,2023,sim_harrystyles_18,86,0.869,0.519,136.0,0.125,0.735,0.181
+Harry Styles,20s,Simulated Hit 19,2024,sim_harrystyles_19,67,0.509,0.358,128.6,0.323,0.517,0.112
+Harry Styles,20s,Simulated Hit 20,2022,sim_harrystyles_20,76,0.694,0.346,110.7,0.129,0.564,0.158
+Harry Styles,20s,Simulated Hit 21,2020,sim_harrystyles_21,74,0.722,0.331,106.3,0.3,0.569,0.052
+Harry Styles,20s,Simulated Hit 22,2022,sim_harrystyles_22,86,0.557,0.54,93.8,0.231,0.487,0.135
+Harry Styles,20s,Simulated Hit 23,2022,sim_harrystyles_23,93,0.687,0.379,134.6,0.056,0.771,0.277
+Harry Styles,20s,Simulated Hit 24,2025,sim_harrystyles_24,75,0.651,0.431,88.1,0.37,0.435,0.258
+Harry Styles,20s,Simulated Hit 25,2020,sim_harrystyles_25,79,0.864,0.598,86.9,0.131,0.698,0.235
