@@ -1,123 +1,200 @@
 """
-hooktheory_scraper.py (v4 — 풍부한 시뮬레이션 기반)
+hooktheory_scraper.py (v6 — 실제 TheoryTab 웹 스크래핑 및 곡 단위 발매 연대 매핑)
 =================================================================
-노트북의 전처리 셀(music21 기반)이 정상적으로 다양한 피처를 추출할 수 있도록,
-아티스트별 특징(비다이아토닉, 텐션, 마이너 비율 등)을 반영한 
-'절대 코드(Absolute Chords)'와 '조표(Key)'를 생성하여 반환합니다.
+Hooktheory TheoryTab 페이지에서 실제 코드 진행 데이터를 수집합니다.
+Spotify API를 사용하지 않고, 각 곡의 발매 시점(decade)을 
+직접 하드코딩하여 관리합니다. (힙합 아티스트 제외 및 교체 완료)
 """
 
-import random
+import re
 import time
+import random
+import requests
 
-# 아티스트별로 고유한 음악적 특징을 담은 코드 진행 풀 (절대 코드 표기)
-# 노트북(Cell 5)의 피처 추출기가 이를 읽어 다이아토닉 여부, 텐션(7, 9, maj 등)을 분석합니다.
-ARTIST_CHORD_DB = {
-    # === 90s (복잡한 록/R&B, 차용 화음 및 텐션 사용) ===
-    "nirvana": [
-        {"key": "E", "mode": "minor", "chords": "E G A C E G A C D"}, # 파워코드, 비다이아토닉
-        {"key": "A", "mode": "major", "chords": "A D G C Fmaj7 E"},   # 차용 화음 다수
-    ],
-    "radiohead": [
-        {"key": "G", "mode": "major", "chords": "G B7 C Cm G B7 C Cm"}, # Creep (비다이아토닉 B7, Cm)
-        {"key": "C", "mode": "major", "chords": "Cmaj7 E7 Fmaj7 Fm6 Cmaj7"}, # 재즈 텐션
-    ],
-    "oasis": [
-        {"key": "G", "mode": "major", "chords": "G D Em C G D Em C"}, # 정석 브릿팝
-        {"key": "C", "mode": "major", "chords": "C Am F G C Am F Fm"}, # 90s 팝
-    ],
-    "green day": [
-        {"key": "E", "mode": "major", "chords": "E B C#m A E B C#m A"},
-        {"key": "G", "mode": "major", "chords": "G C G D G C G D"},
-    ],
-    "mariah carey": [
-        {"key": "C", "mode": "major", "chords": "Cmaj7 Am7 Dm7 G7 Em7 Am7 Dm9 G13"}, # R&B 텐션 폭발
-        {"key": "G", "mode": "major", "chords": "Gmaj7 Bm7 Cmaj7 D7 Gmaj7 E7 Am7 D7"}, 
-    ],
+# =============================================================================
+# sind → 절대 코드명 변환 유틸리티
+# =============================================================================
 
-    # === 00s (장르 융합, 팝록/힙합) ===
-    "coldplay": [
-        {"key": "D", "mode": "major", "chords": "D A Bm G D A Bm G"}, # 대중적인 진행
-        {"key": "F", "mode": "major", "chords": "Fmaj7 C Dm Bb Fmaj7 C Dm Bb"}, # 약간의 텐션
-    ],
-    "linkin park": [
-        {"key": "C", "mode": "minor", "chords": "Cm Ab Eb Bb Cm Ab Eb Bb"}, # 에픽 마이너
-        {"key": "E", "mode": "minor", "chords": "Em C G D Em C G D"},
-    ],
-    "maroon 5": [
-        {"key": "C", "mode": "major", "chords": "Dm7 G7 Cmaj7 Am7 Dm7 G7 Cmaj7 Am7"}, # 팝 펑크/투파이브원
-        {"key": "E", "mode": "minor", "chords": "Em Am D G Em Am D B7"}, # 마이너 투파이브원
-    ],
-    "beyoncé": [
-        {"key": "G", "mode": "major", "chords": "Gmaj7 Bm7 Am7 D7 Gmaj7 Bm7 Am7 D7"},
-        {"key": "C", "mode": "minor", "chords": "Cm Ab Fm G7 Cm Ab Fm G7"},
-    ],
-    "eminem": [
-        {"key": "D", "mode": "minor", "chords": "Dm Bb C Am Dm Bb C Am"}, # 힙합 루프
-    ],
+_NOTE_NAMES = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B']
+_MAJOR_SCALE = [0, 2, 4, 5, 7, 9, 11]
+_MINOR_SCALE = [0, 2, 3, 5, 7, 8, 10]
 
-    # === 10s (단순한 4코드 루프의 지배) ===
-    "taylor swift": [
-        {"key": "C", "mode": "major", "chords": "C G Am F C G Am F"}, # 정석 4코드
-        {"key": "G", "mode": "major", "chords": "G D Em C G D Em C"},
-    ],
-    "bruno mars": [
-        {"key": "F", "mode": "major", "chords": "F Dm Bb C F Dm Bb C"},
-        {"key": "D", "mode": "minor", "chords": "Dm7 G7 Cmaj7 Am7 Dm7 G7 Cmaj7 A7"},
-    ],
-    "adele": [
-        {"key": "C", "mode": "minor", "chords": "Cm Ab Bb Gm Cm Ab Bb Gm"}, # 강렬한 마이너
-        {"key": "A", "mode": "major", "chords": "A E F#m D A E F#m D"},
-    ],
-    "ed sheeran": [
-        {"key": "D", "mode": "major", "chords": "D A Bm G D A Bm G"},
-        {"key": "G", "mode": "major", "chords": "G Em C D G Em C D"},
-    ],
-    "one direction": [
-        {"key": "C", "mode": "major", "chords": "C G Am F C G Am F"},
-    ],
-
-    # === 20s (미니멀, 다크팝, 빈티지 텐션) ===
-    "billie eilish": [
-        {"key": "E", "mode": "minor", "chords": "Em C Am B7 Em C Am B7"}, # 다크 팝 (하모닉 마이너)
-        {"key": "A", "mode": "minor", "chords": "Am F Dm E7 Am F Dm E7"},
-    ],
-    "olivia rodrigo": [
-        {"key": "D", "mode": "major", "chords": "D A Bm G D A Bm Gm"}, # 00s 팝펑크 회귀 + 마이너 차용
-    ],
-    "dua lipa": [
-        {"key": "B", "mode": "minor", "chords": "Bm7 E7 A F#m Bm7 E7 A F#m"}, # 누디스코 텐션
-    ],
-    "the weeknd": [
-        {"key": "F", "mode": "minor", "chords": "Fm Db Eb Cm Fm Db Eb Cm"}, # 신스팝 4코드
-    ],
-    "harry styles": [
-        {"key": "C", "mode": "major", "chords": "Cmaj7 Dm7 Em7 Fmaj7 Cmaj7 Dm7 Em7 Fmaj7"}, # 인디팝 텐션
-    ],
+_TONIC_ST = {
+    'C': 0, 'C#': 1, 'Db': 1, 'D': 2, 'D#': 3, 'Eb': 3,
+    'E': 4, 'F': 5, 'F#': 6, 'Gb': 6, 'G': 7, 'G#': 8,
+    'Ab': 8, 'A': 9, 'A#': 10, 'Bb': 10, 'B': 11,
 }
 
-def get_chord_progression(artist: str, song: str) -> dict | None:
-    artist_key = artist.lower().strip()
-    progressions = ARTIST_CHORD_DB.get(artist_key)
-    
-    if not progressions:
-        # DB에 없으면 무난한 팝 코드 진행 반환
-        progressions = [
-            {"key": "C", "mode": "major", "chords": "C G Am F C G Am F"},
-            {"key": "G", "mode": "major", "chords": "G D Em C G D Em C"},
-        ]
-        
-    seed = len(song) + sum(ord(c) for c in song)
-    random.seed(seed)
-    
-    selected_cp = random.choice(progressions)
-    time.sleep(0.05)
-    
-    return {
-        "artist": artist,
-        "title": song,
-        "section": "Chorus/Main",
-        "key": selected_cp["key"],
-        "mode": selected_cp["mode"],
-        "chords": selected_cp["chords"],
-        "url": f"https://www.hooktheory.com/theorytab/view/{artist_key.replace(' ', '-')}/{song.lower().replace(' ', '-')}",
-    }
+_MAJOR_MINOR_DEGREES = {2, 3, 6}
+_MAJOR_DIM_DEGREES   = {7}
+_MINOR_MINOR_DEGREES = {1, 4, 5}
+_MINOR_DIM_DEGREES   = {2}
+
+
+def _sind_to_chord(sind: str, tonic: str, scale: str) -> str:
+    root_st = _TONIC_ST.get(tonic.split()[0], 0)
+    s_intervals = _MAJOR_SCALE if scale == 'major' else _MINOR_SCALE
+
+    prefix = ''
+    s = sind
+
+    if s.startswith('b') and len(s) > 1 and s[1].isdigit():
+        prefix = 'b'
+        s = s[1:]
+    elif s.startswith('#') and len(s) > 1 and s[1].isdigit():
+        prefix = '#'
+        s = s[1:]
+    elif s.startswith('M'):
+        prefix = 'M'
+        s = s[1:]
+    elif s.startswith(('D', 'L')):
+        return tonic.split()[0]
+
+    deg_m = re.match(r'^(\d)', s)
+    if not deg_m:
+        return tonic.split()[0]
+
+    degree = int(deg_m.group(1))
+    if not (1 <= degree <= 7):
+        return tonic.split()[0]
+
+    scale_st = s_intervals[degree - 1]
+    if prefix == 'b':
+        scale_st -= 1
+    elif prefix == '#':
+        scale_st += 1
+
+    chord_root = _NOTE_NAMES[(root_st + scale_st) % 12]
+
+    if scale == 'major':
+        is_minor = (degree in _MAJOR_MINOR_DEGREES) and prefix == ''
+        is_dim   = (degree in _MAJOR_DIM_DEGREES) and prefix == ''
+    else:
+        is_minor = (degree in _MINOR_MINOR_DEGREES) and prefix == ''
+        is_dim   = (degree in _MINOR_DIM_DEGREES) and prefix == ''
+
+    if prefix == 'M':
+        quality = ''
+    elif is_dim:
+        quality = 'dim'
+    elif is_minor:
+        quality = 'm'
+    else:
+        quality = ''
+
+    rest = s[1:]
+    tension = ''
+    if 'add9' in rest: tension = 'add9'
+    elif 'sus4' in rest: tension = 'sus4'
+    elif 'sus2' in rest: tension = 'sus2'
+    elif 'maj7' in rest.lower(): tension = 'maj7'
+    elif '13' in rest: tension = '13'
+    elif '11' in rest: tension = '11'
+    elif '9' in rest: tension = '9'
+    elif '7' in rest: tension = '7'
+    elif '6' in rest and degree != 6: tension = '6'
+
+    return chord_root + quality + tension
+
+
+def sind_sequence_to_chords(sind_seq: str, tonic: str, scale: str) -> str:
+    result = []
+    for token in sind_seq.split():
+        base_sind = token.split('/')[0]
+        chord = _sind_to_chord(base_sind, tonic, scale)
+        result.append(chord)
+    return ' '.join(result)
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    )
+}
+BASE_URL = "https://www.hooktheory.com/theorytab/view"
+
+# =============================================================================
+# 아티스트 및 곡 단위 수동 발매 시대 (Decade) 매핑
+# 형식: "아티스트명": [("아티스트슬러그", "곡슬러그", "실제발매Decade")]
+# 힙합 아티스트(Tupac, Snoop Dogg 등)는 모두 팝/록/인디로 교체되었습니다.
+# =============================================================================
+from massive_song_list import ARTIST_SONGS
+
+def fetch_chords_from_url(artist_slug: str, song_slug: str) -> dict | None:
+    url = f"{BASE_URL}/{artist_slug}/{song_slug}"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        if resp.status_code != 200:
+            return None
+        content = resp.text
+
+        chords = re.findall(
+            r'data-chord-label\s+data-sind="([^"]+)"\s+data-tonic="([^"]+)"\s+data-scale="([^"]+)"',
+            content
+        )
+        if not chords:
+            return None
+
+        _, tonic, scale = chords[0]
+        sind_seq = " ".join([c[0] for c in chords])
+        chord_sequence = sind_sequence_to_chords(sind_seq, tonic, scale)
+
+        section_match = re.search(
+            r'(Verse|Chorus|Pre-Chorus|Bridge|Intro|Outro|Hook)',
+            content[:50000],
+            re.IGNORECASE
+        )
+        section = section_match.group(1) if section_match else "Main"
+
+        return {
+            "key": tonic,
+            "mode": scale,
+            "chords": chord_sequence,
+            "section": section,
+            "url": url,
+        }
+    except Exception as e:
+        print(f"    ⚠  요청 오류: {e}")
+        return None
+
+def get_all_songs_for_artist(artist: str) -> list:
+    """
+    해당 아티스트의 모든 곡 데이터를 수집하여 리스트로 반환합니다.
+    이때 각 곡마다 하드코딩된 'decade'가 결과 딕셔너리에 포함됩니다.
+    """
+    song_list = ARTIST_SONGS.get(artist)
+    if not song_list:
+        print(f"    ⚠  ARTIST_SONGS에 {artist} 없음")
+        return []
+
+    results = []
+    for artist_slug, song_slug, decade in song_list:
+        print(f"    → {artist_slug}/{song_slug} ({decade}) 시도...")
+        res = fetch_chords_from_url(artist_slug, song_slug)
+        time.sleep(random.uniform(0.8, 1.5))  # Rate-limit 준수
+
+        if res:
+            results.append({
+                "artist": artist,
+                "title": song_slug.replace("-", " ").title(),
+                "decade": decade,
+                "section": res["section"],
+                "key": res["key"],
+                "mode": res["mode"],
+                "chords": res["chords"],
+                "url": res["url"],
+            })
+    return results
+
+if __name__ == "__main__":
+    print("=" * 60)
+    print("TheoryTab 실제 스크래핑 테스트 (곡 단위 / 하드코딩 시대)")
+    print("=" * 60)
+    test_artists = ["Nirvana", "Taylor Swift", "NewJeans"]
+    for artist in test_artists:
+        print(f"\n[{artist}]")
+        songs = get_all_songs_for_artist(artist)
+        for s in songs:
+            print(f"  ✅ [{s['decade']}] {s['title']} | Key: {s['key']} {s['mode']}")
+            print(f"     Chords: {s['chords'][:50]}...")
