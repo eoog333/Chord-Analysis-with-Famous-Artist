@@ -1,344 +1,566 @@
-﻿artist,title,decade,key,mode,raw_chords,ht_section
-Nirvana,Smells Like Teen Spirit,90s,F,minor,Fm Bbmsus2 Fm6 Db7 Fm Bbmsus2 Fm6 Db7 Fmsus4 F Absus4 Db Fm F Fm Gdim Fm6 F Fm6 Fmsus4 F Absus4 Db Fm Bbm Ab Db Fmsus2 Bbmsus2 Ab Db,hook
-Nirvana,Come As You Are,90s,E,minor,Em D Em D Emsus4 G Am C,hook
-Nirvana,Lithium,90s,D,major,D Bm G Bb Db A Db D A6 Bm G Bb C A D A Bm G Bb Db A,hook
-Nirvana,Heart Shaped Box,90s,G#,minor,Abm E Dbm Abm E G# Dbmsus4 G# E Dbmsus4 G# E G# Abm Bbdim6 B6 E Bbdim6 B G# E Dbmsus4 E G# Dbmsus4 Abm G# Esus2 Dbm G# F#,hook
-Radiohead,Creep,90s,G,major,G D C Csus4 C B G D C B G D C Csus4 C B G D C B,hook
-Radiohead,Fake Plastic Trees,90s,A,major,A F#m7 E6 Dsus2 A Dsus2 A F#m7 E6 Dsus2 A Dsus2 Bm7 A,hook
-Radiohead,Karma Police,90s,A,dorian,Am F7 Em G Am E Em Dm6 Em Amadd9 Em7 Am C F C F C A,hook
-Radiohead,High And Dry,90s,E,major,E6 F#m11 E6 Aadd9 F#msus4 Aadd9 E,hook
-Oasis,Wonderwall,90s,F#,minor,F#m7 A Esus4 Bmsus4 D E F#m7 Dadd9 F#m7 A F#m7,hook
-Oasis,Dont Look Back In Anger,90s,C,major,C F C G Am G F G C F E6 C C G Am G F G C C G Am G F G C,hook
-Oasis,Champagne Supernova,90s,A,mixolydian,A Amsus2 Fsus4 Amsus2 Amsus2 A F7 Em Am Dm Dm Am Dm Em Am,hook
-Oasis,Live Forever,90s,G,major,G D Am7 C D G7 F#dim C7 Em F#dim G7 F#dim,hook
-Green Day,Basket Case,90s,Eb,major,Eb Bb Cm Gm Ab Ab Bb Eb Ab Bb Eb Bb Cm Gm Ab,hook
-Green Day,When I Come Around,90s,F#,major,F# Db Ebm B F# B,hook
-Mariah Carey,Always Be My Baby,90s,E,major,E Abm7 Aadd9 B Dbm7 Abm7 Aadd9 E A Esus4 Ebdim Dbm7 Abm7 A E7 B E E Dbm B E7,hook
-Mariah Carey,Hero,90s,E,major,E B6 Dbm7 E6 Aadd9 Abm7 F#m7,hook
-Mariah Carey,Fantasy,90s,G,major,G Em G Em D Em G Em D Em,hook
-Mariah Carey,Vision Of Love,90s,C,mixolydian,Cm Fm C Eb7 Cm Gm6 Fm B6 C Fmadd9 Gmsus4 Cm Eb Bb Cm Ab7 Cm6 Bb Cm Ab7,hook
-Pearl Jam,Black,90s,E,major,E A Dbm E,hook
-Pearl Jam,Even Flow,90s,D,mixolydian,Dm A Dm C,hook
-Pearl Jam,Alive,90s,A,mixolydian,Am G Am B G Dm,hook
-Pearl Jam,Jeremy,90s,A,mixolydian,Am G Am G Am G F Dm Em A Am Em Am7 Dm6 Bdim Ab Amsus2 Ab Amsus2,hook
-Red Hot Chili Peppers,Under The Bridge,90s,D,lydian,Dm Am Dm9 Edim Am Dm Am Bb F Gm Dm Am Edim Dm Am Dm Am Bb F Gm D Dm Am6 Bb7 D Dm Am6 Bb7,Bridge
-Red Hot Chili Peppers,Californication,90s,A,minor,Amadd9 Fadd9 Am F7 C G Dm Am Am F7,hook
-Red Hot Chili Peppers,Scar Tissue,90s,D,minor,F C Dm C F C Dm C F C Dm C,hook
-Red Hot Chili Peppers,Otherside,90s,A,minor,Am F C G Am Em Am F C G Am F C,hook
-TLC,Waterfalls,90s,Eb,major,Eb7 Bbadd9 Ab9 Eb9 Bbadd9 Ab7 Ebadd9 Bbadd9 Ab7,hook
-TLC,No Scrubs,90s,G#,minor,Dbm7 Abm G# Abm Dbm7 Abm Ebm7 Abm Dbm7 Abm Ebm7 Abm E G# Abm7 G# Ebm7 E9 G#,hook
-TLC,Creep,90s,C,minor,Cm7 Fm7 Cm7 Fm7 Cm7 Fm7,hook
-TLC,Unpretty,90s,C,major,C G6 C6 F G C G6 C6 F G C G6 C6 F G,hook
-Boyz II Men,Ill Make Love To You,90s,D,major,D Bm7 A Em6 F#m7 A Em6 D Bm Emsus4 Asus4 D Bm Em,hook
-Boyz II Men,End Of The Road,90s,Eb,major,Eb Cmsus4 Ab Gm Fm Ab Bb Eb Eb Gm6 Eb Cm Bb Ab Eb Cmsus4 Ab Gm Fm Ab Bb,hook
-Boyz II Men,On Bended Knee,90s,Eb,major,Eb Bb7 Ab9 Bbsus4 Bbsus4 Eb Fm7 Bb9 Ab9 Ab9 Bb Cm7 Gm7 Fm7 Bb Ddimsus4 Eb Eb7 Ddim13 Cm9 Ab7 Eb,hook
-Madonna,Vogue,90s,Ab,mixolydian,Abm Ebm11 Abm F#add9 Dbm6 Ebmsus4 Abmsus4 Ebmsus4,hook
-Madonna,Like A Prayer,90s,D,minor,Dm C Edim7 Gm Dm Am Bb Gm Dm Am Dm Am Gm Dm6 Bb11 C7 Dm Gm6,hook
-Madonna,Ray Of Light,90s,Bb,major,Bb Cm7 Dm6 Eb Bb Eb Bb Bb Eb Bb Eb,hook
-Madonna,Frozen,90s,F,minor,Fm Bbm Db Ab Fm Bbm F Fm Ab Gdim6 Bbm7 Db Bbm Gdim6,hook
-Celine Dion,My Heart Will Go On,90s,E,major,E B6 Asus2 Eadd9 B E B6 Dbm7 B A B Dbm7 B A Dbm7 B A B Dbm7 B A,hook
-Celine Dion,The Power Of Love,90s,Ab,major,Eb Ab Db Bbm,hook
-Celine Dion,Because You Loved Me,90s,Db,major,Db F# Bbm Absus4 Fm7 F# Absus4 F#7 Bbm Ebmsus4 A Absus4 Db F#,hook
-Whitney Houston,I Will Always Love You,90s,A,major,A F#m D E,hook
-Whitney Houston,I Have Nothing,90s,G,major,G7 Em9 Cadd9 G6 Am7 D Am7 Bm7 Em7 Cadd9 Bm7 Am7 Bm7 Em7 Bm6,hook
-Whitney Houston,Run To You,90s,Ab,major,Bbmsus4 Eb Db Bbm Eb Absus2 Eb9,hook
-R.E.M.,Everybody Hurts,90s,D,major,D G Em A F#m7,hook
-R.E.M.,Losing My Religion,90s,A,minor,F Dm G Am Bdim11 Am6 Dmsus2 Am Em Am Em,hook
-R.E.M.,The One I Love,90s,E,minor,Em D,hook
-U2,One,90s,A,minor,Am Dmsus2 F7 G Am F Dm,hook
-U2,With Or Without You,90s,D,major,D A Bm G D A Bm G D A Bm G,hook
-U2,Beautiful Day,00s,A,mixolydian,Am Emsus4 Dm G Dmadd9,hook
-U2,I Still Havent Found What Im Looking For,90s,Db,major,Db F#sus2 Db Ab F#,hook
-Foo Fighters,Everlong,90s,B,minor,D7 Bmsus2 Gsus2 Bmsus2 D7 Bmsus2 Gsus2 Bmsus2 Bm7 F#m,hook
-Foo Fighters,My Hero,90s,E,major,E Dbm E Dbm A Dbm E B,hook
-Foo Fighters,Learn To Fly,90s,B,mixolydian,Bmsus2 F#m11 Em Bmsus4 F#m11 Em Bmsus4 G D B G Asus4,hook
-Foo Fighters,Monkey Wrench,90s,B,major,B E Bb6,hook
-No Doubt,Dont Speak,90s,C,minor,Cm Gm Fm Bb Gm Fm Bb Cm Gm Fm Bb Gm Fm Bb Cm Fm Bb C Fm C Cm Cm Gm6 Fm Ab Ddimsus4 Cm Gm Fm Bb,hook
-No Doubt,Just A Girl,90s,D,major,D Bm Bb A D Bm Bb A Bm A G A,hook
-No Doubt,Spiderwebs,90s,Bb,major,Bb F Gm Eb Bb Cm Dm F Gm Eb F Bb Gm Eb F Bb Gm Eb,hook
-Weezer,Buddy Holly,90s,Ab,major,Fm Eb6 Ab Db Cm Fm Ab Db Eb Ab Fm Ab Bbm Cm Bbm Ab Db Cm Fm,hook
-Weezer,Say It Aint So,90s,Eb,major,Cm Bb Ab Eb Cm Bb Ab Eb Cm Gm Ab Eb Eb Ab B,hook
-Weezer,Island In The Sun,00s,G,major,Em Am6 D6 G6 Em Am D G Em Am7 D G D G,hook
-Alanis Morissette,Ironic,90s,B,major,E7 B F# B F# Abm B E B Dbm E7 Ebm6,hook
-Alanis Morissette,You Oughta Know,90s,F#,dorian,A Bm A Bm F#m E Ab Bm,hook
-Alanis Morissette,Hand In My Pocket,90s,G,mixolydian,Fsus2 Cmsus2 Gm,hook
-Alanis Morissette,Head Over Feet,90s,C,major,C G Am F G Em C Dm G Em C,hook
-The Smashing Pumpkins,1979,90s,Eb,major,Eb7 Ab Eb7 Ab Eb Ab Ab Bb Cm,hook
-The Smashing Pumpkins,Today,90s,Eb,major,Eb Bb Abadd9 Eb Bb Ab Fm Ab Eb Bb Eb Gm Eb Eb Bb Eb Ab,hook
-The Smashing Pumpkins,Bullet With Butterfly Wings,90s,Bb,minor,Bbm F# Ebm Ab Bbm Absus2 Bbm F# Ebm Ab Bbm Ebm F# Ab Bbm Ab F# Db Ab Ebm F# Ebm F# Fm Ab Bbm Ab F# Db Ab Bb,hook
-Janet Jackson,Together Again,90s,C,major,C G6 G6 G7 Dm9 G13 Dm9 Dm9 G6 C G6 Am7 G F7 C6 Dm7,hook
-Janet Jackson,Thats The Way Love Goes,90s,G,minor,Eb7 Dm6 Gm Eb7 Dm6 Gm,hook
-Spice Girls,Wannabe,90s,B,mixolydian,Bm Db Em A F#m G7 Em Bm F#m G7 Em Bm F#m G7 Em Bm,hook
-Spice Girls,2 Become 1,90s,D#,minor,Ebmadd9 Db6 F# Abmsus4 Ebm9 Db6 F# Abmsus4 B Bbm Abm6 Db11 B Bbm Ebm Bbm Abm Bbm Ebm C Ebm F Abm Ebm F Abm,hook
-Spice Girls,Say Youll Be There,90s,Db,major,Bbm Db F Db Bbm Db F# Db Db F#7 C6 Absus4 Bbm Db F Db Bbm Db F Db,hook
-Backstreet Boys,I Want It That Way,90s,A,major,F#m D A Dadd9 E F#m Dadd9 E A F#m Dbmsus4 E F#m A6 D Bm E F#m A6 F#m D A Bm Dadd9 E F#m Dadd9 E F#m Dadd9 E F#m Dadd9 E F#m,hook
-Backstreet Boys,Everybody,90s,Bb,minor,Bbm F# Fm Bbm F# Fm Bbm Fmsus4 Ebm F# G Bbm Fmsus4 Bbm F# Fm,hook
-Backstreet Boys,As Long As You Love Me,90s,C,major,Am F G C G6 F C Am Gsus4 Am C6 F G Am C6 C,hook
-NSYNC,Bye Bye Bye,00s,G#,minor,Abm F# E Abm Dbm Ebm E F# E F# E Dbm G# Abm F#,hook
-NSYNC,Its Gonna Be Me,00s,C,minor,Gm Ab Cm Bb Ab Bb Gm Cm Ab C Cm Ab Bb Gm Cm Bb Ab C,hook
-NSYNC,Tearin Up My Heart,90s,A,minor,Am G A Am G A Emsus4 A F G Am G F F G Am G F Emsus4 A,hook
-Blink-182,All The Small Things,90s,C,major,C G F G C F Gsus4,hook
-Blink-182,Whats My Age Again,90s,F#,major,B F# Db Ebm F# Db Ebm B,hook
-Blink-182,I Miss You,00s,B,major,B Abm7 B Abm7 B F#sus4 Eadd9,hook
-The Cranberries,Zombie,90s,E,minor,Em C7 G6 Dadd9 Em C G D6 Em C G D6 Em C G D6,hook
-The Cranberries,Linger,90s,D,major,F#m6 A D A6 G D A6 Gadd9,hook
-The Cranberries,Dreams,90s,E,major,E A B7 E A B7 E A B7 E A,hook
-Aerosmith,I Dont Want To Miss A Thing,90s,D,major,D A6 Bm7 G D6 Emsus4 F#m7 D A6 Em7 G A D A6 G D A6 Em7 Asus4,hook
-Aerosmith,Cryin,90s,A,major,A E F#m Dbm D A E A E A E F#m D A E D A7 Dbm D Abdim,hook
-Aerosmith,Crazy,90s,A,major,A D F#m D E F#m D A F#m D Db A F#m D,hook
-Shania Twain,Man I Feel Like A Woman,90s,Bb,dorian,Bbm Ebm Ebm Fmadd9 Db7 Bbm F# Ebm,hook
-Shania Twain,Youre Still The One,90s,Eb,major,Eb Ab Bb Eb Ab Fm Bb Eb Ab Bb Eb Ab Fm Bb Eb Ab Bb,hook
-Shania Twain,That Dont Impress Me Much,90s,Db,major,Bbm F# Db Ab Db Ab F# F# Db Ab Bbm,hook
-Goo Goo Dolls,Iris,90s,D,major,D Emsus4 G Bm Asus4 G Bm A G Bm A G G F#m G Bm G F#m Bm Bm D Bm A G,hook
-Goo Goo Dolls,Slide,90s,Ab,major,Fm Eb Db Ab Fm Eb Dbadd9 Db Eb,hook
-Coldplay,The Scientist,00s,F,major,Dm7 Bbsus2 F Dm7 Bbsus2 F Bb F Dm7 Bbadd9 F,hook
-Coldplay,Yellow,00s,B,major,B Ebm6 F#sus2 Dbm6 E7 B Ebm6 E7 E7 Abm F# B Ebm6 F#sus2 Dbm6 E7,hook
-Coldplay,Viva La Vida,00s,F,minor,Db Ab Fm Db Ebsus4 Ab Fm Db7 Ebsus4 Ab Fm11 Db Fm Db7 Eb7 Ab9 Fm,hook
-Coldplay,Clocks,00s,Eb,mixolydian,Ebm Bbm Fdim7 Ebm Bbm Fdim7 Ebm Bbm Fdim7 Abmsus2 Ebm Bbm6 Ebm Bbm Fdim7,hook
-Linkin Park,In The End,00s,D#,minor,Ebm Db B Db Ebm Db B Db Ebm Db B Db Ebm F# Db B Db Ebm F# B Ebm Db B Db Ebm Db Ebm F# Db B Db Ebm F#,hook
-Linkin Park,Numb,00s,F#,minor,F#m D A E F#m D7 A E D7 E6 F#m A F#m D7 A E6 D7 Eadd9 F#m Dbmsus4 Abdim7 A Dbmsus4,hook
-Linkin Park,What Ive Done,00s,G,minor,Gm Bb F Cm Gm Bb F Cm Gm Bb F Cm,hook
-Linkin Park,Crawling,00s,C#,minor,A E B E Dbm B E Dbm A E B C# Aadd9 E B C#,hook
-Maroon 5,She Will Be Loved,00s,C,minor,Cm7 Bb7 Cm Gm Ab Gm Cm Gm Ab Cm Gm Ab Fm Cm Bb Cm Gm Ab Gm Cm Gm Ab,hook
-Maroon 5,Sunday Morning,00s,C,major,Dm9 G C7 Dm9 G C7,hook
-Maroon 5,This Love,00s,C,minor,Gm6 Cm C Fm7 Bb6 A7 Gm6 Cm C Fm7 Bb6 A7 Cm Fm7 Bb Eb Fm7 Eb7 C Cm Fm7 Eb7 C,hook
-Maroon 5,Harder To Breathe,00s,C#,minor,Dbm7 C# C# F#m7,hook
-Beyonce,Halo,00s,A,major,A Bm F#m D A Bm F#m D A Bm F#m D,hook
-Beyonce,Irreplaceable,00s,Bb,major,Bb F Cm Ebadd9 F Eb9 Gm7 Eb9 Dm Cm F Bb F Cm Ebadd9 Bb F Cm Eb7 F Bb F6 Gm F,hook
-Beyonce,Single Ladies,00s,E,mixolydian,Em Bm B7 Bm E Bm B7 Am Bm Em,hook
-Norah Jones,Dont Know Why,00s,Bb,major,Bb7 F7 Eb F Gm7 F7 Bb7 F7 Eb7 F Gm7 F7 Gm7 F7,hook
-Norah Jones,Come Away With Me,00s,C,major,C Am,hook
-Nelly Furtado,Maneater,00s,A#,phrygian,Bbm Db Fm Cdim Cdim Bbm A# Bbm Db6 Bbm F# Fm Ab Bbm F# Fm Ab Bbm,hook
-Nelly Furtado,Say It Right,00s,F,minor,Fm Eb Db Bbm Fm Eb Db Bbm,hook
-John Legend,All Of Me,10s,Ab,major,Fm Db Ab Eb Bbm Ab Eb,hook
-Rihanna,Umbrella,00s,Bb,minor,F# Db6 Fm Bbm F# Db Ab7 Bbm Ebm Bbm Fmadd9 Cdim Db Ebm Bbm,hook
-Rihanna,Dont Stop The Music,00s,F#,minor,D F#m D F#m,hook
-Rihanna,Take A Bow,00s,E,major,E B Dbm A E B Dbm7 A Asus4 B Dbm7 F#m7 E6 Asus4 B,hook
-Rihanna,Disturbia,00s,B,minor,Bm D A G Bm D A Bm D A G Bm D A Bm D A G Bm D A Bm D A G Bm D A Em F#m Gadd9 A Em F#m Gadd9,hook
-Britney Spears,Toxic,00s,C,minor,Cm Eb C Cm C Cm Eb C Cm C Cm C C Gm7 Cm Gm7 Ab Cm C C Ddim7 Cm Gm7 Ab,hook
-Britney Spears,Oops I Did It Again,00s,C#,minor,Dbm A Abmsus4 F#m7 C# A B Abmsus4 Dbm C# Dbm B E B E,hook
-Britney Spears,Womanizer,00s,C#,minor,Dbm F#m E C# C# Dbm F#m Dbm F#m E C# C# Dbm F#m E Abm6,hook
-Justin Timberlake,Cry Me A River,00s,G#,minor,Abm Ebm7 E F#6 Abm G# E G# Abm Ebm7 E F#6 Abm Ebm7 E F#6 Abm Ebm7 E F#6 Abm G# E G#,hook
-Justin Timberlake,What Goes Around Comes Around,00s,A,dorian,Am C G Dm Am C G Dm Am C G Dm Am C G Dm F7 G7 Am,hook
-Justin Timberlake,Rock Your Body,00s,E,minor,E Am11 Em E Am11 Em E Am11 Em Gadd9 C7 D Em Am7 Gadd9 C7,hook
-Usher,Yeah,00s,G,minor,Gm Eb Gm Eb Gm Eb,hook
-Usher,Burn,00s,Db,major,Dbadd9 Bbm7 F#add9 Bbm7 Dbadd9 Bbm7 F#add9 Db Bbm7 F#add9 Bbm7 Dbadd9 Bbm7 F#add9,hook
-Usher,U Got It Bad,00s,Bb,minor,Bbm7 F#7 Bbm7 F#7,hook
-Gorillaz,Feel Good Inc,00s,D#,minor,D# Bbm7 Abm7 Ebm Ebm Db Abm6 Bbm7 Ebm Bbm7 Abm7,hook
-Gorillaz,Clint Eastwood,00s,D#,phrygian,Ebm Fdim6 Ebm Fdim6 Ebm F# Abm F# Ebm Db D#,hook
-Gorillaz,Dare,00s,G,minor,G Bb G Bb,hook
-The Killers,Mr Brightside,00s,Db,major,Db F#7 Db F#7 Bbm Absus4 F#6 Db F# Bbm7 Ab Db F#add9 Bbm7 Ab Db F# Bbm7 Ab Db F#add9 Bbm7 Ab,hook
-The Killers,Somebody Told Me,00s,Bb,minor,Bbm Ebmsus2 Bbm Ebmsus2 Bbm F# Ab Bbm F# Bbm F# Ab Fm F# Ab Ebm Db Ebm F# Bbm,hook
-The Killers,When You Were Young,00s,B,major,E F# Abm B E F# Abm B E F# Abm B Dbm E Abm Ebm Abm F# E,hook
-The Strokes,Last Nite,00s,C,major,C F Gsus4 F Gsus4 C Dm7 G Em7 G6 F Gsus4,hook
-The Strokes,Reptilia,00s,B,dorian,Bm Em7 Bm7 Em7 Bm F#m G A G A F#m Bm Em,hook
-The Strokes,Someday,00s,A,major,A Bm9 D7 Bm6 A E F#m E D,hook
-Muse,Supermassive Black Hole,00s,E,minor,Am G Am Bm Am G Em Am G Am Bm E Am G Em G Am G Am Bm Am G Em,hook
-Muse,Starlight,00s,B,major,B Dbm Abm E B Dbm Abm E B B Abm Ebm E Bbdim B B B Abm B,hook
-Muse,Uprising,00s,D,minor,Dm Gm F D Gm F D Dm Gm F D Gm F D Dm Gm F D Gm F D,hook
-Muse,Time Is Running Out,00s,A,minor,Am Em A F G Am Em A F G F G Am C6 Dm Am,hook
-John Mayer,Gravity,00s,G,major,G C,hook
-John Mayer,Your Body Is A Wonderland,00s,F,major,Bb C F C,hook
-John Mayer,Waiting On The World To Change,00s,D,major,D Bm G D A Bm G,hook
-Alicia Keys,If I Aint Got You,00s,G,major,C7 Bm7 Am7 G7 Am7 Bm7 C7 G7 Em7 Am7 D7 Am7 G7 D7 G7 Am7 Bm7 Am7 G7 Am7 Bm7 C7 Bm7 Am7 G7 Am7 Bm7 C7,hook
-Alicia Keys,No One,00s,E,major,E B6 Dbm7 A E B6 Dbm7 A E B6 Dbm7 A E B6 Dbm7 A F#m7 E6 A Dbm7 F#m7 E6 A E B6 Dbm7 A,hook
-Alicia Keys,Fallin,00s,E,minor,Bm7 Em,hook
-Pink,So What,00s,F#,minor,F#m A Dbm F#m A D Bm,hook
-Pink,Who Knew,00s,A,major,A Bm F#m E D E F#m A Bm F#m E A D E F#m A,hook
-Pink,Just Like A Pill,00s,A,major,A F#m D E A F#m D E D E,hook
-Kelly Clarkson,Since U Been Gone,00s,G,mixolydian,Gm Adim Eb F Gm Adim Eb F Bb Cm Gm Cmadd9 Eb Cmadd9 Gm,hook
-Kelly Clarkson,Because Of You,00s,F,minor,Ab Cm Fmadd9 Eb Fm Dbadd9 Eb Eb Cm Fm Eb Ab6 Fm Eb Db Fm Db Eb Fm Db Eb,hook
-Kelly Clarkson,Breakaway,00s,C,major,Am G6 C F Am G6 F Am G F C G Am F C G Am C F Bdim,hook
-Black Eyed Peas,I Gotta Feeling,00s,G,major,C G C Em,hook
-Black Eyed Peas,Boom Boom Pow,00s,A,minor,Am F Dm6,hook
-Black Eyed Peas,Where Is The Love,00s,F,major,F C6 Dm Bb F C6 Dm Bb F C6 Dm Bb F C6 Dm Bb F Csus4 Dm Bb F C Dm Bb,hook
-Fall Out Boy,Dance Dance,00s,B,minor,Bm D A G D A Bm D A G D A Bm D G D Bm D G B Bm A6 D6 G A Bm A6,hook
-Fall Out Boy,Thnks Fr Th Mmrs,00s,Bb,minor,Bbm Fm6 Ebm Bbm6 Fm6 Bbm F# Ebm F# Bb Bbm F# Bbm7 Bb Ebm7 F# Bb,hook
-My Chemical Romance,Welcome To The Black Parade,00s,G,major,G Bm6 Em G6 C Em Am G D6 F# C G D G D6 Em D C D D Em G C6 D C G C D G D6 Em D C D,hook
-My Chemical Romance,Teenagers,00s,E,major,E B A E B,hook
-Avril Lavigne,Complicated,00s,F,major,F Dm Bbadd9 C Bb7 C Dm Dm Bb F C,hook
-Avril Lavigne,Sk8Er Boi,00s,D,major,D A Bm Bb A D A Bm Bb D A Bm D A G F#m D A G Bb D F#m Dbdim Bm A,hook
-Avril Lavigne,Girlfriend,00s,D,major,D A Bm G D A Dbdim Bm Dbdim F#m Dbdim D Bm,hook
-Avril Lavigne,Im With You,00s,A,major,F#m7 Dsus2 E D Asus2 Esus2 Dsus2,hook
-Lady Gaga,Bad Romance,00s,A,minor,Am C F Am C G F G Am C F G A Am F7 F G Am C F G A,hook
-Lady Gaga,Just Dance,00s,C#,minor,Dbm E B F#m Dbm E B F#m E A Abm Dbm E B F#m E Dbm6 Ebdim E F#m C# Abm B,hook
-Lady Gaga,Poker Face,00s,G#,minor,Abm E F# Abm E F# Abm E B F#6 Abm E F# Abm E B F#,hook
-Lady Gaga,Paparazzi,00s,C,minor,Cm6 Ab Cm Gm Ab Fm,hook
-Taylor Swift,Love Story,00s,D,major,D A Bm G D G Bm7 G G A Bm D G A Bm7 D A Bm G A Bm7 Gadd9 D A D A Bm G A D A,hook
-Taylor Swift,You Belong With Me,00s,F#,major,F# Db Abm B7 Abm B F# Db Abm B Db F# Db Abm Badd9 Abm Badd9 F# Db,hook
-Taylor Swift,Teardrops On My Guitar,00s,Bb,major,Bb Gm7 Eb F6 Bb Gm7 Eb F6 Bb F6 Gm7 Eb,hook
-Taylor Swift,Our Song,00s,D,major,D Em7 G A D Em7 G A A Em G D,hook
-Katy Perry,I Kissed A Girl,00s,A,minor,Am Em6 C6 Dm7 F Am C Dm Em F Em F Em Am G,hook
-Katy Perry,Hot N Cold,00s,G,major,G D Am C G D Am C Em C G D,hook
-Katy Perry,Teenage Dream,10s,Bb,major,Eb7 Gm Fsus4 Eb7 Gm Fsus4 Eb7 Gm Fsus4,hook
-Katy Perry,Firework,10s,Ab,mixolydian,Abm F# E Dbmsus2 Abm Bbdimadd9 E Dbm6 Abm Bbdimadd9 E Dbm6 E Dbm Abm Ebmsus4 Abm Bbdimadd9 E Dbm6 Abm Bbdimadd9 E,hook
-Jason Mraz,Im Yours,00s,B,major,B F# Abm E B F# Abm E B F#6 Abm F# E B,hook
-Paramore,Misery Business,00s,F,minor,Fm Bbm Cm Bbm Cm Eb Fm Fm Bbm Cm Bbm Cm Eb Fm Db Ab Eb Fm Cm Db Ab Eb Fmsus4 Db Ab Eb Fm Cm,hook
-Paramore,Decode,00s,Bb,minor,F#7 Ebm7 Bbm7 Fm7 F#7 Ebm7 Bbm7 Fm7 F#7 Ebm7 Bbmadd9 Fm7,hook
-Kings of Leon,Sex On Fire,00s,E,major,E Dbm E Dbm E Dbm,hook
-Bruno Mars,Just The Way You Are,10s,F,major,F Dm Bb F Dm Bb F Dm Bb F Dm Bb,hook
-Bruno Mars,Talking To The Moon,10s,E,major,E B7 Dbm B A F#m B Dbm Ebdim E F#m E F#m Bsus4,hook
-Bruno Mars,Grenade,10s,D,minor,Dm Am Dm Am Dm Am Dm Bb D Dm Bb Am Bb Gm Dm Gm Dm Gm D,hook
-Bruno Mars,Locked Out Of Heaven,10s,D,minor,C Dm C Bb F6 Gm C Dm C Bb F6 Gm F Gm Edim Dm Am Gm Edim Dm Am,hook
-Bruno Mars,When I Was Your Man,10s,C,major,Am C Dm G C Em6 Am Em B C6 G F G C F G C G6 Am Em6 G,hook
-Adele,Someone Like You,10s,A,major,A Dbm6 F#m D D A Dbm6 F#m Eadd9 F#m7 D A E F#m D,hook
-Adele,Rolling In The Deep,10s,C,minor,Cm Gm Bb Gm Bb Ab Bb Gm Cm Bb Ab7 Bb Ab7 Bb Cm Bb Cm Bb Ab7 Bb,hook
-Adele,Hello,10s,F,minor,Fm Ab Eb Dbadd9 Fm Eb Cm Db Fm Eb Db Fm Dbadd9 Ab Eb Ab Eb Fm Db Eb Ab Fm,hook
-Adele,Set Fire To The Rain,10s,D,minor,Gm Dm F C Gm6 Dmadd9 Bb Cadd9 Dm Edim11 Dm6 C Dm11 C6 Gm Am Gm Dm6 F Dm F C Gm C Dm Edim11 Dm6 C Dm11 C6,hook
-Ed Sheeran,Thinking Out Loud,10s,D,major,D G A Em A D Em A Em A,hook
-Ed Sheeran,Perfect,10s,Ab,major,Ab Fm Db Ab Eb Ab Fm Fm Db Ab Eb,hook
-Ed Sheeran,Shape Of You,10s,C#,minor,Dbm F#m A B Dbm F#m A Bsus4 Dbm F#m A B Abm6 Dbm F#m A B,hook
-Ed Sheeran,Photograph,10s,E,major,E Dbm B A E Dbm B A Dbm A E B E B Dbm A,hook
-One Direction,What Makes You Beautiful,10s,E,major,E A B E A B E A Dbm B E A B,hook
-One Direction,Story Of My Life,10s,Eb,major,Cm Eb Ab Bb Cm Eb Ab Cm Ab Fm7 Bb,hook
-One Direction,Drag Me Down,10s,C,minor,Cm Ab Bb Fm,hook
-Hozier,Take Me To Church,10s,E,minor,Em Am Em Am G Bm6 E Em E G Am Am Em Bm7 C,hook
-Hozier,Cherry Wine,10s,E,major,E Dbm A6,hook
-Hozier,Work Song,10s,Bb,major,Bb Cm Gm F Bb Cm6 Gm F Bb,hook
-Justin Bieber,Love Yourself,10s,E,major,E B6 Dbm F#m6 E B6 Dbm A E6,hook
-Justin Bieber,Sorry,10s,Eb,major,Ab Cm7 Bb Ab Cm7 Bb,hook
-Justin Bieber,What Do You Mean,10s,Ab,major,Dbadd9 Ab Fm Eb,hook
-Justin Bieber,Baby,10s,Eb,major,Eb Cm Ab Bb Eb Gm Eb6 Eb Cm Ab Bb Eb Cm Ab Bb,hook
-Ariana Grande,Thank U Next,10s,Bb,minor,Ebm6 Ab Bbm7 Bb Ebm6 Bb Bbm7 Db,hook
-Ariana Grande,No Tears Left To Cry,10s,A,minor,A Fadd9 Gadd9 Am G F G6 Am G F Am G F G6 Am G F,hook
-Ariana Grande,Into You,10s,F#,minor,F#m E6 A E6 D E F#m E6 A E6 D E F#m7 E6 A Bm D9 E D7 E F#m7 E6 A E6,hook
-Ariana Grande,7 Rings,10s,C#,minor,Dbm B A G F#m Abm Dbm B A Abm F#m C# Dbm A F#m Abm,hook
-The Weeknd,Blinding Lights,10s,C,minor,Fm Cm Eb Bb Gm7 Fm Cm Eb Fm Cm Eb Bb Eb6 Fm Cm Eb Bb Gm7,hook
-The Weeknd,Starboy,10s,A,minor,Am6 G F G Am6 G F G Em Am G F G Em,hook
-The Weeknd,The Hills,10s,C,minor,Cm Ab Fm Ab Ab7 Fm Cm Ab13 Fm7,hook
-The Weeknd,Cant Feel My Face,10s,A,minor,G F Am G F Am,hook
-Lord Huron,The Night We Met,10s,A,major,F#m E A F#m A D,hook
-Lord Huron,Ends Of The Earth,10s,C#,minor,Dbm E A E,hook
-Vance Joy,Riptide,10s,Db,major,Bbm Ab Db Bbm Ab Db Bbm Ab Db Bbm Ab Db F# Bbm Ab Db,hook
-Vance Joy,Mess Is Mine,10s,G,major,Em C G,hook
-Imagine Dragons,Radioactive,10s,B,dorian,Bm D A Bm D A Em Bm D A Bm Dsus2 A Em,hook
-Imagine Dragons,Demons,10s,Eb,major,Eb Bbsus4 Cm Ab Eb Bb Cm Ab,hook
-Imagine Dragons,Believer,10s,Bb,minor,Bbm F# Bb Bbm F# Fm6 Bbm F# Fm6 F# Ab Bb Bbm F# Fm6,hook
-Imagine Dragons,Thunder,10s,C,major,C F C Am F Em G Dm,hook
-Twenty One Pilots,Stressed Out,10s,A,minor,F Dm Am F A Am A Am G C Am G C A,hook
-Twenty One Pilots,Ride,10s,F#,major,F# Abm Ebm B F# Abm Ebm F# Abm Ebm B F# Abm Ebm F# Abm Ebm B F# Abm Ebm F# Abm Db Ebm Abmsus4 Ebm Db,hook
-Twenty One Pilots,Heathens,10s,E,minor,C Em Am Em C Am Em C Am E,hook
-Halsey,Without Me,10s,D#,minor,Ebm F# Db Abm Ebm F# Db Db B Ebm F# Db Abm Ebm Db B Ebm F# Db Abm Ebm,hook
-Halsey,Colors,10s,Bb,minor,F# Ab Bbm Db6 Ab6,hook
-Halsey,Bad At Love,10s,C,major,F7 Gsus4 F7 Gsus4 F7 Gsus4,hook
-Billie Eilish,Bad Guy,10s,G,minor,Gm Cm Dm7 Gm Cm Dm7 Gm Cm Dm7 Gm Cm Dm7,hook
-Billie Eilish,Ocean Eyes,10s,G,major,C D Em C D Em,hook
-Billie Eilish,When The Partys Over,10s,E,major,A B Dbm B E B E Bsus4 Dbm7 B E A F#m6,hook
-Shawn Mendes,Stitches,10s,Bb,minor,Bbm Ab Db F# Bbm Ab Db F# Bbm Ab F# Bbm Ab Db F#,hook
-Shawn Mendes,Treat You Better,10s,Db,major,Bbm Ab F# Db,hook
-Shawn Mendes,Theres Nothing Holdin Me Back,10s,B,minor,G D Bm D A D A G D Bm D A D A G D Bm D A D A,hook
-Shawn Mendes,In My Blood,10s,F,major,F Bb Dm Bb,hook
-Dua Lipa,New Rules,10s,A,minor,Am G F Dm7 G F G Am F7 G Am F7 G Am F7 Am G,hook
-Dua Lipa,Dont Start Now,10s,B,minor,Em Bm G D A Em Bm G D A Bm7 D Em7 F#m7 G7 Em Bm G D A,hook
-Dua Lipa,Idgaf,10s,E,minor,Em D G C Em D Bm,hook
-Sam Smith,Stay With Me,10s,C,major,Am7 F C Am7 F C,hook
-Sam Smith,Im Not The Only One,10s,F,major,F C Dm Bb7 F C Dm Bb7 Bb7 F C7 Dm C,hook
-Sam Smith,Too Good At Goodbyes,10s,D,minor,Dm7 Fadd9 C Gm6,hook
-Frank Ocean,Thinkin Bout You,10s,A,minor,F7 Dm7 Em7 Am7 Bdim Am Em F,hook
-Frank Ocean,Super Rich Kids,10s,Eb,major,Eb9 Bb D9 Bb11 Eb9 Bb D7 Bb11,hook
-Lana Del Rey,Summertime Sadness,10s,C#,minor,A Dbm B F#m A Dbm B F#m A Dbm B F#m Abm Dbm A F#m Abm Dbm Bsus4,hook
-Lana Del Rey,Young And Beautiful,10s,B,minor,G A Bm G A Bm D G A Bm D,hook
-Lana Del Rey,Video Games,10s,F#,minor,F#m A E D A F# F#m Dadd9 A,hook
-Lana Del Rey,Born To Die,10s,E,minor,Em G7 D C7 Em Bm C D Em D Em,hook
-Lorde,Royals,10s,D,mixolydian,Dm C Gm Dm C Gm,hook
-Lorde,Ribs,10s,E,major,A9 Dbm F#m11 Dbm7 A9 E F#m11 Dbm7,hook
-Lorde,Team,10s,F#,major,F# Ebm Db B Ebm Db Ebm,hook
-Lorde,Green Light,10s,F#,minor,F#m A D Esus2 Bmsus2 F#msus2 E Bm F#m E D F#m,hook
-Meghan Trainor,All About That Bass,10s,A,major,A Bm E A Ab6 A6 Bm E Eb6 E6,hook
-Meghan Trainor,Dear Future Husband,10s,Db,major,Db Fm6 Bbm7 Db6 F# Ab7 Db Fm6 Bbm7 Db6 F# Ab7 Db,hook
-The Chainsmokers,Paris,10s,D,major,Gsus2 Bm Asus4 F#m7,hook
-Post Malone,Circles,10s,C,major,C G6 F E F#11 C G6 C7 G6 F7 G11 C7 G6 F7 C7 G6 F7 E F#11 C7 G6,hook
-Post Malone,Rockstar,10s,G,minor,Gm Eb7 Gm Eb7 Gm Eb7,hook
-Post Malone,Better Now,10s,Bb,major,Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb,hook
-Charlie Puth,Attention,10s,D#,minor,Ebm Db Bbm B Ebm Db Bbm B Ebm Db Bbm B Ebm Db Bbm B Db Ebm Db Bbm B Db,hook
-Charlie Puth,One Call Away,10s,Db,major,Bbm Ab Db F# Db Ab Bbm F# Db Ab Db,hook
-Zedd,Clarity,10s,Ab,major,Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9 Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9 Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9,hook
-Zedd,The Middle,10s,G,major,C G D Cadd9 G D Cadd9 Em7 D,hook
-Calvin Harris,Feel So Close,10s,G,major,Am7 Em G C Am7 C Em G Em C Am7 C Em G Em C,hook
-Calvin Harris,Summer,10s,G,major,C7 Em7 D11 Em D6 Am7 C Em D Am G6,hook
-Sia,Chandelier,10s,Bb,minor,Bbm F#7 Ab Fm Ebm Fm Bbm6,hook
-Sia,Cheap Thrills,10s,F#,minor,A E6 F#m D F#m D A E6,hook
-Sia,Elastic Heart,10s,F#,minor,D A E F#m D A E F#m D A E F#m D A E F#m D A E F#m,hook
-Selena Gomez,Lose You To Love Me,10s,E,major,E F#m Dbm B A E B E6 A E B E6,hook
-Selena Gomez,Good For You,10s,F,dorian,Fm Ab Bbm Fm Eb Fm Ab Bbm Ab Gdim Fm Eb,hook
-Selena Gomez,Hands To Myself,10s,Eb,major,Eb Gm Cm Bb Eb Gm Cm Bb,hook
-Miley Cyrus,Wrecking Ball,10s,D,minor,Dm Fadd9 Cadd9 Gmadd9 Dm Fadd9 Cadd9 Gmadd9 Gm Bb Dm Dm Am Bb Gm Gm Bb Dm F Gm Bb Dm,hook
-Miley Cyrus,Party In The Usa,00s,F#,major,F# Bbm Ebm Db F# Bbm Ebm Db F# Bbm Ebm Db F# Bbm Ebm Db Bbm Ebm Bbm Abm Bbm Ebm B,hook
-Miley Cyrus,We Cant Stop,10s,E,major,E Abm A6 E Abm Dbm A B,hook
-Arctic Monkeys,Do I Wanna Know,10s,G,minor,Gm Eb Cm Dm Gm Eb Cm Dm Gm Eb Cm G Eb Cm Gm Gm Eb Cm G,hook
-Arctic Monkeys,R U Mine,10s,F#,minor,F#m D Bm F#m D Bm F#m D Bm,hook
-Arctic Monkeys,505,00s,D,dorian,Dm Edim Dm Edim,hook
-Arctic Monkeys,Fluorescent Adolescent,00s,E,major,E Dbm B F#m B F#m B,hook
-Olivia Rodrigo,Drivers License,20s,Bb,major,Bb6 Gm7 Eb Eb Bb Gm7 Bb Dm6 Eb9 Cm7 F Bb Gm7 Eb7 Bb F6 Bb6 Gm7 Eb Cm F Bb Cm F Gm7,hook
-Olivia Rodrigo,Good 4 U,20s,F#,minor,F#m E Dbm Bm F#m Dbm D Dbm F#m E Bm,hook
-Olivia Rodrigo,Deja Vu,20s,A,major,D7 A Bm7 A D7 Bm6 A Bm7 A D A,hook
-Olivia Rodrigo,Traitor,20s,Eb,major,Eb Gm6 Cm Ab7 Eb Gm Cm Ab7 Eb Gm Cm Ab7,hook
-Olivia Rodrigo,Vampire,20s,F,major,F C Bb A F C Bb A Gm9 C7 F C7 Bb7 F F Bb A F C7,hook
-Sabrina Carpenter,Espresso,20s,A,minor,Am Em Am7 Dm7 Em Dm7 Em7 Am7 Dm7 Em7 Am7,hook
-Sabrina Carpenter,Please Please Please,20s,A,major,A E7 Bm D A6 E A F#m D A6 Bm A E A E7 Bm D D E A E7 Bm6 Dbm6 D,hook
-Sabrina Carpenter,Nonsense,20s,F,minor,Db7 F Fm Ebsus4 Cm7 Db7 F Fm Ebsus4 Cm7,hook
-Sabrina Carpenter,Feather,20s,B,dorian,Bm7 A7 B Bm7 A7 B,hook
-Harry Styles,As It Was,20s,A,major,D6 Bm E6 A7 Bm E A,hook
-Harry Styles,Watermelon Sugar,10s,D,dorian,Dm7 Am C Gm Dm7 Am C Gm Dm7 Am C Gm,hook
-Harry Styles,Falling,10s,E,major,E Dbm7 B13 Abm7 A9,hook
-Harry Styles,Golden,10s,E,minor,C Em7 D Em7,hook
-Harry Styles,Late Night Talking,20s,Bb,major,Dm7 Gm7 Cm Bb7,hook
-Glass Animals,Heat Waves,20s,B,major,Dbm B Abm F# E B Dbmsus2 Dbm B Abm F# E B Abm E F# Abm B E F# Abm Dbm B Abm F# E B Dbmsus2,hook
-Tate McRae,You Broke Me First,20s,C#,minor,Dbm7 A E B6 Dbm7 A E B6 Dbm A E B6,hook
-Tate McRae,Greedy,20s,F#,minor,D Bm F#m E D Bm F#m E D Bm E F#m E D Bm D Bm F#m E,hook
-Conan Gray,Heather,20s,F,major,F Am Dm Bb7 A F Am Dm Bb7 A,hook
-Conan Gray,Maniac,20s,Eb,major,Ab Eb Cm7 Eb,hook
-Benson Boone,Beautiful Things,20s,Bb,major,Eb Bb F Gm Eb Bb F7 Eb Bb F Gm Eb Bb Gm F,hook
-SZA,Kill Bill,20s,Ab,major,Bbm7 Eb7 Ab Eb7 Ab Eb Bbm7 Eb7 Ab Eb7 Bbm7 Gdim7 Eb7 Bbm7 Eb7 Ab Eb7 Ab Eb Bbm7,hook
-SZA,Good Days,20s,E,major,E9 Dbm9 A7 E9 Dbm9 E9 Ebdim7,hook
-SZA,Snooze,20s,C,major,Dm7 Em7 F7,hook
-SZA,The Weekend,10s,B,major,E7 F#7 B6 E7 Bbdim Ebm7 B7,hook
-Zach Bryan,Something In The Orange,20s,G,major,Cadd9 G D Em,hook
-Chris Stapleton,Starting Over,20s,Bb,major,Gm F6 Bb Ebadd9 F7 Bb,hook
-PinkPantheress,Just For Me,20s,C,major,C Am,hook
-PinkPantheress,Boys A Liar,20s,D,minor,Bb7 Gm7 Am6 Bb7 Gm7 C Bb7 Gm7 Am6 Bb7 Gm7 C,hook
-Steve Lacy,Bad Habit,20s,F,minor,Db7 Ab7 Bbm11 Cm7 Db7 Ab7 Bbm11 Cm7 Db7 Ab7 Bbm11 Cm7,hook
-Steve Lacy,Dark Red,10s,F#,major,Db Abm F# F# B7 Db Abm F# F# B7 Bbm7 F# Abm7 Ebm Db7 B,hook
-Rosalia,Malamente,10s,C,minor,Cm6 Bb6 Ab Gm6,hook
-Rosalia,Despecha,20s,A,minor,Am G Am G Am G,hook
-Noah Kahan,Stick Season,20s,A,major,A E F#m D A E F#m D,hook
-Noah Kahan,Dial Drunk,20s,Ab,major,Db Ab Eb Fm,hook
-Noah Kahan,Northern Attitude,20s,Eb,major,Eb Abadd9 Eb Bb Abadd9,hook
-Chappell Roan,Good Luck Babe,20s,D,major,Gadd9 A13 D Bm7 Gadd9 A7 D Bm7 Gadd9 A D Bm7,hook
-Chappell Roan,Pink Pony Club,20s,F#,major,F# Abm Ebm B F# Abm Ebm B F# Abm Ebm B B Db Ebm Abm F# Abm Ebm B F# Abm Ebm B,hook
-Chappell Roan,Red Wine Supernova,20s,A,major,A Bm D A Bm D A Bm D,hook
-Chappell Roan,Hot To Go,20s,F#,major,F# B7 F# B F# B,hook
-Tyla,Water,20s,D#,minor,Abm6 Bbm7,hook
-Victoria Monet,On My Mama,20s,E,minor,Em7 Am7 Bm7 C7 Bm7 Am7 Em7 Am7 Bm7 C7 Bm7 Am7 Em7 Am7 Bm7 C7 Bm7 Am7,hook
-Renee Rapp,Too Well,20s,C,dorian,Cm Eb Bb Fm,hook
-Laufey,From The Start,20s,Db,major,Ebm9 Ab13 Db7 Ebm11 Ab13 Db9,hook
-Laufey,Valentine,20s,Eb,major,Eb7 Bb13 Gm7 Bb7 Fm7 Bb7 Fm7 Gm7 Ab,hook
-NewJeans,Super Shy,20s,F,dorian,Gdim7 Fm7 Gdim7 Fm7,hook
-NewJeans,Ditto,20s,F#,minor,D7 Dbm7 F#m7 Bm7 E7 Aadd9 Dbm,hook
-NewJeans,Omg,20s,D,minor,Gm7 D Gm6 Dmsus2 D11,hook
-Fifty Fifty,Cupid,20s,D,major,Em7 A7 D Bm7 Em7 A7 D Bm7 Em7 A7 D Bm7,hook
-The Weeknd (20s),Save Your Tears,20s,C,major,C Am7 Em7 G Dm Am7 F Gsus4 C Am7 Em7 G,hook
-The Weeknd (20s),Die For You,10s,C#,minor,A7 Abm7 Dbm7 F#m7 A7 Abm7 Dbm7 F#m7,hook
-The Weeknd (20s),Out Of Time,20s,C,minor,Ab7 Gm7 Cm,hook
-The Weeknd (20s),Is There Someone Else,20s,A,minor,Am Em F Dm G Am Dm,hook
-Dua Lipa (20s),Levitating,20s,B,minor,Bm7 F#m7 Em7 Bm7 F#m7 Em7,hook
-Dua Lipa (20s),Dance The Night,20s,B,dorian,Bm Em7 Bm B D G7 Bm B D G7 Bm Em7,hook
-Dua Lipa (20s),Houdini,20s,D,minor,Gm6 Dmsus2 Dm Gm6,hook
-Dua Lipa (20s),Physical,20s,A,minor,Am F C G Am F7 C G Am F C G Am F C G Am F C G Am F C G,hook
-Doja Cat,Say So,20s,D,major,Em7 A11 D7 Em7 A11 D7,hook
-Doja Cat,Woman,20s,C,minor,Fm Gm Fm Gm Fmadd9 Gm,hook
-Doja Cat,Paint The Town Red,20s,G,dorian,Gm6 Adim6 Gm7 Adim7 Gm7 Adim7 Gm7 Adim7,hook
-Lil Nas X,Thats What I Want,20s,E,major,A E B Dbm,hook
-Taylor Swift (20s),Anti Hero,20s,E,major,A7 E B Dbm7 A7 E B Dbm7 Aadd9 E B Dbm7,hook
-Taylor Swift (20s),Cruel Summer,10s,A,major,D6 E6 Dbm7 F#m7 A A Dbm7 F#m7 Dadd9 A Dbm F#m Dadd9,hook
-Taylor Swift (20s),Cardigan,20s,Eb,major,Fm Bb Ab Bb Eb Bb Ab Bb Ab Cm Eb Ab6 Cm Bb Eb Bb Ab Bb Fm Bb Ab,hook
-Taylor Swift (20s),Willow,20s,E,minor,Em D Em7 D Em Bm F#dim C7 G C F#dim Em,hook
-Billie Eilish (20s),Happier Than Ever,20s,C,major,C G7 Am F Cadd9 G7 Am Dm G,hook
-Billie Eilish (20s),What Was I Made For,20s,C,major,C Em F7 F7 C Em,hook
-Billie Eilish (20s),Everything I Wanted,10s,F#,minor,D7 E Dbm D7 E Dbm,hook
-Ariana Grande (20s),Positions,20s,D,minor,Dm Am7 C Dm6 Gm Dm Am7 C Dm6 Gm,hook
-Ariana Grande (20s),Yes And,20s,Eb,dorian,Ebm7 Abm7 Abm7 Db6,hook
-Miley Cyrus (20s),Flowers,20s,A,minor,Am Dm G C Am Dm G C Am Dm G C Am Dm G C,hook
-Miley Cyrus (20s),Midnight Sky,20s,E,minor,Em Bm C Am Em Bm C Am C D Em E Em Bm C7 C D Em E Em Bm C7 Am,hook
-Troye Sivan,Rush,20s,Eb,major,Fm Gm Fm Eb Fm7 Gm7 Ab7 Eb7 Fm7 Gm7 Fm7 Fm7 Gm7 Fm7 Eb7,hook
-Troye Sivan,My My My,10s,Db,major,Ab Bbm F#,hook
+﻿artist,title,decade,key,mode,raw_chords,relative_chords,ht_section
+Nirvana,Smells Like Teen Spirit,90s,F,minor,Fm Bbmsus2 Fm6 Db7 Fm Bbmsus2 Fm6 Db7 Fmsus4 F Absus4 Db Fm F Fm Gdim Fm6 F Fm6 Fmsus4 F Absus4 Db Fm Bbm Ab Db Fmsus2 Bbmsus2 Ab Db,1 4sus2 16 67 1 4sus2 16 67 1sus4 D4 3sus4 6 1 L7 1 2 164 L57 164 1sus4 D4 3sus4 6 1 4 3 6 1sus2 4sus2 3 6,hook
+Nirvana,Come As You Are,90s,E,minor,Em D Em D Emsus4 G Am C,1 7 1 7 1sus4 3 4 6,hook
+Nirvana,Lithium,90s,D,major,D Bm G Bb Db A Db D A6 Bm G Bb C A D A Bm G Bb Db A,1 66 4 b6 M7 5 M7 1 564/6 6 4 b6 b7 5 1 5/6 6 4 b6 M7 5,hook
+Nirvana,Heart Shaped Box,90s,G#,minor,Abm E Dbm Abm E G# Dbmsus4 G# E Dbmsus4 G# E G# Abm Bbdim6 B6 E Bbdim6 B G# E Dbmsus4 E G# Dbmsus4 Abm G# Esus2 Dbm G# F#,1 6 4 1 6 D47 47sus4 J1 6 4sus4 J1 6 D47 1 264 364(b5) 6 26 3 D47 6 47sus4 6 D47 47sus4 1 D6 6sus2 4 Y26 7,hook
+Nirvana,In Bloom,90s,Bb,mixolydian,Bbm F# Fm Ab Bb Bbm F# Bbm Bb Ebm Bb Fm Bbm F#,1 6 5 7 L7 1 6 1 Y6sus4 4 Y2 5/3 1 6,hook
+Nirvana,About A Girl,90s,E,minor,Em G Em G Em E,1 3 1 3 1 D47,hook
+Nirvana,All Apologies,90s,C#,mixolydian,F#m C#,4 J5,hook
+Nirvana,Pennyroyal Tea,90s,F#,major,Abm F# B Db A,2 1 4 5 b3,hook
+Radiohead,Creep,90s,G,major,G D C Csus4 C B G D C B G D C Csus4 C B G D C B,1 5/6 4 M4sus4 4 b4 1 5/6 4 b4 1 5/6 4 M4sus4 4 b4 1 5/6 4 b4,hook
+Radiohead,Fake Plastic Trees,90s,A,major,A F#m7 E6 Dsus2 A Dsus2 A F#m7 E6 Dsus2 A Dsus2 Bm7 A,1 67add6 5add6 4sus2 1 4sus2 1 67add6 5add6 4sus2 1 4sus2 27add4 1,hook
+Radiohead,Karma Police,90s,A,dorian,Am F7 Em G Am E Em Dm6 Em Amadd9 Em7 Am C F C F C A,1 67add6 5 7 1 b6 5 464 5 1add9 57/3 1 3 6 3 6 3 D47,hook
+Radiohead,High And Dry,90s,E,major,E6 F#m11 E6 Aadd9 F#msus4 Aadd9 E,16 211 16 4add9 27sus4 4add9 1,hook
+Radiohead,No Surprises,90s,F,major,F F#6 Fadd9 Bb6 Gm7 C Fadd9 F#6 Gm7 C7 F F#6,1 b265 1add9 465 27 5 1add9 b265 27 57 1 b265,hook
+Radiohead,Paranoid Android,90s,G,minor,Cm F9 Adim7 Cm Gm Dm6 Bb Gm6 Dmadd9 Eb7 G Dm6 Cm6 G Gm G Gm Gm D F Gm D,4 79 27 442 1 564 3 16add6 56add9 67 Y7 56/7 46 J57 1 J57 1 1 b6 7 1 M5(#5)/3,hook
+Radiohead,Let Down,90s,A,major,Asus4 E F#m E F#m E6 Dsus2 Asus2 D6 E6,1sus4 5 6add6 5 6 56 4sus2 1sus2 465 56,hook
+Radiohead,Just,90s,C,major,C Eb C F Am Ab Eb F Am Ab Eb Am Ab G C F C C,1 b3 L2 4 6 b6 b3 4 6 b6 b3 6 b6 5 C5 4 1 C5,hook
+Oasis,Wonderwall,90s,F#,minor,F#m7 A Esus4 Bmsus4 D E F#m7 Dadd9 F#m7 A F#m7,17 3 7sus4 47sus4 6 7 17 6add9 17 3 17,hook
+Oasis,Dont Look Back In Anger,90s,C,major,C F C G Am G F G C F E6 C C G Am G F G C C G Am G F G C,1 4 1 5 6 5/6 4 5 1 4 b4add6 1 1 5 6 5/6 4 5 1 1 5 6 5/6 4 5 1,hook
+Oasis,Champagne Supernova,90s,A,mixolydian,A Amsus2 Fsus4 Amsus2 Amsus2 A F7 Em Am Dm Dm Am Dm Em Am,L1sus2 142sus2 67sus4 164sus2 1sus2 D142sus2 67 5 1 4/4 4/4 1 4/4 5 1,hook
+Oasis,Live Forever,90s,G,major,G D Am7 C D G7 F#dim C7 Em F#dim G7 F#dim,1 5 27 4 5 17 7 47 6 7 17 7,hook
+Oasis,Supersonic,90s,F#,dorian,F#m A Bm E F#m F# E F# D A E F# D A E F#,1 3 4 7 1 J1 7 H57 6 3 7 J1 6 3 7 J1,hook
+Oasis,Stand By Me,90s,G,major,G D7 C G6 D G D Am C D C D G D6 Em D7 C,1 57/6 4 16 5 1 5 2 4 5 4 5 1 56 6 57/5 4,hook
+Oasis,Some Might Say,90s,C,minor,Fm Ab Eb Fm Cmadd9 Ab Eb Ab Fm Ab Gm C Cmadd9 Ab,4 6 3 4 1add9 6 3 6 4 6 5 J5/7 1add9 6,hook
+Green Day,Basket Case,90s,Eb,major,Eb Bb Cm Gm Ab Ab Bb Eb Ab Bb Eb Bb Cm Gm Ab,1 5 6 3 4 4 5 1 4 5 1 5 6 3 4,hook
+Green Day,When I Come Around,90s,F#,major,F# Db Ebm B F# B,1 5 6 4 L2 4,hook
+Green Day,American Idiot,90s,Ab,mixolydian,Abm Dbm F# Dbm Abm F# Dbm Abm Ebm Abm,1 4 7 4 1 7 4 1 5 1,hook
+Green Day,Boulevard Of Broken Dreams,90s,F,dorian,Fm Ab Eb Bbm Db Ab Eb Fm Db Ab Eb Fm Fm Db Eb F Ab F,1 3 7 4 6 3 7 1 6 3 7 1 1 6 7 J6 3 J5/3,hook
+Green Day,Wake Me Up When September Ends,90s,G,major,G Em7 G6 C B Em Bm C G Em Bm C Em Bm C G Em Bm C,1 67 164 4 b4 6 3 4 1 6 3 4 6 3 4 1 6 3 4,hook
+Green Day,Holiday,90s,F,minor,Fm Db Ab Eb Fm Db Ab Fm Db Ab Eb Fm Db Ab Fm Ab Db Bbm Eb Cm Fm Db Ab F Fm Eb Db Ab,1 6 3 7 1 6 3 1 6 3 7 1 6 3 1 3 6 4 7 5 1 6 3 H5 1 7 6 3,hook
+Green Day,Brain Stew,90s,Ab,mixolydian,Abm F# E Eb Ab,1 7 6 b6 J5,hook
+Mariah Carey,Always Be My Baby,90s,E,major,E Abm7 Aadd9 B Dbm7 Abm7 Aadd9 E A Esus4 Ebdim Dbm7 Abm7 A E7 B E E Dbm B E7,1 37 4add9 5 67 37 4add9 1 4 164sus4 7/6 67 37 4 17 5 J4 J5 6 5 17,hook
+Mariah Carey,Hero,90s,E,major,E B6 Dbm7 E6 Aadd9 Abm7 F#m7,1 56 67 164 4add9 37 27,hook
+Mariah Carey,Fantasy,90s,G,major,G Em G Em D Em G Em D Em,1 6 1 664 5 6 1 664 5 6,hook
+Mariah Carey,Vision Of Love,90s,C,mixolydian,Cm Fm C Eb7 Cm Gm6 Fm B6 C Fmadd9 Gmsus4 Cm Eb Bb Cm Ab7 Cm6 Bb Cm Ab7,1 4 J57(#5)/6 37 1 56add6 4 b16 L27 4add9 5sus4 1 343 7 1 67 164 7 1 67,hook
+Mariah Carey,We Belong Together,90s,C,major,F7 G Em7 F7 G Em7 F7 G Em7,47 5 37 47 5 37 47 5 37,hook
+Mariah Carey,Without You,90s,F#,major,F# Ebm Abm Dbsus4,1 6 2 57sus4,hook
+Mariah Carey,Obsessed,90s,C,minor,Ab7 Cm Ab7 Cm,67 1 67 1,hook
+Mariah Carey,All I Want For Christmas Is You,90s,G,major,G7 Em9 Csus2 D G C Ab G C B6 G D7 Em B6 G6 D13 Am7 D Em G Em Am D,17 69 4sus2 5 1 4 b243 1 4 b465 1 57/6 6 b46add6 164 57(b13b9)/2 27 5/6 6 1 6 2 5,hook
+Pearl Jam,Black,90s,E,major,E A Dbm E,1 4 6 1,hook
+Pearl Jam,Even Flow,90s,D,mixolydian,Dm A Dm C,1 b6 1 7,hook
+Pearl Jam,Alive,90s,A,mixolydian,Am G Am B G Dm,1 7 1 b3 7 4,hook
+Pearl Jam,Jeremy,90s,A,mixolydian,Am G Am G Am G F Dm Em A Am Em Am7 Dm6 Bdim Ab Amsus2 Ab Amsus2,1 7 1 7 1 7 6 4 5 J1add9 1 5/5 17 464 242 b1 17sus2 b1 17sus2,hook
+Pearl Jam,Better Man,90s,D,lydian,Dm6 Edim6 Dm Am Gm,16 265 1 5 4,hook
+Pearl Jam,Yellow Ledbetter,90s,E,major,E B A,1 5 4,hook
+Red Hot Chili Peppers,Under The Bridge,90s,D,lydian,Dm Am Dm9 Edim Am Dm Am Bb F Gm Dm Am Edim Dm Am Dm Am Bb F Gm D Dm Am6 Bb7 D Dm Am6 Bb7,1 5/6 19 2 5/6 1 5 6 3 4 1 5 2 1 5 1 5 6 3 4 J1 1 565 67 J1 1 565 67(b5),Bridge
+Red Hot Chili Peppers,Californication,90s,A,minor,Amadd9 Fadd9 Am F7 C G Dm Am Am F7,1add9 6add9 1 67 3 7 4 1 1 67,hook
+Red Hot Chili Peppers,Scar Tissue,90s,D,minor,F C Dm C F C Dm C F C Dm C,3 7 1 7 3 7 1 7 3 7 1 7,hook
+Red Hot Chili Peppers,Otherside,90s,A,minor,Am F C G Am Em Am F C G Am F C,1 6 3 7 1 5 1 6 3 7 1 6 3,hook
+Red Hot Chili Peppers,Cant Stop,90s,E,minor,Em D Bm C Em D Bm C Em Bm G Am7 Em D Bm C D Em D Bm C,1 7 5 6 1 7 5 6 1 5 3 47 1 7 5 6 7 1 7 5 6,hook
+Red Hot Chili Peppers,Dani California,90s,A,minor,Am G Dm Am G Dm Am G Dm Am F C Em,1 7 4 1 7 4 1 7 4 1 6 3 5,hook
+Red Hot Chili Peppers,By The Way,90s,F,major,F C Dm F C Am Bb,1 5 6 1 5 3 4,hook
+Madonna,Vogue,90s,Ab,mixolydian,Abm Ebm11 Abm F#add9 Dbm6 Ebmsus4 Abmsus4 Ebmsus4,1 511 1 7add9 465 5sus4 17sus4 57sus4,hook
+Madonna,Like A Prayer,90s,D,minor,Dm C Edim7 Gm Dm Am Bb Gm Dm Am Dm Am Gm Dm6 Bb11 C7 Dm Gm6,1 7 27 4 1 5 6 4 1 5 1 5 4 16 611 77 1 464,hook
+Madonna,Ray Of Light,90s,Bb,major,Bb Cm7 Dm6 Eb Bb Eb Bb Bb Eb Bb Eb,1 27 3add6 4 1 4 1 1 4 1 4,hook
+Madonna,Frozen,90s,F,minor,Fm Bbm Db Ab Fm Bbm F Fm Ab Gdim6 Bbm7 Db Bbm Gdim6,1 4 6 3 1 4 Y2 1 3 265 47 6 4 265,hook
+Madonna,Hung Up,90s,D,dorian,Dm Edim F Am Dm Edim F Dm Edim F Gm Am Dm Edim F Gm Am,1 2 3 5 1 2 3 1 2 3 4 5 1 2 3 4 5,hook
+Madonna,Material Girl,90s,C,mixolydian,Cmsus4 Bb Ab7 Cmsus4 Ddim Gm Fm Gm Ab,17sus4 7 67 17sus4 2 5 4 5 6,hook
+Madonna,Like A Virgin,90s,F#,major,Ebm Abm Ebm Abm,66 2 66 2,hook
+Madonna,La Isla Bonita,90s,C#,minor,Dbm B Dbm A Dbm7 E B Dbm Abm7 F#m E B F#m7 Abm7 Dbm B Dbm A B F#msus2 Dbm A B,1 7 1 66 17 3 7 1 57 4 3 7 47 57 1 7 1 6 7 4sus2 1 6 7,hook
+Coldplay,The Scientist,00s,F,major,Dm7 Bbsus2 F Dm7 Bbsus2 F Bb F Dm7 Bbadd9 F,67 4sus2 1 67 4sus2 1 4 1 67 4add9 1,hook
+Coldplay,Yellow,00s,B,major,B Ebm6 F#sus2 Dbm6 E7 B Ebm6 E7 E7 Abm F# B Ebm6 F#sus2 Dbm6 E7,1 365 5sus2add6 265 47 1 365 47 47 6 5 1 365 5sus2add6 265 47,hook
+Coldplay,Viva La Vida,00s,F,minor,Db Ab Fm Db Ebsus4 Ab Fm Db7 Ebsus4 Ab Fm11 Db Fm Db7 Eb7 Ab9 Fm,6 3 1 6 77sus4 3 1 67 77sus4 3 111 6 1 67 77 39 1,hook
+Coldplay,Clocks,00s,Eb,mixolydian,Ebm Bbm Fdim7 Ebm Bbm Fdim7 Ebm Bbm Fdim7 Abmsus2 Ebm Bbm6 Ebm Bbm Fdim7,1 5 27 1 5add4 27 1 5 27 47sus2 1 5add6 1 5 27,hook
+Coldplay,Fix You,00s,Eb,major,Eb Cm7 Ab Eb6 Bbsus4 Eb Ab Eb Bbsus4 Cm Ab Eb,1 67 4 16 5sus4 1 4 1 5sus4 6 4 1,hook
+Coldplay,Paradise,00s,G,dorian,Gm7 Cm Dm F Cm Bb F Gm7 Ebsus2 Bb F6 Gm7 Bbadd9 F Cm Bbadd9 F Bb Gm Bbadd9 F Cm6,17 4 5 7 4 3 7 17 6sus2 3 76 17 3add9 7 4 3add9 7 3 1 3add9 7 46,hook
+Coldplay,Hymn For The Weekend,00s,C,minor,Fm Bb6 Cm6 Ab Bb Cm,4 76 164 6 7 1,hook
+Linkin Park,In The End,00s,D#,minor,Ebm Db B Db Ebm Db B Db Ebm Db B Db Ebm F# Db B Db Ebm F# B Ebm Db B Db Ebm Db Ebm F# Db B Db Ebm F#,1 7 6 7 1 7 6 7 1 7 6 7 1 3 7 6 7 1 3 6 1 7 6 7 1 7 1 3 7 6 7 1 3,hook
+Linkin Park,Numb,00s,F#,minor,F#m D A E F#m D7 A E D7 E6 F#m A F#m D7 A E6 D7 Eadd9 F#m Dbmsus4 Abdim7 A Dbmsus4,1 6 3 7 1 67 3 7 67 7add6 1 3 1 67 3 7add6 67 7add6add9 1 564sus4 27 3 57sus4,hook
+Linkin Park,What Ive Done,00s,G,minor,Gm Bb F Cm Gm Bb F Cm Gm Bb F Cm,1 3 7 4 1 3 7 4 1 3 7 4,hook
+Linkin Park,Crawling,00s,C#,minor,A E B E Dbm B E Dbm A E B C# Aadd9 E B C#,6 3 7 3 1 7 3 1 6 3 7 J1add9 6add9 3 7 J5sus4,hook
+Linkin Park,Somewhere I Belong,00s,Bb,minor,Bbm F#7 Ab Ebm Bb Dbadd9 F#7 Bb Bb F#7 Ab Bb,1 67 7 4 J1 3add9 67 J4 J1 67 7 J4,hook
+Linkin Park,Breaking The Habit,00s,E,minor,Em7 C Em7 C9 Bm Em7 Am7,17 665 17 69 5 17 47,hook
+Linkin Park,Faint,00s,C#,minor,Dbm E A B Dbm Esus2 A F#m Abm E,1 3 6 7 1 3sus2 6 4 5 3,hook
+Maroon 5,She Will Be Loved,00s,C,minor,Cm7 Bb7 Cm Gm Ab Gm Cm Gm Ab Cm Gm Ab Fm Cm Bb Cm Gm Ab Gm Cm Gm Ab,17 77 1 5 6 5 1 5 6 1 5 6 4 1 7 1 5 6 5 1 5 6,hook
+Maroon 5,Sunday Morning,00s,C,major,Dm9 G C7 Dm9 G C7,29 543 17 29 543 17,hook
+Maroon 5,This Love,00s,C,minor,Gm6 Cm C Fm7 Bb6 A7 Gm6 Cm C Fm7 Bb6 A7 Cm Fm7 Bb Eb Fm7 Eb7 C Cm Fm7 Eb7 C,56 1 C164 47 765 b77 565 1 C164 47 765 b77 1 47 7 3 47 37 H77 1 47 37 H57,hook
+Maroon 5,Harder To Breathe,00s,C#,minor,Dbm7 C# C# F#m7,17 J57 Y77 47,hook
+Maroon 5,Moves Like Jagger,00s,B,minor,Bm7 Em7 Bm7 Em7 Bm7 Em7,17 47 17 47 17 47,hook
+Maroon 5,Payphone,00s,B,major,E B Abm F# E B Abm F#,4 1 6 5 4 1 6 5,hook
+Maroon 5,Sugar,00s,Db,major,F#sus2 Bbm7 Ebm7 Db F#sus2 Bbm7 Ebm7 Db F#sus2 Bbm7 Ebm7 Db F#sus2 Bbm7 Ebm7 Db,47sus2 67 27 1 47sus2 67 27 1 47sus2 67 27 1 47sus2 67 27 1,hook
+Maroon 5,Girls Like You,00s,C,major,C G Am F C G Am F C G Am F,1 5 6 4 1 5 6 4 1 5 6 4,hook
+Beyonce,Halo,00s,A,major,A Bm F#m D A Bm F#m D A Bm F#m D,1 2 6 4 1 2 6 4 1 2 6 4,hook
+Beyonce,Irreplaceable,00s,Bb,major,Bb F Cm Ebadd9 F Eb9 Gm7 Eb9 Dm Cm F Bb F Cm Ebadd9 Bb F Cm Eb7 F Bb F6 Gm F,1 5 2add4 4add6add9 5 49 67add4 49 3 2add4 5 1 5 2add4 4add6add9 1 5 2add4 47 5 1 56 6 5,hook
+Beyonce,Single Ladies,00s,E,mixolydian,Em Bm B7 Bm E Bm B7 Am Bm Em,1 5 b67(#5) 5 H4 5 b67(#5) 4 5 1,hook
+Beyonce,If I Were A Boy,00s,F#,major,F#6 B F# Db6 Ebm B F# Db Abm B F# Db Abm B Ebm7 Badd9 Ebm9 Badd9 F# Db,16 4 1 56 6 4 1 5 2 4 1 5 2 4 67 4add9 69 4add9 1 5,hook
+Beyonce,Love On Top,00s,C,major,C7 C F7 Am Ab7 F#7 C7 C F7 Ab7 Gsus4 C7 C Dm7 Gsus4 Em7 G7 Dm7 Gsus4 Em7 C7 C F G11,17 L47 47 642 b67 b57 17 L47 47 b67 57sus4 17 L47 27 57sus4 37 57/2 27 57sus4 37 17 L47 4 511,hook
+Beyonce,Drunk In Love,00s,Bb,dorian,Fm Bbm Ebm Ab,5 1 4 7,hook
+Rihanna,Umbrella,00s,Bb,minor,F# Db6 Fm Bbm F# Db Ab7 Bbm Ebm Bbm Fmadd9 Cdim Db Ebm Bbm,6 364 5/1 1 6 3 77 1 4 1 5add9 2 3 4 1,hook
+Rihanna,Dont Stop The Music,00s,F#,minor,D F#m D F#m,6 1 6 1,hook
+Rihanna,Take A Bow,00s,E,major,E B Dbm A E B Dbm7 A Asus4 B Dbm7 F#m7 E6 Asus4 B,1 5 6 4 1 5 67 4 4sus2sus4 5 67 27 16 4sus2sus4 5,hook
+Rihanna,Disturbia,00s,B,minor,Bm D A G Bm D A Bm D A G Bm D A Bm D A G Bm D A Bm D A G Bm D A Em F#m Gadd9 A Em F#m Gadd9,1 3 7 6 1 3 7 1 3 7 6 1 3 7 1 3 7 6 1 3 7 1 3 7 6 1 3 7 4 5 6add9 7 4 5 6add9,hook
+Rihanna,Diamonds,00s,B,minor,G Bm A Bm6,6 1 7 164,hook
+Rihanna,Work,00s,B,major,Dbm Ebm E7 F# Dbm Ebm E7 F# Dbm Ebm E7 F#,2 3 47 5 2 3 47 5 2 3 47 5,hook
+Rihanna,Stay,00s,C,major,C6 Dm6 Am C6 Am C6 Am C Dm Am F Dm Am F Dm G C Dm Am F F Am Dm Em F Am Dm,164 264 664 16 664 16 664 1 2 6 4 2 6 4 2 5 1 2 6 4 4 6 2 3 4 6 2,hook
+Britney Spears,Toxic,00s,C,minor,Cm Eb C Cm C Cm Eb C Cm C Cm C C Gm7 Cm Gm7 Ab Cm C C Ddim7 Cm Gm7 Ab,1 3 J5 1 C1 1 3 J5 1 C1 1 L57/2 L27 57/1 1 57/6 6 1 L57/2 L27 27 1 57/6 6,hook
+Britney Spears,Baby One More Time,00s,C,minor,Cm C Bb6 Eb Fm C Bb Cm C Eb Fm7 C Bb Cm C Eb Fm7 C Cm C Cm C Eb Fm C Ab Bb,1 H56 76 3 4 H5 7 1 H565 3 47 H5 7 1 H565 3 47 H57sus4 1 H565 1 H5 3 4 H5sus4 6 7,hook
+Britney Spears,Oops I Did It Again,00s,C#,minor,Dbm A Abmsus4 F#m7 C# A B Abmsus4 Dbm C# Dbm B E B E,1 6 5sus4 47 H5 6 7 57sus4 1 H5 1 7 3 7 3,hook
+Britney Spears,Womanizer,00s,C#,minor,Dbm F#m E C# C# Dbm F#m Dbm F#m E C# C# Dbm F#m E Abm6,1 4 3 L2 Y2 1 4 1 4 3 L2 Y2 1 4 3 564,hook
+Britney Spears,Gimme More,00s,F#,minor,F#m E6 D F#m A E6 D E,1 76 6 1 3 76 6 7,hook
+Britney Spears,Circus,00s,F#,minor,F#m Dbm6 D7 A E6 F#m A Dbm Bm E7,1 565 67 3 76 1 3(b5) 5/5 4/6 77/1,hook
+Britney Spears,Piece Of Me,00s,C#,minor,Dbm E B Dbm Db Dbmsus4 E B F#m Dbm E B Dbm Abm,1 3 7 1 M1 1sus4 3 7 4 1 3 7 1 5/1,hook
+Britney Spears,Lucky,00s,Db,major,Db Bbm F# Ab Db Bbm F# Absus4 Db Bbm F# Ab,1 6 4 5 1 6 4 5sus4 1 6 4 5,hook
+Justin Timberlake,Cry Me A River,00s,G#,minor,Abm Ebm7 E F#6 Abm G# E G# Abm Ebm7 E F#6 Abm Ebm7 E F#6 Abm Ebm7 E F#6 Abm G# E G#,1 57 6 764 1 H57 6 H764 1 57 6 764 1 57 6 764 1 57 6 764 1 H57 6 H764,hook
+Justin Timberlake,What Goes Around Comes Around,00s,A,dorian,Am C G Dm Am C G Dm Am C G Dm Am C G Dm F7 G7 Am,1 3 7 4 1 3 7 4 1 3 7 4 1 3 7 4 67 77 1,hook
+Justin Timberlake,Rock Your Body,00s,E,minor,E Am11 Em E Am11 Em E Am11 Em Gadd9 C7 D Em Am7 Gadd9 C7,Y311 411 1 Y311 411 1 Y311 411 1 36add9 67 7 1 47 36add9 67,hook
+Justin Timberlake,Sexyback,00s,A,phrygian,Am Bdim Am Bdim Am Bdim,1 2 1 2 1 2,hook
+Justin Timberlake,My Love,00s,E,minor,Em Bm Am Em Bm Am Em Bm E Am6 Em Bm Am,1 5 4 1 5 4 1 5 H5 464 1 5 4,hook
+Justin Timberlake,Mirrors,00s,Eb,major,Eb Bb Ab Eb Bb Ab Cm Eb Bb Ab Ab Eb Eb Bb Ab Cm Eb Fm Eb Bb Ab Eb Bb Ab,1 5 4 1 5 4 6 1 5 4 4 J565 1 5 4 6 1 2 1 5 4 1 5 4,hook
+Justin Timberlake,Cant Stop The Feeling,00s,C,major,C Am7 F9 Am7 C Am7 F9 Am7 C11 Bb11 Bdim E9 B,1 67 49 67 1 67 49 67 111 b711 7 b49 b142,hook
+Justin Timberlake,Suit And Tie,00s,D,major,G7 D7 G7 D7,47 17 47 17,hook
+The Killers,Mr Brightside,00s,Db,major,Db F#7 Db F#7 Bbm Absus4 F#6 Db F# Bbm7 Ab Db F#add9 Bbm7 Ab Db F# Bbm7 Ab Db F#add9 Bbm7 Ab,1 47 1 47 6add4 5sus4 4add6 1 4 67 5add4 1 4add9 67 5add4 1 4 67 5add4 1 4add9 67 5add4,hook
+The Killers,Somebody Told Me,00s,Bb,minor,Bbm Ebmsus2 Bbm Ebmsus2 Bbm F# Ab Bbm F# Bbm F# Ab Fm F# Ab Ebm Db Ebm F# Bbm,1 4sus2 1 4sus2 1 6 7 1 6 1 6 7 5/1 6 7 4 3 4 6 1,hook
+The Killers,When You Were Young,00s,B,major,E F# Abm B E F# Abm B E F# Abm B Dbm E Abm Ebm Abm F# E,4 5 6 1 4 5 6 1 4 5 6 1 2 4 6 3 6 5 4,hook
+The Killers,Human,00s,Bb,major,Bb Dm Eb Bb F Gm Eb,1 3 4 1 5 6 4,hook
+The Killers,Read My Mind,00s,Db,major,Db Bbm Absus4 F# Db Ab F#6 Ab6 Bbm Ab F# Db Bbm Ab F#,1 665 5sus4 4 1 5 464 564/6 6 5 4 1 6 5 4,hook
+The Killers,All These Things That Ive Done,00s,F#,major,F# B F# Ebm B F# B F# B,1 4 1 6 4 1 4 1 4,hook
+The Killers,Smile Like You Mean It,00s,D#,minor,F# Abm Ebm Bbm B F# Db6,3 4 1 5 6 3 76,hook
+The Strokes,Last Nite,00s,C,major,C F Gsus4 F Gsus4 C Dm7 G Em7 G6 F Gsus4,1 4 5sus4 4 5sus4 1 27 5 37 564 4 5sus4,hook
+The Strokes,Reptilia,00s,B,dorian,Bm Em7 Bm7 Em7 Bm F#m G A G A F#m Bm Em,1 47 17 47 1 5 6 7 6 7 5 1 4,hook
+The Strokes,Someday,00s,A,major,A Bm9 D7 Bm6 A E F#m E D,1 29 47 265 1 5 6 5 4,hook
+The Strokes,Hard To Explain,00s,G,major,G Em7 Am7 C6 D7 C Am7 G Em G6 Am11 G Am11 G,1 67 27 464 57 4 27 1 6 16 211 1 211 1,hook
+The Strokes,You Only Live Once,00s,B,major,Dbm6 E Badd9 F# Dbm E Abm F# B Ebm F#,265 4 1add9 5 2 4 6 5 1 3 5,hook
+The Strokes,Machu Picchu,00s,Eb,dorian,Ebm Db Ebm Abm,1 7 1 4,hook
+The Strokes,Under Cover Of Darkness,00s,B,major,B Dbm B Ebm Abm E Abm7 E B F#sus4,1 2 1 3 6 4 67 4 1 5sus4,hook
+The Strokes,12 51,00s,E,major,E A F#m B Ab6 E,1 4 2 5 b46 1,hook
+Muse,Supermassive Black Hole,00s,E,minor,Am G Am Bm Am G Em Am G Am Bm E Am G Em G Am G Am Bm Am G Em,4 3 4 5 4 3 1 4 3 4 5 C5 4 3 1 3 4 3 4 5 4 3 1,hook
+Muse,Starlight,00s,B,major,B Dbm Abm E B Dbm Abm E B B Abm Ebm E Bbdim B B B Abm B,1 2 6 4 1 2 6 4 1 J5sus4 6 3 4 7 J5 1 Y2 6 Y2,hook
+Muse,Uprising,00s,D,minor,Dm Gm F D Gm F D Dm Gm F D Gm F D Dm Gm F D Gm F D,1 4 3 H5 4 3 H56 1 4 3 J5 4 3 J56 1 4 3 J5 4 3 J56,hook
+Muse,Time Is Running Out,00s,A,minor,Am Em A F G Am Em A F G F G Am C6 Dm Am,1 5/5 J57 6 7 1 5/5 J57 6 7 6 7 1 364 4 1,hook
+Muse,Hysteria,00s,A,minor,Am Em Dm Am Em Bdim F Am Em Bdim,1 5 4 1 5 2 6 1 5 2,hook
+Muse,Plug In Baby,00s,D,major,D A G G D A Bm D A Bm D F#m6 D,1 5/6 4 4 1 5/6 6 1 5 6 1 36(#5) J5,hook
+Muse,Knights Of Cydonia,00s,E,dorian,Em D6 G Am E Em Bm Am Em Bm Am,1 76 3 4 J5 1 5 4 1 5 4,hook
+Muse,Resistance,00s,A,minor,Em7 Am C6 Em6 F11 Em Am F Em Dm Amsus4 Emsus4 F Am6 C6,57/1 1 364 565 611 5/1 1 6 5 4 1sus4 5sus4 6 164 36,hook
+John Mayer,Gravity,00s,G,major,G C,1 4,hook
+John Mayer,Your Body Is A Wonderland,00s,F,major,Bb C F C,4 5 1 5,hook
+John Mayer,Waiting On The World To Change,00s,D,major,D Bm G D A Bm G,1 6 4 1 5 6 4,hook
+John Mayer,Neon,00s,C,minor,Cm7 Eb Fm7 Ab Bb,17 3 47 6 7,hook
+John Mayer,Half Of My Heart,00s,F,major,Bb F C Dm Bb F C,4 1 5 6 4 1 5,hook
+Taylor Swift,Love Story,10s,D,major,D A Bm G D G Bm7 G G A Bm D G A Bm7 D A Bm G A Bm7 Gadd9 D A D A Bm G A D A,1 5 6 4 1 4 67 4 4 5 6 1 4 5 67 1 5 6 4 5 67 4add9 1 5 1 5 6 4 5 1 5,hook
+Taylor Swift,You Belong With Me,10s,F#,major,F# Db Abm B7 Abm B F# Db Abm B Db F# Db Abm Badd9 Abm Badd9 F# Db,1 5 2 47 2 4 1 5 2 4 5 1 5 2 4add9 2 4add9 1 5,hook
+Taylor Swift,Teardrops On My Guitar,10s,Bb,major,Bb Gm7 Eb F6 Bb Gm7 Eb F6 Bb F6 Gm7 Eb,1 67 4 565 1 67 4 565 1 56 67 4,hook
+Taylor Swift,Our Song,10s,D,major,D Em7 G A D Em7 G A A Em G D,1 27 4 5 1 27 4 5 5 2 4 1,hook
+Taylor Swift,Anti Hero,10s,E,major,A7 E B Dbm7 A7 E B Dbm7 Aadd9 E B Dbm7,47 1 5 67 47 1 5 67 4add9 1 5 67,hook
+Taylor Swift,Cruel Summer,10s,A,major,D6 E6 Dbm7 F#m7 A A Dbm7 F#m7 Dadd9 A Dbm F#m Dadd9,4add6 5add6 37 67 1 1 37 67 4add9 1 3 6 4add9,hook
+Taylor Swift,Cardigan,10s,Eb,major,Fm Bb Ab Bb Eb Bb Ab Bb Ab Cm Eb Ab6 Cm Bb Eb Bb Ab Bb Fm Bb Ab,2 5 4 5 1 5 4 5 4 6 1 46 6 5add4 1 5 4 5 2 5 4,hook
+Taylor Swift,Willow,10s,E,minor,Em D Em7 D Em Bm F#dim C7 G C F#dim Em,1 7 17 7 1 5 2 67 3 6 2 1,hook
+Taylor Swift,Lover,10s,G,major,G D6 Cadd9 G Bm6 C G Bm6 Em D Em F# Am,1 56 4add9 1 364 4 1 364 6 5 6 M7(b5) 2,hook
+Katy Perry,I Kissed A Girl,10s,A,minor,Am Em6 C6 Dm7 F Am C Dm Em F Em F Em Am G,1 564 3add6 47 6 1 3 4 5 6 5 6 5 1 7,hook
+Katy Perry,Hot N Cold,10s,G,major,G D Am C G D Am C Em C G D,1 5 2 4 1 5 2 4 6 4 1 5,hook
+Katy Perry,Teenage Dream,10s,Bb,major,Eb7 Gm Fsus4 Eb7 Gm Fsus4 Eb7 Gm Fsus4,47 6 5sus4 47 6 5sus4 47 6 5sus4,hook
+Katy Perry,Firework,10s,Ab,mixolydian,Abm F# E Dbmsus2 Abm Bbdimadd9 E Dbm6 Abm Bbdimadd9 E Dbm6 E Dbm Abm Ebmsus4 Abm Bbdimadd9 E Dbm6 Abm Bbdimadd9 E,1 7 6 4sus2 1 2add9 6add4 4add6 1 2add9 6add4 4add6 6 4 1 5sus4 1 2add9 6add4 4add6 1 2add9 6add4,hook
+Katy Perry,Dark Horse,10s,Bb,minor,F# Db Bbm Ab F# Db Bbm Ab,6 3 1 7 6 3 1 7,hook
+Katy Perry,California Gurls,10s,F,major,Am Bb C Dm Am Bb C Dm C Dm Bb Am Bb C Dm,3 4 5 6 3 4 5 6 5 6 4 3 4 5 6,hook
+Bruno Mars,Just The Way You Are,10s,F,major,F Dm Bb F Dm Bb F Dm Bb F Dm Bb,1 6 4 1 6 4 1 6 4 1 6 4,hook
+Bruno Mars,Talking To The Moon,10s,E,major,E B7 Dbm B A F#m B Dbm Ebdim E F#m E F#m Bsus4,1 57/6 6 5 4 2 5 6 7 1 2 1 2 57sus4,hook
+Bruno Mars,Grenade,10s,D,minor,Dm Am Dm Am Dm Am Dm Bb D Dm Bb Am Bb Gm Dm Gm Dm Gm D,1 5 1 5 1 5 1 6 J5 1 6 5/6 6 4 1 4 1 4 J5,hook
+Bruno Mars,Locked Out Of Heaven,10s,D,minor,C Dm C Bb F6 Gm C Dm C Bb F6 Gm F Gm Edim Dm Am Gm Edim Dm Am,7 1 7 6 36 4 7 1 7 6 36 4 3 4 2 1 5 4 2 1 5,hook
+Bruno Mars,When I Was Your Man,10s,C,major,Am C Dm G C Em6 Am Em B C6 G F G C F G C G6 Am Em6 G,6 1 2 5 1 364 6 3 M7 164 5 4 5 1 4 5 1 56 6 36 5/5,hook
+Bruno Mars,Uptown Funk,10s,D,dorian,Dm Gm9 Dm7 Gm9,1 49 17 49,hook
+Bruno Mars,Treasure,10s,Eb,major,Cm Ab7 Gm7 Fm7 Ab7 Gm7 Bb Ab7 Gm7 Fm7 Ab7 Gm7 Bb Cm Ab7 Gm7 Fm7 Ab7 Gm7 Bb Cm,642 47 37 27 47 37 5 47 37 27 47 37 5 6 47 37 27 47 37 5 6,hook
+Bruno Mars,Thats What I Like,10s,Bb,minor,Ebm9 Ab11 Fm7 Bbm11 Fm9 Ebm9 Bbm Absus2 Fm7 Bbm11 F#7 Ebm9 Fm7 Bbm F#7 Ebm9 Fm7,49 711 57 111 59/4 49 142 77sus2 57 111 67 49 57 1 67 49 57,hook
+Adele,Someone Like You,10s,A,major,A Dbm6 F#m D D A Dbm6 F#m Eadd9 F#m7 D A E F#m D,1 364 6 4 4 1 364 6 5add9 67 4 1 5 6 4,hook
+Adele,Rolling In The Deep,10s,C,minor,Cm Gm Bb Gm Bb Ab Bb Gm Cm Bb Ab7 Bb Ab7 Bb Cm Bb Cm Bb Ab7 Bb,1 5 7 5 7 6 7 5 1 7 67 7 67 7 1 7 1 7 67 7,hook
+Adele,Hello,10s,F,minor,Fm Ab Eb Dbadd9 Fm Eb Cm Db Fm Eb Db Fm Dbadd9 Ab Eb Ab Eb Fm Db Eb Ab Fm,1 3 7 6add9 1 7 5 6 1 7 6 1 6add9 3 7 3 7 1 6 7 3 1,hook
+Adele,Set Fire To The Rain,10s,D,minor,Gm Dm F C Gm6 Dmadd9 Bb Cadd9 Dm Edim11 Dm6 C Dm11 C6 Gm Am Gm Dm6 F Dm F C Gm C Dm Edim11 Dm6 C Dm11 C6,4 1 3 7 46 1add9 6 7sus4add9 1 211 16 7 111 76 4 5 4 16 3 1 3 7 4 7 1 211 16 7 111 76,hook
+Adele,Make You Feel My Love,10s,Bb,major,Bb F6 A Eb D Bb F7 Eb Bb6 F#7 Eb6 Bb Eb Bb,1 56 M7 4 b4 1 57/5 4 164 b67(#5) 46 1 4 1,hook
+Adele,When We Were Young,10s,Eb,major,Cm Eb6 Ab Eb6 Fm7 Eb Bb6 Ab Bb Gm Ab Bb Gm Ab Bb Gm Eb Ab Bb,6 16 4 16 27 1 56 4 5 3 4 5 3 4 5 3 1 4 5,hook
+Adele,Easy On Me,10s,F,major,F Dm7 F6 Bbsus2 F Dm7 F6 Bbsus2 C F Dm7 F Dm7 C F6 Gm7 F6 Bb Bb F Dm7 Am7,1 67 165 4sus2 1 67 165 4sus2 5 1 67 1 67 5 16 27 16 4 4 1 67 37,hook
+Adele,Skyfall,10s,C,minor,Cm Ab C Fm7 Gmsus4 Cm Ab Fm7 Ab Ddim7 Gm7 C Fm7 Eb6 Ab7 Eb6 Bb Cm,1 6 D47 47 5sus4 1 6 47 664 27 57/1 D1add6 47 36 67 364 7/1 1,hook
+Ed Sheeran,Thinking Out Loud,10s,D,major,D G A Em A D Em A Em A,1 4 5 2 5 1 2 5 2 5,hook
+Ed Sheeran,Perfect,10s,Ab,major,Ab Fm Db Ab Eb Ab Fm Fm Db Ab Eb,1 6 4 1 5 1 6 6 4 1 5,hook
+Ed Sheeran,Shape Of You,10s,C#,minor,Dbm F#m A B Dbm F#m A Bsus4 Dbm F#m A B Abm6 Dbm F#m A B,1 4 6 7 1 4 6 7sus4 1 4 6 7 56/1 1 4 6 7,hook
+Ed Sheeran,Photograph,10s,E,major,E Dbm B A E Dbm B A Dbm A E B E B Dbm A,1 6 5 4 1 6 5 4 6 4 1 5 1 5 6 4,hook
+Ed Sheeran,Castle On The Hill,10s,D,major,D G Bm A,1 4 6 5,hook
+Ed Sheeran,Galway Girl,10s,A,major,F#m A E D F#m A E D A E Dadd9 A E F#m,6 1 5 4 6 1 5 4 1 5 4add9 1 5 6,hook
+Ed Sheeran,Bad Habits,10s,B,minor,Bm D G A Bm D G A Bm D Em Bm D G A Bm D Em Bm D G A Bm D Em,1 3 6 7 1 3 6 7 1 3 4 1 3 6 7 1 3 4 1 3 6 7 1 3 4,hook
+Justin Bieber,Love Yourself,10s,E,major,E B6 Dbm F#m6 E B6 Dbm A E6,1 56 6 26 1 56 6 4 164,hook
+Justin Bieber,Sorry,10s,Eb,major,Ab Cm7 Bb Ab Cm7 Bb,4 67 5 4 67 5,hook
+Justin Bieber,What Do You Mean,10s,Ab,major,Dbadd9 Ab Fm Eb,4add9 1 6 5,hook
+Justin Bieber,Baby,10s,Eb,major,Eb Cm Ab Bb Eb Gm Eb6 Eb Cm Ab Bb Eb Cm Ab Bb,1 6 4 5 1 3 16 1 6 4 5 1 6 4 5,hook
+Justin Bieber,Boyfriend,10s,Bb,minor,Bbm Ebm Ab Db,1 4 7 3,hook
+Ariana Grande,Thank U Next,10s,Bb,minor,Ebm6 Ab Bbm7 Bb Ebm6 Bb Bbm7 Db,465 7/1 17 Y342 465 J57(#9) 17 3,hook
+Ariana Grande,No Tears Left To Cry,10s,A,minor,A Fadd9 Gadd9 Am G F G6 Am G F Am G F G6 Am G F,J1add9 6add9 7add9 1 7 6 76 1 7 6 1 7 6 76 1 7 6,hook
+Ariana Grande,Into You,10s,F#,minor,F#m E6 A E6 D E F#m E6 A E6 D E F#m7 E6 A Bm D9 E D7 E F#m7 E6 A E6,1 76 3 764 6 7 1 76 3 764 6 7 17 76 3 4add4 69 7 67 7 17 76 3 764add4,hook
+Ariana Grande,7 Rings,10s,C#,minor,Dbm B A G F#m Abm Dbm B A Abm F#m C# Dbm A F#m Abm,1 7 6 b5 4 5 1 7 6 5 4 J57 1 6 4 5,hook
+Ariana Grande,Positions,10s,D,minor,Dm Am7 C Dm6 Gm Dm Am7 C Dm6 Gm,1 57 742 164 4 1 57 742 164 4,hook
+Ariana Grande,Yes And,10s,Eb,dorian,Ebm7 Abm7 Abm7 Db6,17 47 47 7add6,hook
+Ariana Grande,Dangerous Woman,10s,E,minor,Em Gadd9 Cadd9 Em Gadd9 Cadd9,1 3add9 6add9 1 3add9 6add9,hook
+The Weeknd,Blinding Lights,10s,C,minor,Fm Cm Eb Bb Gm7 Fm Cm Eb Fm Cm Eb Bb Eb6 Fm Cm Eb Bb Gm7,4 1 3 7 57 4 1 3 4 1 3 7 36 4 1 3 7 57,hook
+The Weeknd,Starboy,10s,A,minor,Am6 G F G Am6 G F G Em Am G F G Em,164 7 6 7 16 7 6 7 5 1 7 6 7 5,hook
+The Weeknd,The Hills,10s,C,minor,Cm Ab Fm Ab Ab7 Fm Cm Ab13 Fm7,1 6add6 4 6add6 67 443 1 613 47,hook
+The Weeknd,Cant Feel My Face,10s,A,minor,G F Am G F Am,7 6 1 7 6 1,hook
+The Weeknd,Save Your Tears,10s,C,major,C Am7 Em7 G Dm Am7 F Gsus4 C Am7 Em7 G,1 67 37 5 2 67 4 5sus4 1 67 37 5,hook
+The Weeknd,Die For You,10s,C#,minor,A7 Abm7 Dbm7 F#m7 A7 Abm7 Dbm7 F#m7,67 57 17 47 67 57 17 47,hook
+The Weeknd,Out Of Time,10s,C,minor,Ab7 Gm7 Cm,67 57 1,hook
+The Weeknd,Is There Someone Else,10s,A,minor,Am Em F Dm G Am Dm,1 5 6 4 7 1 4,hook
+Imagine Dragons,Radioactive,10s,B,dorian,Bm D A Bm D A Em Bm D A Bm Dsus2 A Em,1 3 7 1 3 7 4 1 3 7 1 3sus2 7 4,hook
+Imagine Dragons,Demons,10s,Eb,major,Eb Bbsus4 Cm Ab Eb Bb Cm Ab,1 5sus4 6 4 1 5 6 4,hook
+Imagine Dragons,Believer,10s,Bb,minor,Bbm F# Bb Bbm F# Fm6 Bbm F# Fm6 F# Ab Bb Bbm F# Fm6,1 6 H565 1 6 565 1 6 565 6 7 L7 1 6 565,hook
+Imagine Dragons,Thunder,10s,C,major,C F C Am F Em G Dm,1 4 1 6 4 3 5 2,hook
+Imagine Dragons,Whatever It Takes,10s,Bb,minor,Bbm Ab Fm Bbm Ab Ebm Fm F# Db Ab Bbm,1 7 5 1 7 4 5 6 3 7 1,hook
+Imagine Dragons,Natural,10s,D,minor,Dm Am Dm Am,1 5 1 5,hook
+Imagine Dragons,Bones,10s,Bb,dorian,Bbm Bb Ab Ebm Bbm Bb Ab Ebm,1 H5 7 4 1 H5 7 4,hook
+Imagine Dragons,Enemy,10s,B,minor,G F#m G7 F#m G F#m,6 5 67 5 6 5,hook
+Twenty One Pilots,Stressed Out,10s,A,minor,F Dm Am F A Am A Am G C Am G C A,6 4 1 6 J5 1 J5 1 7 3 1 7 3 J5,hook
+Twenty One Pilots,Ride,10s,F#,major,F# Abm Ebm B F# Abm Ebm F# Abm Ebm B F# Abm Ebm F# Abm Ebm B F# Abm Ebm F# Abm Db Ebm Abmsus4 Ebm Db,1 2 6 4 1 2 6 1 2 6 4 1 2 6 1 2 6 4 1 2 6 1 2 5 6 27sus4 6 5,hook
+Twenty One Pilots,Heathens,10s,E,minor,C Em Am Em C Am Em C Am E,6 1 4 1 6 4 1 6 4 J1,hook
+Twenty One Pilots,Chlorine,10s,Bb,minor,Db Ab Bbm F# Bbm Ebmsus2 Ab Dbsus2 Ab6 Db Ab Bbm Ab Bbm F# Db,3 7 1 6 1 47sus2 7 37sus2 76 3 7 1 7 1 6 3,hook
+Twenty One Pilots,Tear In My Heart,10s,D,major,D A G Gadd9 A Bm A6 D A D F#m G,1 5/6 4 4add9 5 6 56 1 5 1 3 4,hook
+Twenty One Pilots,Heavydirtysoul,10s,D,phrygian,Am Dm Edim Dm Edim Dm Edim Dm Bb Gm Dm C Bb Gm Bb Gm Dm C,5 1 2 1 2 1 2 1 6 4 1 7 6 4 6 4 1 7,hook
+Twenty One Pilots,Shy Away,10s,C,major,F Dm Am Em F Dm Am Em,4 2 6 3 4 2 6 3,hook
+Billie Eilish,Bad Guy,20s,G,minor,Gm Cm Dm7 Gm Cm Dm7 Gm Cm Dm7 Gm Cm Dm7,1 4 57 1 4 57 1 4 57 1 4 57,hook
+Billie Eilish,Ocean Eyes,20s,G,major,C D Em C D Em,4 5 6 4 5 6,hook
+Billie Eilish,When The Partys Over,20s,E,major,A B Dbm B E B E Bsus4 Dbm7 B E A F#m6,4 5 6 5 1 5 D47 5sus4 67 5 1 4 26,hook
+Billie Eilish,Happier Than Ever,20s,C,major,C G7 Am F Cadd9 G7 Am Dm G,1 57/6 6 4 1add9 57/6 6 2 5,hook
+Billie Eilish,What Was I Made For,20s,C,major,C Em F7 F7 C Em,1 3 47 47 1 3,hook
+Billie Eilish,Everything I Wanted,20s,F#,minor,D7 E Dbm D7 E Dbm,67 7 5 67 7 5,hook
+Billie Eilish,Bury A Friend,20s,G,minor,Gm Cm Dm Gm Cm Dm,1 4 5 1 4 5,hook
+Shawn Mendes,Stitches,10s,Bb,minor,Bbm Ab Db F# Bbm Ab Db F# Bbm Ab F# Bbm Ab Db F#,1 7 3 6 1 7 3 6 1 7 6 1 7 3 6,hook
+Shawn Mendes,Treat You Better,10s,Db,major,Bbm Ab F# Db,6 5 4 1,hook
+Shawn Mendes,Theres Nothing Holdin Me Back,10s,B,minor,G D Bm D A D A G D Bm D A D A G D Bm D A D A,6 3 1 3 7 3 7 6 3 1 3 7 3 7 6 3 1 3 7 3 7,hook
+Shawn Mendes,In My Blood,10s,F,major,F Bb Dm Bb,1 4 6 4,hook
+Shawn Mendes,Lost In Japan,10s,Bb,major,Bb9 Cm9 Gm9 Eb7 Dm7 Cm7,19 29 69 47 37 27,hook
+Shawn Mendes,Wonder,10s,E,major,E F#m Dbm A Ab,1 2 6 4 b4,hook
+Dua Lipa,New Rules,20s,A,minor,Am G F Dm7 G F G Am F7 G Am F7 G Am F7 Am G,1 7 66 47 7 66 7 1 67 7 1 67 742 1 67 1 7,hook
+Dua Lipa,Dont Start Now,20s,B,minor,Em Bm G D A Em Bm G D A Bm7 D Em7 F#m7 G7 Em Bm G D A,4 1 6 3 7 4 1 6 3 7 17 3 47 57 67 4 1 6 3 7,hook
+Dua Lipa,Idgaf,20s,E,minor,Em D G C Em D Bm,1 7 3 6 1 7 5,hook
+Dua Lipa,Levitating,20s,B,minor,Bm7 F#m7 Em7 Bm7 F#m7 Em7,17 57 47 17 57 47,hook
+Dua Lipa,Dance The Night,20s,B,dorian,Bm Em7 Bm B D G7 Bm B D G7 Bm Em7,1 47 1 D49 3 67 1 D49 3 67 1 47,hook
+Dua Lipa,Houdini,20s,D,minor,Gm6 Dmsus2 Dm Gm6,464 17sus2 1 464,hook
+Dua Lipa,Physical,20s,A,minor,Am F C G Am F7 C G Am F C G Am F C G Am F C G Am F C G,1 6 3 7 1 67 3 7 1 6 3 7 1 6 3 7 1 6 3 7 1 6 3 7,hook
+Lana Del Rey,Summertime Sadness,10s,C#,minor,A Dbm B F#m A Dbm B F#m A Dbm B F#m Abm Dbm A F#m Abm Dbm Bsus4,6 1 7 4 6 1 7 4 6 1 7 4 5 1 6 4 5 1 7sus4,hook
+Lana Del Rey,Young And Beautiful,10s,B,minor,G A Bm G A Bm D G A Bm D,6 7 1 6 7 1 3 6 7 1 3,hook
+Lana Del Rey,Video Games,10s,F#,minor,F#m A E D A F# F#m Dadd9 A,1 3 7 6 3 Y2 1 6add9 3,hook
+Lana Del Rey,Born To Die,10s,E,minor,Em G7 D C7 Em Bm C D Em D Em,1 37 7 67 1 5 6 7 1 7 1,hook
+Lana Del Rey,West Coast,10s,F#,minor,F#m E D E F#m E6 Bm6 E F#m7 Abdim6 A Bm7 D F#m6 Dbm7 D E F#m7,1 7 6 7 1 764 46 7 17 26 3 47 6 16 57 6 7 17,hook
+Lana Del Rey,Blue Jeans,10s,F,dorian,Fm Eb Bbm6 Fm Eb Bbm6,1 7 464 1 7 464,hook
+Lana Del Rey,National Anthem,10s,Eb,major,Ab Cm Bb Ab Eb Bb Ab Eb Cm Gm Ab Cm Bb Ab Eb Bb Eb Cm Ddim Ab,4 6 5 4 1 5 4 1 6 3 4 6 5 4 1 5 1 6 7 4,hook
+Lana Del Rey,Cinnamon Girl,10s,F#,minor,E Bm D F#m E Bm D F#m E Bm,7 4 6 1 7 4 6 1 7 4,hook
+Post Malone,Circles,10s,C,major,C G6 F E F#11 C G6 C7 G6 F7 G11 C7 G6 F7 C7 G6 F7 E F#11 C7 G6,1 56 4 b4 b511 1 56 17 56 47 511 17 56 47 17 56 47 b4 b511 17 56,hook
+Post Malone,Rockstar,10s,G,minor,Gm Eb7 Gm Eb7 Gm Eb7,1 67 1 67 1 67,hook
+Post Malone,Better Now,10s,Bb,major,Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb Cm7 F Bb Eb,27 5 1 4 27 5 1 4 27 5 1 4 27 5 1 4 27 5 1 4,hook
+Post Malone,Congratulations,10s,F#,major,B7 F# B7 F# B7 F# B7 F# B7 F# B7 F#,47 1 47 1 47 1 47 1 47 1 47 1,hook
+Post Malone,White Iverson,10s,G,major,C7 G C7 G C7 Dsus4 G9 Bm6 C7 Am9 G,47 1 47 1 47 59sus4add6 19 365 47 29 1,hook
+Post Malone,Goodbyes,10s,F,major,F C7 Dm Bb F C7 Dm Bb Gm C Am Dm Gm6 A F C7 Dm Bb,1 57/6 6 4 1 57/6 6 4 2 5 3 6 26 b4 1 57/6 6 4,hook
+Post Malone,Chemical,10s,D,major,D Em G Bm A G D Em G,1 2 4 6 5 4 1 2 4,hook
+Arctic Monkeys,Do I Wanna Know,10s,G,minor,Gm Eb Cm Dm Gm Eb Cm Dm Gm Eb Cm G Eb Cm Gm Gm Eb Cm G,1 6 4 5/1 1 6 4 5/1 1 6 4 J5 6 4 1 1 6 4 J5,hook
+Arctic Monkeys,R U Mine,10s,F#,minor,F#m D Bm F#m D Bm F#m D Bm,1 6 4 1 6 4 1 6 4,hook
+Arctic Monkeys,505,10s,D,dorian,Dm Edim Dm Edim,1 2 1 2,hook
+Arctic Monkeys,Fluorescent Adolescent,10s,E,major,E Dbm B F#m B F#m B,1 6 5 2 5 2 5,hook
+Arctic Monkeys,Mardy Bum,10s,D,major,G F#m Em A D A G F#m Em Bmsus4 A6 G A D A Bm A G D A G F#m Em A,4 3 2 5 1 5/6 4 3 2 67sus2sus4 56 4 5 1 5 6 5/6 4 1 5/6 4 3 2 5,hook
+Arctic Monkeys,I Bet You Look Good On The Dancefloor,10s,F#,minor,F#m Dbm Bm A Dbm Bm A F#m F#m A E A E F# A E F#m,1 5 4 3 5 4 3 1 1 3 7 3 7 J1 3 7 1,hook
+Arctic Monkeys,Arabella,10s,E,minor,D Em Am G D Em G D Em Am D,7 1 4 3 7 1 3 7 1 4 7,hook
+Olivia Rodrigo,Drivers License,20s,Bb,major,Bb6 Gm7 Eb Eb Bb Gm7 Bb Dm6 Eb9 Cm7 F Bb Gm7 Eb7 Bb F6 Bb6 Gm7 Eb Cm F Bb Cm F Gm7,164 67 4 4 1 67 143 3add6 49 27 5 1 67 47 1 5add6 164 67 4 2 5 1 2 5 67,hook
+Olivia Rodrigo,Good 4 U,20s,F#,minor,F#m E Dbm Bm F#m Dbm D Dbm F#m E Bm,1 7 5 4 1 5 6 5 1 7 4,hook
+Olivia Rodrigo,Deja Vu,20s,A,major,D7 A Bm7 A D7 Bm6 A Bm7 A D A,47 1 27 1 47 26 1 27 1 4 1,hook
+Olivia Rodrigo,Traitor,20s,Eb,major,Eb Gm6 Cm Ab7 Eb Gm Cm Ab7 Eb Gm Cm Ab7,1 364 6 47 1 343 6 47 1 343 6 47,hook
+Olivia Rodrigo,Vampire,20s,F,major,F C Bb A F C Bb A Gm9 C7 F C7 Bb7 F F Bb A F C7,1 5/6 4 b4 1 5/6 4 b4 29 57 1 57/6 47 T47 1 4 b4 1 57,hook
+Olivia Rodrigo,Brutal,20s,B,mixolydian,Bm A Em Bm A,1 7 4 1 7,hook
+Olivia Rodrigo,Happier,20s,F#,major,F# Ebm7 Abm Db7 F# Ebm7 Abm Db7 F# Ebm7 Abm Db7,1 67 2 57 1 67 2 57 1 67 2 57,hook
+Olivia Rodrigo,Favorite Crime,20s,A,major,A F#m A Abdimadd9,1 6 1 7add9,hook
+Olivia Rodrigo,Get Him Back,20s,F,major,Bb F C Am Bb F C,4 1 5 3 4 1 5,hook
+Harry Styles,As It Was,20s,A,major,D6 Bm E6 A7 Bm E A,4add6 2 5add6 17 2 5 1,hook
+Harry Styles,Watermelon Sugar,20s,D,dorian,Dm7 Am C Gm Dm7 Am C Gm Dm7 Am C Gm,17 5 7 4 17 5 7 4 17 5 7 4,hook
+Harry Styles,Falling,20s,E,major,E Dbm7 B13 Abm7 A9,1 67 513 37 49,hook
+Harry Styles,Golden,20s,E,minor,C Em7 D Em7,6 17 7 17,hook
+Harry Styles,Late Night Talking,20s,Bb,major,Dm7 Gm7 Cm Bb7,37 67 2(b5) 17,hook
+Harry Styles,Sign Of The Times,20s,C,major,F Dm C F Dm C,4 2 1 4 2 1,hook
+Harry Styles,Adore You,20s,C,minor,Cm Eb Ab Bb Cm Eb7 Ab Bb11,1 3 6 7 1 37 6 711,hook
+Harry Styles,Matilda,20s,D,major,D G,1 4add4,hook
+SZA,Kill Bill,20s,Ab,major,Bbm7 Eb7 Ab Eb7 Ab Eb Bbm7 Eb7 Ab Eb7 Bbm7 Gdim7 Eb7 Bbm7 Eb7 Ab Eb7 Ab Eb Bbm7,27 57 1 57/2 1 543/2 27 57 1 57/2 27 77 57 27 57 1 57/2 1 543/2 27,hook
+SZA,Good Days,20s,E,major,E9 Dbm9 A7 E9 Dbm9 E9 Ebdim7,19 69 47 19 69 19 77/2,hook
+SZA,Snooze,20s,C,major,Dm7 Em7 F7,27 37 47,hook
+SZA,The Weekend,20s,B,major,E7 F#7 B6 E7 Bbdim Ebm7 B7,47 57/6 16 47 7 37 17,hook
+SZA,Broken Clocks,20s,Bb,minor,F#9 Bb Bbm7 F#9 Bb Bbm7 F#9 Bb Bbm7,69 J57 17 69 J57 17 69 J57 17,hook
+SZA,Supermodel,20s,Db,major,F#7 Db7 Db7 F#7 F#7 Db7 F#7 Db7,47 17 17 47/2 47 17 47 17,hook
+SZA,Love Galore,20s,C,major,F C6 Am F C6 Am F9 C F9 C,4 16 6 4 16 6 49 1 49 1,hook
+SZA,Normal Girl,20s,C,major,C7 F7 Em6 Am7 Em6 Dm7 Em6 Am7,17 47 365 67 365 27 365 67,hook
+Chappell Roan,Good Luck Babe,20s,D,major,Gadd9 A13 D Bm7 Gadd9 A7 D Bm7 Gadd9 A D Bm7,4add9 513 1 67 4add9 57 1 67 4add9 5 1 67,hook
+Chappell Roan,Pink Pony Club,20s,F#,major,F# Abm Ebm B F# Abm Ebm B F# Abm Ebm B B Db Ebm Abm F# Abm Ebm B F# Abm Ebm B,1 2 6 4 1 2 6 4 1 2 6 4 4 5 6 2 1 2 6 4 1 2 6 4,hook
+Chappell Roan,Red Wine Supernova,20s,A,major,A Bm D A Bm D A Bm D,1 2 4 1 2 4 1 2 4,hook
+Chappell Roan,Hot To Go,20s,F#,major,F# B7 F# B F# B,1 47 1 4 1 4,hook
+Chappell Roan,Casual,20s,Db,major,Ab F#sus2 Db F#9 Ebm11 F#9 Db F#9 Ebm11 F#9,5 4sus2 1 49 211 49 1 49 211 49,hook
+Chappell Roan,My Kink Is Karma,20s,A,major,A Dbm D Abdimadd9 A D C6 A D C6,1 3 4/4 7add9 1 4 b3add6 1 4 b3add6,hook
+Chappell Roan,Femininomenon,20s,Eb,major,Eb Cm Ab Eb7 Cmadd9 Absus4 Ddim Ab Ddim Eb7 Cm Ab Ddim Ab Ddim,1 6 4 17 6add9 4sus4 7 4 7 17 6 4 7 4 7,hook
+NewJeans,Super Shy,20s,F,dorian,Gdim7 Fm7 Gdim7 Fm7,27 17 27 17,hook
+NewJeans,Ditto,20s,F#,minor,D7 Dbm7 F#m7 Bm7 E7 Aadd9 Dbm,67 57 17 47 77(b5) 3add9 543,hook
+NewJeans,Omg,20s,D,minor,Gm7 D Gm6 Dmsus2 D11,47 J565(#5b9) 464(b5) 17sus2 M111,hook
+NewJeans,Attention,20s,Bb,minor,Cdim7 Bb F#7 Bb Bb,27 J17sus2 67 D77 J17,hook
+Lady Gaga,Bad Romance,00s,A,minor,Am C F Am C G F G Am C F G A Am F7 F G Am C F G A,1 3 6 1 3 7 6 7 1 3 6 7 J56 1 67 6 7 1 3 6 7 J56,hook
+Lady Gaga,Just Dance,00s,C#,minor,Dbm E B F#m Dbm E B F#m E A Abm Dbm E B F#m E Dbm6 Ebdim E F#m C# Abm B,1 3 7 4 1 3 7 4 3 6 5 1 3 7 4 3 16 2 3 4 C5 5 7,hook
+Lady Gaga,Poker Face,00s,G#,minor,Abm E F# Abm E F# Abm E B F#6 Abm E F# Abm E B F#,1 66 7 1 66 7 1 6 3 76 1 66 7 1 6 3 7,hook
+Lady Gaga,Paparazzi,00s,C,minor,Cm6 Ab Cm Gm Ab Fm,1add6 6 1 5 6 4,hook
+Lady Gaga,Born This Way,00s,F#,mixolydian,F#m E6 Bmadd9 F#m E Bm F#m Bm6 F#m E,1 7add6 4add9 1 7 4 1 464 1 7,hook
+Lady Gaga,Telephone,00s,F,dorian,Fm Ab Bbm Fm Ab Bbm Fm Ab Bbmadd9 Fm Ab Bbm6,1 3 4 1 3 4 1 3 4add9 1 3 46,hook
+Lady Gaga,Alejandro,00s,B,minor,Bm D F#m F#m Bm D G D A Bm,1 3 5 5 1 3 6 3 7 1,hook
+Pink,So What,00s,F#,minor,F#m A Dbm F#m A D Bm,1 3 5 1 3 6 4,hook
+Pink,Who Knew,00s,A,major,A Bm F#m E D E F#m A Bm F#m E A D E F#m A,1 2 6 5 4 5 6 1 2 6 5 1 4 5 6 1,hook
+Pink,Just Like A Pill,00s,A,major,A F#m D E A F#m D E D E,1 6 4 5 1 6 4 5 4 5,hook
+Pink,Try,00s,B,minor,Bm G D A G Em Bm F#m Em Bm F#m G,1 6 3 7 6 4 1 5 4 1 5 6,hook
+Pink,Just Give Me A Reason,00s,G,major,Em Bm6 D6 G6 C G6 Am G C Em C Em Bm6 D6 G6 G D6 Em Bm6 C7 Bm Dsus4 Em Bm C D Em Bm C,6 36 56/5 16 4 16 2 1 4 6 4 6 36 56/5 164 1 56 6 365 47 3 57sus4 6 3 4 5 6 3 4,hook
+Pink,Raise Your Glass,00s,G,major,G D C Em D G D C Em D G D C Em D,1 5 4 6 5 1 5 4 6 5 1 5 4 6 5,hook
+Alicia Keys,If I Aint Got You,00s,G,major,C7 Bm7 Am7 G7 Am7 Bm7 C7 G7 Em7 Am7 D7 Am7 G7 D7 G7 Am7 Bm7 Am7 G7 Am7 Bm7 C7 Bm7 Am7 G7 Am7 Bm7 C7,47 37 27 17 27 37 47 17 67 27 57 27 17 57/2 17 27 37 27 17 27 37 47 37 27 17 27 37 47,hook
+Alicia Keys,No One,00s,E,major,E B6 Dbm7 A E B6 Dbm7 A E B6 Dbm7 A E B6 Dbm7 A F#m7 E6 A Dbm7 F#m7 E6 A E B6 Dbm7 A,1 5add6 67 4 1 5add6 67 4 1 5add6 67 4 1 5add6 67 4 27 16 4 67 27 16 4 1 56add6 67 4,hook
+Alicia Keys,Fallin,00s,E,minor,Bm7 Em,57 1,hook
+Alicia Keys,Girl On Fire,00s,A,major,A F#m D E A F#m D A F#m Dbm E A F#m Dbm E D E,1 6 4 5 1 6 4 1 6 3 5 1 6 3 5 4 5,hook
+Alicia Keys,You Dont Know My Name,00s,A,major,Bm9 E7 D7 E7 Bm9 E7 F#m7 A7 F#m7 E7 D7 E7 Bm9 E7,29 57 47 57/6 29 57/6 67 17 67 57 47 57/6 29 57/6,hook
+Kelly Clarkson,Since U Been Gone,00s,G,mixolydian,Gm Adim Eb F Gm Adim Eb F Bb Cm Gm Cmadd9 Eb Cmadd9 Gm,1 2 6 7 1 2 6 M7 3 4 1 4add9 6 4add9 1,hook
+Kelly Clarkson,Because Of You,00s,F,minor,Ab Cm Fmadd9 Eb Fm Dbadd9 Eb Eb Cm Fm Eb Ab6 Fm Eb Db Fm Db Eb Fm Db Eb,3 5 1add9 7 1 6add9 7 7 5/1 1 7 36 1 7 6 1 6 7 1 6 7,hook
+Kelly Clarkson,Breakaway,00s,C,major,Am G6 C F Am G6 F Am G F C G Am F C G Am C F Bdim,6 56 1 4 6 56 4 6 5 4 1 5 6 4 1 5 6 1 4 7,hook
+Kelly Clarkson,My Life Would Suck Without You,00s,A,major,A D A Dbm F#m D E,1 4 1 3 6 4 5,hook
+Kelly Clarkson,Catch My Breath,00s,F#,minor,D E F#m D F#m E D D E F#m E6,6 7 1 6 1 7 6 6 7 1 76,hook
+Kelly Clarkson,Behind These Hazel Eyes,00s,A,major,F#m D A E F#m D A E F#m D A E Bm A Bm F#m Bm A Bm,6 4 1 5 6 4 1 5 6 4 1 5 2 1 2 6 2 1 2,hook
+Miley Cyrus,Wrecking Ball,10s,D,minor,Dm Fadd9 Cadd9 Gmadd9 Dm Fadd9 Cadd9 Gmadd9 Gm Bb Dm Dm Am Bb Gm Gm Bb Dm F Gm Bb Dm,1 3add9 7add9 4add9 1 364add9 7add9 4add9 4 6 1 1 5 6 4 4 6 1 3 4 6 1,hook
+Miley Cyrus,Party In The Usa,10s,F#,major,F# Bbm Ebm Db F# Bbm Ebm Db F# Bbm Ebm Db F# Bbm Ebm Db Bbm Ebm Bbm Abm Bbm Ebm B,1 3 6 5 1 3 6 5 1 3 6 5 1 3 6 5 3 6 3 2 3 6 4,hook
+Miley Cyrus,We Cant Stop,10s,E,major,E Abm A6 E Abm Dbm A B,1 3 465 1 3 6 4 5,hook
+Miley Cyrus,Flowers,10s,A,minor,Am Dm G C Am Dm G C Am Dm G C Am Dm G C,1 4 7 3 1 4 7 3 1 4 7 3 1 4 7 3,hook
+Miley Cyrus,Midnight Sky,10s,E,minor,Em Bm C Am Em Bm C Am C D Em E Em Bm C7 C D Em E Em Bm C7 Am,1 5 6 4 1 5 6 4 6 7 1 J5 1 5 67 6 7 1 J5 1 5 67 4,hook
+Miley Cyrus,The Climb,10s,E,major,E Asus2 F#msus4 E Dbm7 B Asus2,1 4sus2 27sus4 1 67 5 4sus2,hook
+Miley Cyrus,Malibu,10s,Ab,major,Ab Db6 Ab Db Cm Eb,1 464 1 4 3 5,hook
+Miley Cyrus,Angels Like You,10s,F,major,F C Gm Bb F Edim Dm F C Gm Dm Bb Gm7,1 5 2 4 1 7 6 1 542 2 664 4 27,hook
+Selena Gomez,Lose You To Love Me,10s,E,major,E F#m Dbm B A E B E6 A E B E6,1 2 6 5 4 1 5 16 4 1 5 16,hook
+Selena Gomez,Good For You,10s,F,dorian,Fm Ab Bbm Fm Eb Fm Ab Bbm Ab Gdim Fm Eb,1 3 4 1 7 1 3 4 3 2 1 7,hook
+Selena Gomez,Hands To Myself,10s,Eb,major,Eb Gm Cm Bb Eb Gm Cm Bb,1 3 6 5 1 3 6 5,hook
+Selena Gomez,Same Old Love,10s,B,minor,Bm G A Bm G Em A,1 6 7 1 6 4 7,hook
+Selena Gomez,Come And Get It,10s,G,minor,Gm Bb Eb Cm Gm Dm6 Ebadd9 Gm Bb Eb Cm Eb Eb Cm Gm F,1 3 6 4 1 56 6add9 1 3 6 4 642add6 6 4 1 7,hook
+Selena Gomez,The Heart Wants What It Wants,10s,G,minor,Eb Cm Gm Bb Eb Cm Gm Bb Eb Cm Gm Bb,6 4 1 3 6 4 1 3 6 4 1 3,hook
+The Chainsmokers,Paris,10s,D,major,Gsus2 Bm Asus4 F#m7,4sus2 6 5sus4 37,hook
+The Chainsmokers,All We Know,10s,C,major,C F Am,1 4 6,hook
+Charlie Puth,Attention,10s,D#,minor,Ebm Db Bbm B Ebm Db Bbm B Ebm Db Bbm B Ebm Db Bbm B Db Ebm Db Bbm B Db,1 7 5 6 1 7 5 6 1 7 5 6 1 7 5 6 7 1 7 5 6 7,hook
+Charlie Puth,One Call Away,10s,Db,major,Bbm Ab Db F# Db Ab Bbm F# Db Ab Db,6 5 1 4 1 5 6 4 1 5 1,hook
+Charlie Puth,How Long,10s,C#,minor,Dbm B A B Dbm B A,1 7 6 7 1 7 6,hook
+Charlie Puth,Done For Me,10s,B,minor,Bm7 B G9 B B,17 D67 69 D27add4 J57(b13),hook
+Charlie Puth,Light Switch,10s,D#,minor,Ebm F# Db Abm,1 3 7 4,hook
+Zedd,Clarity,10s,Ab,major,Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9 Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9 Bbmsus4 Ebsus4 Fm7 Cm7 Dbadd9,27sus4 57sus4 67 37 4add9 27sus4 57sus4 67 37 4add9 27sus4 57sus4 67 37 4add9,hook
+Zedd,The Middle,10s,G,major,C G D Cadd9 G D Cadd9 Em7 D,4 1 5 4add9 1 5 4add9 67 5,hook
+Zedd,Spectrum,10s,C,minor,Abadd9 Cm Eb Fm7 Ab Bbadd9 C,6add9 142 3 47 6 7add9 J1add9,hook
+Zedd,Find You,10s,Eb,major,Cm7 Bb6 Eb Fm7 Ab9 Gm7 Cm7 Cm Bb Eb Ab Cm Bb Eb Ab Gm7,67 56 1 27add4 49 37 67 6 5 1 4 6 5 1 4 37,hook
+Zedd,Beautiful Now,10s,B,minor,Bm F#m6 Em Bm A F#m7 G7 G D Bm7 F#m7,1 56 4 1 7 57 67 6 3 17 57,hook
+Zedd,Stay The Night,10s,Ab,major,Dbadd9 Absus4 Fm7 Ab6 Db Eb Fm Ab Fm Eb Ab Bbm Cm Db Fm Fm Eb Ab Bbm Cm Db Fm,4add9 164sus4 67 16 4 5 6 1 6 5 1 2 3 4 6 6 5 1 2 3 4 6,hook
+Calvin Harris,Feel So Close,10s,G,major,Am7 Em G C Am7 C Em G Em C Am7 C Em G Em C,27 6 1 4 27 442 6 142 66 4 27 442 6 142 66 4,hook
+Calvin Harris,Summer,10s,G,major,C7 Em7 D11 Em D6 Am7 C Em D Am G6,47 67 511 665 565/2 27 4 6 5 2 16,hook
+Calvin Harris,Blame,10s,C,minor,Ab7 Cm Bb Ab7 Cm Bb Ab Cm Bb,67 1 7 67 1 7 6 1 7,hook
+Calvin Harris,Sweet Nothing,10s,B,major,E7 B Abm F# E B Abm F# E B Abm F#,47 1 6 5 4 1 6 5 4 1 6 5,hook
+Sia,Chandelier,10s,Bb,minor,Bbm F#7 Ab Fm Ebm Fm Bbm6,1 67 7 5 4 5 16,hook
+Sia,Cheap Thrills,10s,F#,minor,A E6 F#m D F#m D A E6,3 76 1 6 1 6 3 76,hook
+Sia,Elastic Heart,10s,F#,minor,D A E F#m D A E F#m D A E F#m D A E F#m D A E F#m,6 3 7 1 6 3 7 1 6 3 7 1 6 3 7 1 6 3 7 1,hook
+Sia,Unstoppable,10s,F#,minor,F#m D A Dbm F#m D A Dbm F#m D A Dbm F#,1 6 3 5 1 6 3 5 1 6 3 5 J7,hook
+Sia,Alive,10s,F#,minor,F#m Dbm D F#m Dbm D F#m E A D Bm F#m Dbm6 F#m E A D,1 5 6 1 5 6 1 7 3 6 4 1 56 1 7 3 6,hook
+Sia,The Greatest,10s,C,minor,Cm Ab7 Ebadd9 Bb6 Fm Cm Gm Ab Cm Ab Eb Bb6,1 67 3add9 76 4 1 5 6 1 6 3 76,hook
+Doja Cat,Say So,20s,D,major,Em7 A11 D7 Em7 A11 D7,27 511 17 27 511 17,hook
+Doja Cat,Woman,20s,C,minor,Fm Gm Fm Gm Fmadd9 Gm,4 5 4 5 4add9 5,hook
+Doja Cat,Paint The Town Red,20s,G,dorian,Gm6 Adim6 Gm7 Adim7 Gm7 Adim7 Gm7 Adim7,164 26 17 27 17 27 17 27,hook
+Doja Cat,Need To Know,20s,D#,minor,Bbm7 B7 Bbm7 B7 Bbm7 B7 Bbm7 B7,57 67 57 67 57 67 57 67,hook
+Doja Cat,Streets,20s,E,minor,C Bm6 Emadd9 Bm6 C Bm6 Emadd9 Bm6 C Bm6 Emadd9 Bm6,6add4 564 1add9 564/1 6add4 564 1add9 564/1 6add4 564 1add9 564/1,hook
+Doja Cat,Agora Hills,20s,G#,minor,Dbmsus4 Eadd9 F#add9 Abm9,4sus4 6add9 7add9 19,hook
+Lil Nas X,Thats What I Want,20s,E,major,A E B Dbm,4 1 5 6,hook
+Lil Nas X,Old Town Road,20s,G#,minor,Ab7 G# Bsus2 F# Dbm6 Abm Bsus2 F# Dbm6 G# Bsus2 F# Dbm6,M17 J1 3sus2 7 465 1 3sus2 7 465 J1 3sus2 7 465,hook
+Lil Nas X,Panini,20s,Ab,major,Gdim Cm Eb Cm Eb Ab Eb,7 3 5 3 5 1 5,hook
+Sam Smith,Stay With Me,10s,C,major,Am7 F C Am7 F C,67 4 1 67 4 1,hook
+Sam Smith,Im Not The Only One,10s,F,major,F C Dm Bb7 F C Dm Bb7 Bb7 F C7 Dm C,1 5/6 6 47 1 5/6 6 47 47 1 57/6 6 5add4,hook
+Sam Smith,Too Good At Goodbyes,10s,D,minor,Dm7 Fadd9 C Gm6,17 3add9 7 4add6,hook
+Sam Smith,How Do You Sleep,10s,E,major,F#m E6 A B Dbm E B F#m E6 A B Dbm E B F#m E6 A B Dbm E B,2 16 4 5 6 1 5 2 16 4 5 6 1 5 2 16 4 5 6 1 5,hook
+Sabrina Carpenter,Espresso,20s,A,minor,Am Em Am7 Dm7 Em Dm7 Em7 Am7 Dm7 Em7 Am7,1 5 17 47 5 47 57 17 47 57 17,hook
+Sabrina Carpenter,Please Please Please,20s,A,major,A E7 Bm D A6 E A F#m D A6 Bm A E A E7 Bm D D E A E7 Bm6 Dbm6 D,1 57/2 2 4 16 5 1 6 4 16 2 1 5 1 57/2 2 4 4 5 1 57/6 26 36 4,hook
+Sabrina Carpenter,Nonsense,20s,F,minor,Db7 F Fm Ebsus4 Cm7 Db7 F Fm Ebsus4 Cm7,67 J5 1 7sus4 57/6 67 J5 1 7sus4 57/6,hook
+Sabrina Carpenter,Feather,20s,B,dorian,Bm7 A7 B Bm7 A7 B,17 77 J59(#5) 17 77 J59(#5),hook
+Sabrina Carpenter,Because I Liked A Boy,20s,B,major,B F# E F# B Abm E,1 5/3 4 5 1 6 4,hook
+Lorde,Royals,10s,D,mixolydian,Dm C Gm Dm C Gm,1 7 4 1 7 4,hook
+Lorde,Ribs,10s,E,major,A9 Dbm F#m11 Dbm7 A9 E F#m11 Dbm7,49 665 211 67 49 1 211 67,hook
+Lorde,Team,10s,F#,major,F# Ebm Db B Ebm Db Ebm,1 6 5 4 6 5 6,hook
+Lorde,Green Light,10s,F#,minor,F#m A D Esus2 Bmsus2 F#msus2 E Bm F#m E D F#m,1 3 6 7sus2 4sus2 1sus2 7 4 1 7 6 1,hook
+Lorde,Tennis Court,10s,A,minor,G Am F7 Em Am F Em Dm Am Em,7 1 67 5 1 6 5 4 1 5,hook
+Lorde,Perfect Places,10s,E,major,Aadd9 Dbm7 Abm6 Aadd9 Dbm7 B6 A,4add9 67 364 4add9 67 5add6 4,hook
+Lorde,Solar Power,10s,B,mixolydian,Bm A Em A7 Em6 Bm A Em Bm,1 7 4 77 4add6 1 7 4 1,hook
+Lorde,Liability,10s,Db,major,Db Bbm Ab F# Ebm Ab Bbm11,1 6 5 4 2 5 611,hook
+Frank Ocean,Thinkin Bout You,10s,A,minor,F7 Dm7 Em7 Am7 Bdim Am Em F,67 47 57 17 2 1 5 6,hook
+Frank Ocean,Super Rich Kids,10s,Eb,major,Eb9 Bb D9 Bb11 Eb9 Bb D7 Bb11,19 M542 M79 511 19 M542 M77 511,hook
+Frank Ocean,Nights,10s,Eb,major,Bbadd9 Cm7 Ab7 Gm Ab Bb Cm Gm6 Cm,5add6add9 67 47 3 4 5 66 365 66,hook
+Frank Ocean,Novacane,10s,D#,minor,B7 Abm7 B7 Bbm6,67 47 67 56,hook
+Frank Ocean,Ivy,10s,C,major,C Dm Am Dm,1 2 6 2,hook
+Frank Ocean,Self Control,10s,Ab,major,Ab7 Fm7 Bbm7 Eb7 Bbm7 Db7 Ab Bbm7 Ab Db7 Ab,17 67 27 57 27 47 1 27 1 47 1,hook
+Paramore,Misery Business,00s,F,minor,Fm Bbm Cm Bbm Cm Eb Fm Fm Bbm Cm Bbm Cm Eb Fm Db Ab Eb Fm Cm Db Ab Eb Fmsus4 Db Ab Eb Fm Cm,1 4 5 4 5 7 1 1 4 5 4 5 7 1 6 3 7 1 5 6 3 7 17sus4 6 3 7 1 5,hook
+Paramore,Decode,00s,Bb,minor,F#7 Ebm7 Bbm7 Fm7 F#7 Ebm7 Bbm7 Fm7 F#7 Ebm7 Bbmadd9 Fm7,67 47 17 57 67 47 17 57 67 47 1add9 57,hook
+Paramore,Aint It Fun,00s,C#,minor,A Dbm A Dbm,6 1 6 1,hook
+Paramore,Still Into You,00s,F,major,F Bb C,1 4 5,hook
+Paramore,Hard Times,00s,Eb,major,Eb Ab Bb11 Eb Cm Ab Bb Cm Eb Fm Cm Eb Fm Cm Eb Ab Cm,1 4 511 1 6 4 5 6 1 2 6 1 2 6 1 4 664,hook
+Paramore,The Only Exception,00s,B,mixolydian,Bm D6 Em7 Bm D6 Em7 Dbdim Bm F#m Dbdim Bm F#m A Em7 Bm,1 365 47 1 365 47 2 1 5 2 1 5 7 47 1,hook
+Avril Lavigne,Complicated,00s,F,major,F Dm Bbadd9 C Bb7 C Dm Dm Bb F C,1 6 4add9 5 47 5 6 6 4 1 5,hook
+Avril Lavigne,Sk8Er Boi,00s,D,major,D A Bm Bb A D A Bm Bb D A Bm D A G F#m D A G Bb D F#m Dbdim Bm A,1 5 6 b6 5 1 5 6 b6 1 5 6 1 5 4 3 1 5 4 b6 1 3 7 6 5/1,hook
+Avril Lavigne,Girlfriend,00s,D,major,D A Bm G D A Dbdim Bm Dbdim F#m Dbdim D Bm,1 5 6 4 1 5 7 6 7 3 7 1 6,hook
+Avril Lavigne,Im With You,00s,A,major,F#m7 Dsus2 E D Asus2 Esus2 Dsus2,67 4sus2 5 4 1sus2 5sus2/5 4sus2,hook
+Avril Lavigne,My Happy Ending,00s,D,major,Bm G7 Dsus2 Asus4 G A G D A Bm G D A A G Bm G D A,6 47 1sus2 5sus4 4 5 4 1 5 6 4 1 5 5 4 6 4 1 5,hook
+Avril Lavigne,What The Hell,00s,A,major,A D F#m D A D F#m D A D F#m D A D F#m D,1 4 6 4 1 4 6 4 1 4 6 4 1 4 6 4,hook
+Avril Lavigne,When Youre Gone,00s,E,minor,Cadd9 Em7 Em Bm6 C7 Amadd9 Bmsus4 F#dim Em6 Am Bmsus4 Amadd9 C7 Bmsus4 G Am Em Bmsus4 C7 Amadd9 Bm6,6add9 17 1 56 67 4add9 5sus4 2 16 4 5sus4 4add9 67 5sus4 3 4 1 5sus4 67 4add9 56/5,hook
+My Chemical Romance,Welcome To The Black Parade,00s,G,major,G Bm6 Em G6 C Em Am G D6 F# C G D G D6 Em D C D D Em G C6 D C G C D G D6 Em D C D,1 364 6 164 4 664 2 1 56 M7 4 1 5 1 56 6 5 4 5 5/6 6 1 46 5 4 1 4 5 1 56 6 5 4 5,hook
+My Chemical Romance,Teenagers,00s,E,major,E B A E B,1 5 4 1 5,hook
+My Chemical Romance,Helena,00s,E,major,Dbm E B Abm A Dbm B E B Dbm E,6 1 5 3 4 6 5 1 5 6 H742,hook
+My Chemical Romance,Famous Last Words,00s,D,minor,Dm C Bb F6 Gm Am Bb Dm Am6 Bb F7 Gm Am Edim7,1 7 6 36 4 5 6 1 56 6 37 4 5 27,hook
+Fall Out Boy,Dance Dance,00s,B,minor,Bm D A G D A Bm D A G D A Bm D G D Bm D G B Bm A6 D6 G A Bm A6,1 3 7 6 3 7 1 3 7 6 3 7 1 3 6 3 1 3 6 J5 1 76 36 6 7 1 76,hook
+Fall Out Boy,Thnks Fr Th Mmrs,00s,Bb,minor,Bbm Fm6 Ebm Bbm6 Fm6 Bbm F# Ebm F# Bb Bbm F# Bbm7 Bb Ebm7 F# Bb,1 56 4 16 56 1 6 4 6 J56 1 6 17 J5 47 6 J5,hook
+Fall Out Boy,Centuries,00s,E,minor,Em G C Am D Em G C Am D,1 3 6 4 7 1 3 6 4 7,hook
+Fall Out Boy,My Songs Know What You Did In The Dark,00s,D,minor,Dm Bb Dm Bb F C,1 6 1 6 3 7,hook
+Fall Out Boy,Immortals,00s,F#,minor,F#m D A E,1 6 3 7,hook
+Gorillaz,Feel Good Inc,00s,D#,minor,D# Bbm7 Abm7 Ebm Ebm Db Abm6 Bbm7 Ebm Bbm7 Abm7,J1 57 47 1 1 7 465 57 1 57 47,hook
+Gorillaz,Clint Eastwood,00s,D#,phrygian,Ebm Fdim6 Ebm Fdim6 Ebm F# Abm F# Ebm Db D#,1 264 1 264 1 3 4 3 1 7 J5/3,hook
+Gorillaz,Dare,00s,G,minor,G Bb G Bb,J1 3 J1 3,hook
+Gorillaz,On Melancholy Hill,00s,D,major,D A6 Bm7 G7 A6 G7 A6,1 5add6 67 47add6 5add6 47add6 5add6,hook
+Gorillaz,Rhinestone Eyes,00s,Bb,minor,Bbm F# Bbm11 F# F# Bbm,1 665 111 66 66 1,hook
+Gorillaz,Dirty Harry,00s,Bb,minor,Bbm Absus4,1 76sus4,hook
+Usher,Yeah,00s,G,minor,Gm Eb Gm Eb Gm Eb,1 66 1 66 1 66,hook
+Usher,Burn,00s,Db,major,Dbadd9 Bbm7 F#add9 Bbm7 Dbadd9 Bbm7 F#add9 Db Bbm7 F#add9 Bbm7 Dbadd9 Bbm7 F#add9,1add9 67 4add9 67 1add9 67 4add9 1 67 4add9 67 1add9 67 4add9,hook
+Usher,U Got It Bad,00s,Bb,minor,Bbm7 F#7 Bbm7 F#7,17 67 17 67,hook
+Usher,Dj Got Us Fallin In Love,00s,G,minor,Gm Bb F Bb Eb Bb Eb Gm Bb F Bb Eb Bb Eb Gm Bb F Bb Eb Bb Eb,1 3 7 3 6 3 6 1 3 7 3 6 3 6 1 3 7 3 6 3 6,hook
+Usher,Omg,00s,E,minor,Em Bm C Em D Em D Bm C Bm C Em D Em D Bm,1 5 6 1 7 1 7 5 6 5 6 1 7 1 7 5,hook
+Usher,Confessions Part Ii,00s,Ab,major,Db7 Eb Fm,47 5 6,hook
+TLC,Waterfalls,90s,Eb,major,Eb7 Bbadd9 Ab9 Eb9 Bbadd9 Ab7 Ebadd9 Bbadd9 Ab7,17 5add9 49/4 19 5add9 47/4 1add9 5add9 47/4,hook
+TLC,No Scrubs,90s,G#,minor,Dbm7 Abm G# Abm Dbm7 Abm Ebm7 Abm Dbm7 Abm Ebm7 Abm E G# Abm7 G# Ebm7 E9 G#,47 1 J57 1 47 1 57/1 1 47 1 57/1 1 6 J57 17 Y77 57/2 69 J57,hook
+TLC,Creep,90s,C,minor,Cm7 Fm7 Cm7 Fm7 Cm7 Fm7,17 47 17 47 17 47,hook
+TLC,Unpretty,90s,C,major,C G6 C6 F G C G6 C6 F G C G6 C6 F G,1 56 164 4 5 1 56 164 4 5 1 56 164 4 5,hook
+TLC,Red Light Special,90s,C,minor,Cm7 Bb6 Cm7 Fm7,17 76 17 47,hook
+TLC,Diggin On You,90s,F#,major,F#6 Bbm7 Abm7 Dbsus2 F#7 Bbm7 Abm7 Db9 Ebm7 Bb6 F#6 F#7 Bbm7 Abm7 Db11 D7 F#9,16 37 27 5sus2 17 37 27 59 67 b46add6 164add6 17 37 27 511 b67 19,hook
+Boyz II Men,Ill Make Love To You,90s,D,major,D Bm7 A Em6 F#m7 A Em6 D Bm Emsus4 Asus4 D Bm Em,1 67 542 26 37 542 26 1 6 2sus4 5sus4 1 6 2,hook
+Boyz II Men,End Of The Road,90s,Eb,major,Eb Cmsus4 Ab Gm Fm Ab Bb Eb Eb Gm6 Eb Cm Bb Ab Eb Cmsus4 Ab Gm Fm Ab Bb,1 6sus4 4 3 2 4 5 1 H56 364 D46 6 5 4 1 6sus4 4 3 2 4 5,hook
+Boyz II Men,On Bended Knee,90s,Eb,major,Eb Bb7 Ab9 Bbsus4 Bbsus4 Eb Fm7 Bb9 Ab9 Ab9 Bb Cm7 Gm7 Fm7 Bb Ddimsus4 Eb Eb7 Ddim13 Cm9 Ab7 Eb,1 57/4 49 59sus4 59sus4 1 27/4 59/4 49 49 5 67 37 27 5add4 79sus4 H77 17 713 69 47 H57add6,hook
+Black Eyed Peas,I Gotta Feeling,00s,G,major,C G C Em,4 1 4 6,hook
+Black Eyed Peas,Boom Boom Pow,00s,A,minor,Am F Dm6,1 6 46,hook
+Black Eyed Peas,Where Is The Love,00s,F,major,F C6 Dm Bb F C6 Dm Bb F C6 Dm Bb F C6 Dm Bb F Csus4 Dm Bb F C Dm Bb,1 56 6 4 1 56 6 4 1 56 6 4 1 56 6 4 1 5sus4 6 4 1 5 6 4,hook
+Black Eyed Peas,Meet Me Halfway,00s,B,minor,G A6 F#m,66 76 5,hook
+Black Eyed Peas,My Humps,00s,C#,minor,Ebdim Abm6 Dbm Ebdim11 Dbm Ebdim11,243 56 1 211 1 211,hook
+Black Eyed Peas,Pump It,00s,E,phrygian,Em F#dim Em G E C Am E F#dim Em F#dim Em F#dim,1 2 1 3 D4 6 4 Y3 2 1 2 1 2,hook
+Black Eyed Peas,Imma Be,00s,C,minor,Gm Cm,5 1,hook
+Kings of Leon,Use Somebody,00s,C,major,C Em F C Em F C Em F C G C Em F,1 3 4 1 3 4 1 3 4 1 5/6 1 3 4,hook
+Kings of Leon,Sex On Fire,00s,E,major,E Dbm E Dbm E Dbm,1 6 1 6 1 66,hook
+Hozier,Take Me To Church,10s,E,minor,Em Am Em Am G Bm6 E Em E G Am Am Em Bm7 C,1 4 1 4 3 564 Y564 1 H5 3 4 4 1 57/6 66,hook
+Hozier,Cherry Wine,10s,E,major,E Dbm A6,1 6 464,hook
+Hozier,Work Song,10s,Bb,major,Bb Cm Gm F Bb Cm6 Gm F Bb,1 2 6 5 1 26 6 5 1,hook
+Hozier,Too Sweet,10s,G,minor,Gm Adim Bb Cm Dm Eb F Gm Adim11 Bb Cm11 Bb6 Eb F Gm Adim Bb Cm Dm Eb F,1 2 3 4 5 6 7 1 211 3 411 36 6 7 1 2 3 4 5 6 7,hook
+John Legend,All Of Me,00s,Ab,major,Fm Db Ab Eb Bbm Ab Eb,6 4 1 5 2 1 5,hook
+John Legend,Love Me Now,00s,F,minor,Cm Fm Bbm6 Eb Db Ab Eb Fm Db Ab Eb Bbm Fm7 Dbsus2 Eb,5 1 46 7 6 3 7 1 6 3 7 4 17 6sus2 7,hook
+Nelly Furtado,Maneater,00s,A#,phrygian,Bbm Db Fm Cdim Cdim Bbm A# Bbm Db6 Bbm F# Fm Ab Bbm F# Fm Ab Bbm,1 3 5/2 2 2 1 H5/5 1 3add6 1 6 5 7 1 6 5 7 1,hook
+Nelly Furtado,Say It Right,00s,F,minor,Fm Eb Db Bbm Fm Eb Db Bbm,1 7 6 4 1 7 6 4,hook
+Nelly Furtado,Im Like A Bird,00s,Bb,major,Gm Bb Cm Eb Cm6 Eb7 Bb Bb F Cm Eb,6 1 2 4 26 47 1 1 5 2 4,hook
+Nelly Furtado,Turn Off The Light,00s,D,major,Em G D Em G D,2 4 1 2 4 1,hook
+Norah Jones,Dont Know Why,00s,Bb,major,Bb7 F7 Eb F Gm7 F7 Bb7 F7 Eb7 F Gm7 F7 Gm7 F7,17 57/4 4 5/6 67 57/5 17 57/4 47 5(#5)/6 67 57/5 67 57/5,hook
+Norah Jones,Come Away With Me,00s,C,major,C Am,1 6,hook
+Alanis Morissette,Ironic,90s,B,major,E7 B F# B F# Abm B E B Dbm E7 Ebm6,47 143 5 1 5 6 1 4 1 2 47 365,hook
+Alanis Morissette,You Oughta Know,90s,F#,dorian,A Bm A Bm F#m E Ab Bm,3 4 3 4 1 7 b3 4,hook
+Alanis Morissette,Hand In My Pocket,90s,G,mixolydian,Fsus2 Cmsus2 Gm,7sus2 4sus2 1,hook
+Alanis Morissette,Head Over Feet,90s,C,major,C G Am F G Em C Dm G Em C,1 5 6 4 5 3 1 2 5 3 D3,hook
+Alanis Morissette,Uninvited,90s,D,phrygian,Dm A Am7 Gm Dm,1 b665(#5) 57/4 4 1,hook
+Weezer,Buddy Holly,90s,Ab,major,Fm Eb6 Ab Db Cm Fm Ab Db Eb Ab Fm Ab Bbm Cm Bbm Ab Db Cm Fm,6 56 1 4 3 6 1 4 5 1 642 1 2 3 2 1 4 3 6,hook
+Weezer,Say It Aint So,90s,Eb,major,Cm Bb Ab Eb Cm Bb Ab Eb Cm Gm Ab Eb Eb Ab B,6 5/6 4 1 6 5/6 4 1 6 3 4 1 1 4 b6,hook
+Weezer,Island In The Sun,90s,G,major,Em Am6 D6 G6 Em Am D G Em Am7 D G D G,664 26 564 16 6 2 5 1 6 27 5 1 5 1,hook
+Weezer,Beverly Hills,90s,F,major,F Bb F Bb C Bb F Bb C F Bb F Bb,1 4 1 4 5 4 1 4 5 1 4 1 4,hook
+Weezer,Hash Pipe,90s,A,dorian,Am Bdim C Am Bdim C E A Dm C A G,1 2 3 1 2 3 b6 J5 4 3 L2 7,hook
+Weezer,Pork And Beans,90s,F#,major,F# Bbm6 F# Db Ebm B F#,1 364 1 5 6 4 1,hook
+No Doubt,Dont Speak,90s,C,minor,Cm Gm Fm Bb Gm Fm Bb Cm Gm Fm Bb Gm Fm Bb Cm Fm Bb C Fm C Cm Cm Gm6 Fm Ab Ddimsus4 Cm Gm Fm Bb,1 5 4 7 5 4 7 1 5 4 7 5 4 7 1 4 7 H57 4 H57 1 1 56 4/4 6 27sus4 1 5 4 7,hook
+No Doubt,Just A Girl,90s,D,major,D Bm Bb A D Bm Bb A Bm A G A,1 6 b6 5 1 6 b6 5 6 5 4 5,hook
+No Doubt,Spiderwebs,90s,Bb,major,Bb F Gm Eb Bb Cm Dm F Gm Eb F Bb Gm Eb F Bb Gm Eb,1 5 6 4 1 2 3 5 6 4 5 1 6 4 5 1 6 4,hook
+No Doubt,Hella Good,90s,G,phrygian,Gm F Gm Adim,1 7 1 2,hook
+No Doubt,Underneath It All,90s,E,major,E A B A,1 4 5 4,hook
+No Doubt,Sunday Morning,90s,E,major,E Dbm A Dbm E F#m,1 6 4 6 1 2,hook
+Foo Fighters,Everlong,90s,B,minor,D7 Bmsus2 Gsus2 Bmsus2 D7 Bmsus2 Gsus2 Bmsus2 Bm7 F#m,37 1sus2 6sus2 1sus2 37 1sus2 6sus2 1sus2 17 5,hook
+Foo Fighters,My Hero,90s,E,major,E Dbm E Dbm A Dbm E B,1 6 1 6 4 6 1 5,hook
+Foo Fighters,Learn To Fly,90s,B,mixolydian,Bmsus2 F#m11 Em Bmsus4 F#m11 Em Bmsus4 G D B G Asus4,1sus2 511 4 1sus4 511 4 1sus4 6 3 D4 6 7sus4,hook
+Foo Fighters,Monkey Wrench,90s,B,major,B E Bb6,1 4 b16,hook
+Foo Fighters,The Pretender,90s,A,minor,Am Em6 C Am A F7 Am A F Am Em6 C Am A F,1 564 3 1 D46 67 1 D46 6 1 564 3 1 D46 6,hook
+Foo Fighters,Best Of You,90s,E,major,Dbm7 Asus2 Dbm7 Aadd9 Dbm B6 Aadd9 Dbm7 Aadd9,67 4sus2 67 4add9 6 56 464add9 67 4add9,hook
+U2,One,90s,A,minor,Am Dmsus2 F7 G Am F Dm,1 4sus2 67 7 1 6 4,hook
+U2,With Or Without You,90s,D,major,D A Bm G D A Bm G D A Bm G,1 5 6 4 1 5 6 4 1 5 6 4,hook
+U2,Beautiful Day,90s,A,mixolydian,Am Emsus4 Dm G Dmadd9,1 543sus4 4 7 4add9,hook
+U2,I Still Havent Found What Im Looking For,90s,Db,major,Db F#sus2 Db Ab F#,1 4sus2 1 5 4,hook
+U2,Vertigo,90s,E,mixolydian,Em D F# Am,1 7 b3 4,hook
+U2,Sunday Bloody Sunday,90s,Bb,minor,Bbm Db Ebm6 Bbm Db Ebm6,1 3 465 1 3 465,hook
+U2,Where The Streets Have No Name,90s,D,major,G D D G Bm A,4 1 1 4 6 5,hook
+R.E.M.,Everybody Hurts,90s,D,major,D G Em A F#m7,1 4 2 5 37,hook
+R.E.M.,Losing My Religion,90s,A,minor,F Dm G Am Bdim11 Am6 Dmsus2 Am Em Am Em,6 4 7 1 211 16 47sus2 1 5 1 5,hook
+R.E.M.,The One I Love,90s,E,minor,Em D,1 7,hook
+R.E.M.,Its The End Of The World As We Know It,90s,G,major,G C G D Am,1 4 1 5 2,hook
+R.E.M.,Man On The Moon,90s,C,lydian,Cm Ddim Ddim Cm,1 2 2 1,hook
+Whitney Houston,I Will Always Love You,90s,A,major,A F#m D E,1 6 4 5,hook
+Whitney Houston,I Have Nothing,90s,G,major,G7 Em9 Cadd9 G6 Am7 D Am7 Bm7 Em7 Cadd9 Bm7 Am7 Bm7 Em7 Bm6,17 69 4add9 16 27 5 27 37 67 4add9 37 27 37 67 36,hook
+Whitney Houston,Run To You,90s,Ab,major,Bbmsus4 Eb Db Bbm Eb Absus2 Eb9,265sus4 5 4 2 5 1sus2 57(#5b9)/2,hook
+Whitney Houston,Greatest Love Of All,90s,A,major,A F#m E7 D Bm6 D Dbm7 D A6 Bm7 E11 E11 Dbm7 F#m7 Bm7,1 665 57/4 4 265 4(#5) 37 4 16 27 511 511 37 67 27,hook
+Whitney Houston,I Wanna Dance With Somebody,90s,F#,major,Db Ebm7 Abm7 F#6 F# Ebm F#6 B Db F# Ebm Ebm7 Db Abm Bbm Ebm7 Db B F# Db6 Ebm Badd9 Db F# Db6,5 67 27 16 1 6 16 4 5 1 6 67 5 2 3 67 5 4 1 56 6 4add9 5 1 56,hook
+Celine Dion,My Heart Will Go On,90s,E,major,E B6 Asus2 Eadd9 B E B6 Dbm7 B A B Dbm7 B A Dbm7 B A B Dbm7 B A,1 564add4 464sus2 1add9 5 1 564add4 67 5 4 5 67 5 4 67 5 4 5 67 5 4,hook
+Celine Dion,The Power Of Love,90s,Ab,major,Eb Ab Db Bbm,5 1 4 2,hook
+Celine Dion,Because You Loved Me,90s,Db,major,Db F# Bbm Absus4 Fm7 F# Absus4 F#7 Bbm Ebmsus4 A Absus4 Db F#,1 4 6 5sus4 37 4 5sus4 47/4 6 27sus4 b6 5sus4 1 4,hook
+Celine Dion,All By Myself,90s,A,major,A Bb A Bm Esus4 Bm Db Aadd9 Esus4 A Db6 Esus4 A Dbm7 Bb6 Dbm C7 Ab6 E7 A Abdim6 Dbm D Bm7 A6 A A Dbm7 Bm Esus4 Bm Bb7 A,1 b242 1 243(b5)/2 5sus4/2 2 b4 16add9 57sus4/2 L27 b465 57sus4 1 37 b265 3 b37 b16 57/5 1 76 3 4 27 164 J565 1 37 243(b5)/2 57sus4/2 2 b27 1,hook
+The Smashing Pumpkins,1979,90s,Eb,major,Eb7 Ab Eb7 Ab Eb Ab Ab Bb Cm,17 4 17 4 1 4 4 5 6,hook
+The Smashing Pumpkins,Today,90s,Eb,major,Eb Bb Abadd9 Eb Bb Ab Fm Ab Eb Bb Eb Gm Eb Eb Bb Eb Ab,1 5add4 4add9 1 5 4 2 4 1 5 1 3 J5 1 5 1 4,hook
+The Smashing Pumpkins,Bullet With Butterfly Wings,90s,Bb,minor,Bbm F# Ebm Ab Bbm Absus2 Bbm F# Ebm Ab Bbm Ebm F# Ab Bbm Ab F# Db Ab Ebm F# Ebm F# Fm Ab Bbm Ab F# Db Ab Bb,1 6 4 7 1 7sus2 1 6 4 7 1 4 6 7 1 7 6 3 7 4 6 4 6 5 7 1 7 6 3 7 J7,hook
+The Smashing Pumpkins,Disarm,90s,G,major,Em7 Cadd9 G D C D Em D,67 4add9 1 5 4 5 6 5,hook
+The Smashing Pumpkins,Tonight Tonight,90s,F#,major,F# Ebm7 Badd9 Ebm7 Badd9 B7 F#6 F# Dbadd9 Ebm Abm B,1 67 4add9 67 4add9 47 164 1 56add9 6 2 4,hook
+Backstreet Boys,I Want It That Way,90s,A,major,F#m D A Dadd9 E F#m Dadd9 E A F#m Dbmsus4 E F#m A6 D Bm E F#m A6 F#m D A Bm Dadd9 E F#m Dadd9 E F#m Dadd9 E F#m Dadd9 E F#m,6 4 1 4add9 5 6 4add9 5 1 6 3sus4 5/6 6 164 4 2 5 6 164 6 4 1 2 4add9 5 6 4add9 5 6 4add9 5 6 4add9 5 6,hook
+Backstreet Boys,Everybody,90s,Bb,minor,Bbm F# Fm Bbm F# Fm Bbm Fmsus4 Ebm F# G Bbm Fmsus4 Bbm F# Fm,1 6 5 1 6 5 1 5sus4 4 6 b7 1 5sus4 1 6 5,hook
+Backstreet Boys,As Long As You Love Me,90s,C,major,Am F G C G6 F C Am Gsus4 Am C6 F G Am C6 C,6 4 5 1 56 4 1 6 5sus4 6 164 4 5 6 164 L47,hook
+Backstreet Boys,Show Me The Meaning Of Being Lonely,90s,F#,minor,F#m D E F#m D E F#m D E F#m D E,1 6 7 1 6 7 1 6 7 1 6 7,hook
+Backstreet Boys,Larger Than Life,90s,C,dorian,Cm Bb Fm Cm Bb C Cm C Gm6 Fmsus4 C Fm C,1 7 4 1 7 D4 1 H57 56 4sus4 D4 4 H57,hook
+Backstreet Boys,Shape Of My Heart,90s,D,major,Gadd9 D D G D Asus4 F#m Bm D6,4add9 1 1 4 1 5sus4 3 6 164,hook
+NSYNC,Bye Bye Bye,90s,G#,minor,Abm F# E Abm Dbm Ebm E F# E F# E Dbm G# Abm F#,1 7 6 1 4 5 6 7 6 7 6 4 H5 1 7,hook
+NSYNC,Its Gonna Be Me,90s,C,minor,Gm Ab Cm Bb Ab Bb Gm Cm Ab C Cm Ab Bb Gm Cm Bb Ab C,5 6 1 7 6 7 5 1 6 H56 1 6 7 5 1 7 6 H5,hook
+NSYNC,Tearin Up My Heart,90s,A,minor,Am G A Am G A Emsus4 A F G Am G F F G Am G F Emsus4 A,1 7 H56 1 7 H56 5sus4 H5 6 7 1 7 6 6 7 1 7 6 5sus4 H5,hook
+NSYNC,This I Promise You,90s,D,major,D A Bm7 G D6 A G9 D A Bm7 G D6 A G9,1 5 67 4 164 5 49 1 5 67 4 164 5 49,hook
+NSYNC,Pop,90s,C#,minor,Dbm Abm6 A Abm B,1 56 6 5 7,hook
+Blink-182,All The Small Things,90s,C,major,C G F G C F Gsus4,1 5 4 5 1 4 5sus4,hook
+Blink-182,Whats My Age Again,90s,F#,major,B F# Db Ebm F# Db Ebm B,4 1 5 6 1 5 6 4,hook
+Blink-182,I Miss You,90s,B,major,B Abm7 B Abm7 B F#sus4 Eadd9,1 67 1 67 1 5sus4 4add9,hook
+Blink-182,First Date,90s,C,major,C Dm F G C G F C G6 Am F G C Em F G,1 2 4 5 1 5 4 1 56 6 4 5 1 3 4 5,hook
+Blink-182,Feeling This,90s,E,major,E B Dbm A E B Dbm A,1 5 6 4 1 5 6 4,hook
+The Cranberries,Zombie,90s,E,minor,Em C7 G6 Dadd9 Em C G D6 Em C G D6 Em C G D6,1 67 3add6 76add6add9 1 6 3 76 1 6 3 76 1 6 3 76,hook
+The Cranberries,Linger,90s,D,major,F#m6 A D A6 G D A6 Gadd9,36 5 1 5add6 4/4 1 5add6 4add9/4,hook
+The Cranberries,Dreams,90s,E,major,E A B7 E A B7 E A B7 E A,1 4 57 1 4 57 1 4 57 1 4,hook
+The Cranberries,Ode To My Family,90s,D,major,D Bm F#m G,1 6 3 4,hook
+The Cranberries,Animal Instinct,90s,E,minor,Em Am Cadd9 D Em Bm Am7 Bm Em Am Cadd9 D,1 4 6add9 7 1 5 47 5 1 4 6add9 7,hook
+Aerosmith,I Dont Want To Miss A Thing,90s,D,major,D A6 Bm7 G D6 Emsus4 F#m7 D A6 Em7 G A D A6 G D A6 Em7 Asus4,1 56 67 4 16 27sus4 37 1 56 27 4 5 1 56 4/4 1 56 27 5sus4,hook
+Aerosmith,Cryin,90s,A,major,A E F#m Dbm D A E A E A E F#m D A E D A7 Dbm D Abdim,1 5 6 3 4 1 5 1 5 1 5 6 4 1 5 4 17 3 4 7,hook
+Aerosmith,Crazy,90s,A,major,A D F#m D E F#m D A F#m D Db A F#m D,1 4 6 4 5 6 4/4 1 6 4 b4 1 6 4,hook
+Aerosmith,Dream On,90s,F,minor,Fm F Gdimsus4 Fm F Gdimsus4 Fm Eb Db Eb Fm Eb Db Eb Fm Eb F Fmsus2 F Fmsus2 F Cmadd9 F Fm Bbm Cm Db Eb Fm,1 D665 242sus4 1 D665 242sus4 1 7 6 7 1 7 6 7 1 7 D6 1sus2 H17sus2 17sus2 D26add4 56add9 H56add9 1 4 5 6 7 1,hook
+Aerosmith,Sweet Emotion,90s,A,major,A D6 A D6,1 464 1 464,hook
+Aerosmith,Walk This Way,90s,C,mixolydian,Cm7 C Cm Ab Cm7 Fm Ddim6 C Cm,17 J5/2 1 665 17 4 265 D47 1,hook
+Goo Goo Dolls,Iris,90s,D,major,D Emsus4 G Bm Asus4 G Bm A G Bm A G G F#m G Bm G F#m Bm Bm D Bm A G,1 27sus4 4 6 5sus4 4 6 5add4 4 6 5 4 4 3 4 6 4 3 6 6 142 6 5 4,hook
+Goo Goo Dolls,Slide,90s,Ab,major,Fm Eb Db Ab Fm Eb Dbadd9 Db Eb,6 5 4 1 6 5 4add9 4 5,hook
+Shania Twain,Man I Feel Like A Woman,90s,Bb,dorian,Bbm Ebm Ebm Fmadd9 Db7 Bbm F# Ebm,1 4 4 5add9 37 1 6 4,hook
+Shania Twain,Youre Still The One,90s,Eb,major,Eb Ab Bb Eb Ab Fm Bb Eb Ab Bb Eb Ab Fm Bb Eb Ab Bb,1 4 5 1 4 2 5 1 4 5 1 4 2 5 1 4 5,hook
+Shania Twain,That Dont Impress Me Much,90s,Db,major,Bbm F# Db Ab Db Ab F# F# Db Ab Bbm,6 4 1 5 1 5 4 4 1 5 6,hook
+Shania Twain,Any Man Of Mine,90s,Ab,major,Ab Eb Db Ab Eb Ab Db Ab Db,1 5 4 1 5 1 4 1 4/4,hook
+Glass Animals,Heat Waves,20s,B,major,Dbm B Abm F# E B Dbmsus2 Dbm B Abm F# E B Abm E F# Abm B E F# Abm Dbm B Abm F# E B Dbmsus2,2 1 6 5 4 1 27sus2 2 1 6 5 4 1 6 4 5 6 1 4 5 6 2 1 6 5 4 1 27sus2,hook
+Glass Animals,Life Itself,20s,C,minor,Cm Bb Fm Gm Fm Cm Cm Gm Fm Gm Cm Bb Fm6,1 7 4/1 5 4 1 1 5 4 5 1 7 46/1,hook
+Tate McRae,You Broke Me First,20s,C#,minor,Dbm7 A E B6 Dbm7 A E B6 Dbm A E B6,17 6 3 76 17 6 3 76 1 6 3 76,hook
+Tate McRae,Greedy,20s,F#,minor,D Bm F#m E D Bm F#m E D Bm E F#m E D Bm D Bm F#m E,6 4 1 7 6 4 1 7add4 6 4 7 1 7 6 4 6 4 1 7add4,hook
+Tate McRae,Exes,20s,G,minor,Gm7 Dm7 Eb7 Cm Gm7 Dm7 Eb7 Cm7 Gm7 Dm7 Eb7 Cm7,17 57 67 4 17 57 67 47 17 57 67 47,hook
+Tate McRae,Run For The Hills,20s,Eb,major,Fm11 Abadd9 Eb Bb,211 4add9 1 5,hook
+Conan Gray,Heather,20s,F,major,F Am Dm Bb7 A F Am Dm Bb7 A,1 3 6 47 b4 1 3 6 47 b4,hook
+Conan Gray,Maniac,20s,Eb,major,Ab Eb Cm7 Eb,4 1 67 1,hook
+Conan Gray,Telepath,20s,C#,minor,A Abm Dbm,6 5 1,hook
+Conan Gray,Disaster,20s,C,major,Am C F G,6 1 4 5,hook
+Benson Boone,Beautiful Things,20s,Bb,major,Eb Bb F Gm Eb Bb F7 Eb Bb F Gm Eb Bb Gm F,4 1 5 6 4 1 57 4 1 5 6 4 1 6 5,hook
+Zach Bryan,Something In The Orange,20s,G,major,Cadd9 G D Em,4add9 1 5 6,hook
+Chris Stapleton,Starting Over,20s,Bb,major,Gm F6 Bb Ebadd9 F7 Bb,6 56 1 4add9 57 1,hook
+PinkPantheress,Just For Me,20s,C,major,C Am,1 6,hook
+PinkPantheress,Boys A Liar,20s,D,minor,Bb7 Gm7 Am6 Bb7 Gm7 C Bb7 Gm7 Am6 Bb7 Gm7 C,67 47 565 67 47 7 67 47 565 67 47 7,hook
+Steve Lacy,Bad Habit,20s,F,minor,Db7 Ab7 Bbm11 Cm7 Db7 Ab7 Bbm11 Cm7 Db7 Ab7 Bbm11 Cm7,67 37 411 57 67 37 411 57 67 37 411 57,hook
+Steve Lacy,Dark Red,20s,F#,major,Db Abm F# F# B7 Db Abm F# F# B7 Bbm7 F# Abm7 Ebm Db7 B,5/6 2 1 D47 47 5/6 2 1 D47 47 37 C37 27 6 57 4,hook
+Rosalia,Malamente,20s,C,minor,Cm6 Bb6 Ab Gm6,16 76 665 565,hook
+Rosalia,Despecha,20s,A,minor,Am G Am G Am G,1 7 1 7 1 7,hook
+Rosalia,Saoko,20s,C,phrygian,Cm Ddim Cm Ddim,1 2 1 2,hook
+Noah Kahan,Stick Season,20s,A,major,A E F#m D A E F#m D,1 5 6 4 1 5 6 4,hook
+Noah Kahan,Dial Drunk,20s,Ab,major,Db Ab Eb Fm,4 1 5 6,hook
+Noah Kahan,Northern Attitude,20s,Eb,major,Eb Abadd9 Eb Bb Abadd9,1 4add9 1 5add4 4add9,hook
+Noah Kahan,Homesick,20s,F#,major,F# Ebm Db B,1 6 5 4,hook
+Noah Kahan,Everywhere Everything,20s,B,major,B Abm E,1 6 4,hook
+Noah Kahan,Call Your Mom,20s,C,major,Am F C Dm Am F C,6 4 1 2 6 4 1,hook
+Laufey,From The Start,20s,Db,major,Ebm9 Ab13 Db7 Ebm11 Ab13 Db9,29 513 17 211 513 19,hook
+Laufey,Valentine,20s,Eb,major,Eb7 Bb13 Gm7 Bb7 Fm7 Bb7 Fm7 Gm7 Ab,17 57(b13) 37 57/2 27 57/2 27 37 4,hook
+Laufey,Let You Break My Heart Again,20s,D,major,Em7 A7 D7 A7 Em7 A7 F#m7 Em7 A13 G9 D F#m7 A9 Em11 A7 D7 Em7 A7 D7 C A7 Em7 A7,27 57add6 17 57/2 27 57add6 37 27 513 49 T47 37 57(b9)/2 211 57add6 17 27 57add6 17 b742 57/2 27 57add6,hook
+Renee Rapp,Too Well,20s,C,dorian,Cm Eb Bb Fm,1 3 7 4,hook
+Renee Rapp,In The Kitchen,20s,Bb,mixolydian,Bbm Ab Ebm6 D6,1 7 46 b46add6,hook
+Tyla,Water,20s,D#,minor,Abm6 Bbm7,4add6 57,hook
+Victoria Monet,On My Mama,20s,E,minor,Em7 Am7 Bm7 C7 Bm7 Am7 Em7 Am7 Bm7 C7 Bm7 Am7 Em7 Am7 Bm7 C7 Bm7 Am7,17 47 57 67 57 47 17 47 57 67 57 47 17 47 57 67 57 47,hook
+Victoria Monet,Jaguar,20s,F#,major,Bbm7 B7,37 47,hook
+Troye Sivan,Rush,20s,Eb,major,Fm Gm Fm Eb Fm7 Gm7 Ab7 Eb7 Fm7 Gm7 Fm7 Fm7 Gm7 Fm7 Eb7,2 3 2 1 27 37 47 17 27 37 27 27 37 27 17,hook
+Troye Sivan,My My My,20s,Db,major,Ab Bbm F#,5 6 4,hook
+Troye Sivan,One Of Your Girls,20s,B,minor,D Bm F#m A Em7 D A6 Bm7 G Em7 D A6 Bm7 G,3 1 5 7 47 3 765 17 6 47 3 76 17 6,hook

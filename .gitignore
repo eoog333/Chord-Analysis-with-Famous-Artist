@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 .env
 *.pdf
+
+# Exclude files containing the user's name
+*정은광*

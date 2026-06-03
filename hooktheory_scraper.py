@@ -151,6 +151,7 @@ def fetch_chords_from_url(artist_slug: str, song_slug: str) -> dict | None:
             "key": tonic,
             "mode": scale,
             "chords": chord_sequence,
+            "relative_chords": sind_seq,
             "section": section,
             "url": url,
         }
@@ -183,6 +184,7 @@ def get_all_songs_for_artist(artist: str) -> list:
                 "key": res["key"],
                 "mode": res["mode"],
                 "chords": res["chords"],
+                "relative_chords": res["relative_chords"],
                 "url": res["url"],
             })
     return results
